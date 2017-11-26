@@ -2,749 +2,1009 @@
     "source": "in.c-afnhk.pouzite_diagnozy",
     "destination": "diagnozy.pouzite",
     "page": {
-        "last": true,
+        "last": false,
         "number": 11
     },
     "items": [
         {
-            "diagnoza_kod": "D731",
+            "diagnoza_kod": "L308",
             "diagnoza_znak": "",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "",
             "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Hypersplenismus",
+            "diagnoza_nazev": "Jin\u00e1 ur\u010den\u00e1 dermatitida",
+            "diagnoza_skupina": "L",
+            "diagnoza_skupina_nazev": "Nemoci kuze a podkozniho vaziva"
+        },
+        {
+            "diagnoza_kod": "K603",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "\u0158itn\u00ed p\u00ed\u0161t\u011bl",
+            "diagnoza_skupina": "K",
+            "diagnoza_skupina_nazev": "Nemoci travici soustavy"
+        },
+        {
+            "diagnoza_kod": "F412",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Sm\u00ed\u0161en\u00e1 \u00fazkostn\u00e1 a depresivn\u00ed porucha",
+            "diagnoza_skupina": "F",
+            "diagnoza_skupina_nazev": "Nemoci dusevni a poruchy chovani"
+        },
+        {
+            "diagnoza_kod": "S5210",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "\"Zlomenina horn\u00edho konce radia",
+            "diagnoza_skupina": "S",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
+        },
+        {
+            "diagnoza_kod": "D643",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e9 sideroblastick\u00e9 anemie",
             "diagnoza_skupina": "D",
             "diagnoza_skupina_nazev": "Novotvary"
         },
         {
-            "diagnoza_kod": "I781",
+            "diagnoza_kod": "Z354",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "F",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Dohled nad t\u011bhotenstv\u00edm \u017eeny, kter\u00e1 mnohokr\u00e1t rodila",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "E114",
+            "diagnoza_znak": "+",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "DM nez\u00e1visl\u00fd na inzulinu s neurologick\u00fdmi komplikacemi",
+            "diagnoza_skupina": "E",
+            "diagnoza_skupina_nazev": "Nemoci endokrinni a metabolicke"
+        },
+        {
+            "diagnoza_kod": "T861",
             "diagnoza_znak": "",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "",
             "diagnoza_vek_do": "",
-            "diagnoza_nazev": "N\u00e9vus, nen\u00e1dorov\u00fd",
-            "diagnoza_skupina": "I",
-            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
+            "diagnoza_nazev": "Ne\u00fasp\u011bch a odm\u00edtnut\u00ed (rejekce) transplant\u00e1tu ledviny",
+            "diagnoza_skupina": "T",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
         },
         {
-            "diagnoza_kod": "P589",
+            "diagnoza_kod": "E782",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Sm\u00ed\u0161en\u00e1 hyperlipidemie",
+            "diagnoza_skupina": "E",
+            "diagnoza_skupina_nazev": "Nemoci endokrinni a metabolicke"
+        },
+        {
+            "diagnoza_kod": "P221",
             "diagnoza_znak": "",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "1",
             "diagnoza_vek_do": "99",
-            "diagnoza_nazev": "Novorozeneck\u00e1 \u017eloutenka zp\u016fsoben\u00e1 nadm\u011brnou hemol\u00fdzou NS",
+            "diagnoza_nazev": "P\u0159echodn\u00e1 tachypnoe novorozence",
             "diagnoza_skupina": "P",
             "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
         },
         {
-            "diagnoza_kod": "E211",
+            "diagnoza_kod": "L038",
             "diagnoza_znak": "",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "",
             "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Sekund\u00e1rn\u00ed hyperparatyre\u00f3za neza\u0159aditeln\u00e1 jinam",
-            "diagnoza_skupina": "E",
-            "diagnoza_skupina_nazev": "Nemoci endokrinni a metabolicke"
+            "diagnoza_nazev": "Flegm\u00f3na - celulitida - jin\u00fdch lokalizac\u00ed",
+            "diagnoza_skupina": "L",
+            "diagnoza_skupina_nazev": "Nemoci kuze a podkozniho vaziva"
         },
         {
-            "diagnoza_kod": "E136",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Jin\u00fd ur\u010den\u00fd diabetes mellitus s jin\u00fdmi ur\u010den\u00fdmi komplikacemi",
-            "diagnoza_skupina": "E",
-            "diagnoza_skupina_nazev": "Nemoci endokrinni a metabolicke"
-        },
-        {
-            "diagnoza_kod": "R160",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Hepatomegalie - zv\u011bt\u0161en\u00ed jater, NJ",
-            "diagnoza_skupina": "R",
-            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
-        },
-        {
-            "diagnoza_kod": "O049",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "F",
-            "diagnoza_vek_od": "0",
-            "diagnoza_vek_do": "10",
-            "diagnoza_nazev": "\"L\u00e9ka\u0159sk\u00fd portat",
-            "diagnoza_skupina": "O",
-            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
-        },
-        {
-            "diagnoza_kod": "D630",
-            "diagnoza_znak": "*",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Anemie p\u0159i onemocn\u011bn\u00edch novotvary (C00-D48+)",
-            "diagnoza_skupina": "D",
-            "diagnoza_skupina_nazev": "Novotvary"
-        },
-        {
-            "diagnoza_kod": "I211",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Akutn\u00ed transmur\u00e1ln\u00ed infarkt myokardu spodn\u00ed (doln\u00ed) st\u011bny",
-            "diagnoza_skupina": "I",
-            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
-        },
-        {
-            "diagnoza_kod": "K928",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Jin\u00e9 ur\u010den\u00e9 nemoci tr\u00e1vic\u00ed soustavy",
-            "diagnoza_skupina": "K",
-            "diagnoza_skupina_nazev": "Nemoci travici soustavy"
-        },
-        {
-            "diagnoza_kod": "Z421",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "N\u00e1sledn\u00e1 p\u00e9\u010de zahrnuj\u00edc\u00ed plastick\u00e9 opera\u010dn\u00ed v\u00fdkony prsu",
-            "diagnoza_skupina": "Z",
-            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
-        },
-        {
-            "diagnoza_kod": "R480",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Dyslexie a alexie",
-            "diagnoza_skupina": "R",
-            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
-        },
-        {
-            "diagnoza_kod": "S4220",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "\"Zlomenina horn\u00edho konce pa\u017en\u00ed kosti",
-            "diagnoza_skupina": "S",
-            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
-        },
-        {
-            "diagnoza_kod": "G912",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Hydrocefalus s norm\u00e1ln\u00edm tlakem",
-            "diagnoza_skupina": "G",
-            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
-        },
-        {
-            "diagnoza_kod": "C381",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "ZN - p\u0159edn\u00ed mediastinum",
-            "diagnoza_skupina": "C",
-            "diagnoza_skupina_nazev": "Novotvary"
-        },
-        {
-            "diagnoza_kod": "Z400",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Profylaktick\u00fd opera\u010dn\u00ed v\u00fdkon pro rizikov\u00e9 faktory (ZN)",
-            "diagnoza_skupina": "Z",
-            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
-        },
-        {
-            "diagnoza_kod": "I493",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "P\u0159ed\u010dasn\u00e1 depolarizace komor",
-            "diagnoza_skupina": "I",
-            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
-        },
-        {
-            "diagnoza_kod": "N133",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Jin\u00e1 a neur\u010den\u00e1 hydronefr\u00f3za",
-            "diagnoza_skupina": "N",
-            "diagnoza_skupina_nazev": "Nemoci mocove a pohlavni soustavy"
-        },
-        {
-            "diagnoza_kod": "S311",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Otev\u0159en\u00e1 r\u00e1na b\u0159i\u0161n\u00ed st\u011bny",
-            "diagnoza_skupina": "S",
-            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
-        },
-        {
-            "diagnoza_kod": "A410",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Sepse, p\u016fvodce: Staphylococcus aureus",
-            "diagnoza_skupina": "A",
-            "diagnoza_skupina_nazev": "Infekcni a parizitarni nemoci"
-        },
-        {
-            "diagnoza_kod": "J158",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Jin\u00fd bakteri\u00e1ln\u00ed z\u00e1n\u011bt plic",
-            "diagnoza_skupina": "J",
-            "diagnoza_skupina_nazev": "Nemoci dychaci soustavy"
-        },
-        {
-            "diagnoza_kod": "S610",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Otev\u0159en\u00e1 r\u00e1na prstu(-\u016f) ruky bez po\u0161kozen\u00ed nehtu",
-            "diagnoza_skupina": "S",
-            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
-        },
-        {
-            "diagnoza_kod": "M0096",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "\"Pyogenn\u00ed artritida NS",
-            "diagnoza_skupina": "M",
-            "diagnoza_skupina_nazev": "Nemoci svalove a kosterni soustavy"
-        },
-        {
-            "diagnoza_kod": "J351",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Hypertrofie mandl\u00ed",
-            "diagnoza_skupina": "J",
-            "diagnoza_skupina_nazev": "Nemoci dychaci soustavy"
-        },
-        {
-            "diagnoza_kod": "D686",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Jin\u00e9 trombofilie",
-            "diagnoza_skupina": "D",
-            "diagnoza_skupina_nazev": "Novotvary"
-        },
-        {
-            "diagnoza_kod": "I519",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Nemoc srdce NS",
-            "diagnoza_skupina": "I",
-            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
-        },
-        {
-            "diagnoza_kod": "G35",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Roztrou\u0161en\u00e1 skler\u00f3za - sclerosis multiplex",
-            "diagnoza_skupina": "G",
-            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
-        },
-        {
-            "diagnoza_kod": "T817",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "C\u00e9vn\u00ed komplikace po v\u00fdkonu, NJ",
-            "diagnoza_skupina": "T",
-            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
-        },
-        {
-            "diagnoza_kod": "C341",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "ZN - horn\u00ed lalok, bronchus nebo pl\u00edce",
-            "diagnoza_skupina": "C",
-            "diagnoza_skupina_nazev": "Novotvary"
-        },
-        {
-            "diagnoza_kod": "Z532",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "V\u00fdkon neproveden pro rozhodnut\u00ed pacienta z jin\u00fdch a neur\u010den\u00fdch d\u016fvod\u016f",
-            "diagnoza_skupina": "Z",
-            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
-        },
-        {
-            "diagnoza_kod": "I651",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Okluze a sten\u00f3za tepny bazil\u00e1rn\u00ed",
-            "diagnoza_skupina": "I",
-            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
-        },
-        {
-            "diagnoza_kod": "O300",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "F",
-            "diagnoza_vek_od": "0",
-            "diagnoza_vek_do": "10",
-            "diagnoza_nazev": "T\u011bhotenstv\u00ed dvoj\u010detn\u00e9",
-            "diagnoza_skupina": "O",
-            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
-        },
-        {
-            "diagnoza_kod": "O681",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "F",
-            "diagnoza_vek_od": "0",
-            "diagnoza_vek_do": "10",
-            "diagnoza_nazev": "Porod komplikovan\u00fd mekoniem v plodov\u00e9 vod\u011b",
-            "diagnoza_skupina": "O",
-            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
-        },
-        {
-            "diagnoza_kod": "K429",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Pupe\u010dn\u00ed k\u00fdla bez nepr\u016fchodnosti nebo gangr\u00e9ny",
-            "diagnoza_skupina": "K",
-            "diagnoza_skupina_nazev": "Nemoci travici soustavy"
-        },
-        {
-            "diagnoza_kod": "K912",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Poopera\u010dn\u00ed malabsorpce, NJ",
-            "diagnoza_skupina": "K",
-            "diagnoza_skupina_nazev": "Nemoci travici soustavy"
-        },
-        {
-            "diagnoza_kod": "T884",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Ne\u00fasp\u011b\u0161n\u00e1 nebo obt\u00ed\u017en\u00e1 intubace",
-            "diagnoza_skupina": "T",
-            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
-        },
-        {
-            "diagnoza_kod": "G822",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Paraplegie NS",
-            "diagnoza_skupina": "G",
-            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
-        },
-        {
-            "diagnoza_kod": "D27",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "F",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Nezhoubn\u00fd novotvar vaje\u010dn\u00edku",
-            "diagnoza_skupina": "D",
-            "diagnoza_skupina_nazev": "Novotvary"
-        },
-        {
-            "diagnoza_kod": "R401",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Ztrnulost - stupor",
-            "diagnoza_skupina": "R",
-            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
-        },
-        {
-            "diagnoza_kod": "A020",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Salmonelov\u00e1 enteritis",
-            "diagnoza_skupina": "A",
-            "diagnoza_skupina_nazev": "Infekcni a parizitarni nemoci"
-        },
-        {
-            "diagnoza_kod": "O995",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "F",
-            "diagnoza_vek_od": "0",
-            "diagnoza_vek_do": "10",
-            "diagnoza_nazev": "Nemoci d\u00fdchac\u00ed soust. kompl. t\u011bhotenstv\u00ed, porod a \u0161estined\u011bl\u00ed",
-            "diagnoza_skupina": "O",
-            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
-        },
-        {
-            "diagnoza_kod": "S4201",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "\"Zlomenina kl\u00ed\u010dn\u00ed kosti",
-            "diagnoza_skupina": "S",
-            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
-        },
-        {
-            "diagnoza_kod": "A46",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "R\u016f\u017ee - erysipelas",
-            "diagnoza_skupina": "A",
-            "diagnoza_skupina_nazev": "Infekcni a parizitarni nemoci"
-        },
-        {
-            "diagnoza_kod": "I270",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Prim\u00e1rn\u00ed plicn\u00ed hypertenze",
-            "diagnoza_skupina": "I",
-            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
-        },
-        {
-            "diagnoza_kod": "Z513",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Transfuze krve (bez uveden\u00ed diagn\u00f3zy)",
-            "diagnoza_skupina": "Z",
-            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
-        },
-        {
-            "diagnoza_kod": "O640",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "F",
-            "diagnoza_vek_od": "0",
-            "diagnoza_vek_do": "10",
-            "diagnoza_nazev": "Poruchy mechanizmu porodu zp\u016fsoben\u00e9 ne\u00faplnou rotac\u00ed hlavi\u010dky plodu",
-            "diagnoza_skupina": "O",
-            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
-        },
-        {
-            "diagnoza_kod": "O268",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "F",
-            "diagnoza_vek_od": "0",
-            "diagnoza_vek_do": "10",
-            "diagnoza_nazev": "Jin\u00e9 ur\u010den\u00e9 stavy spojen\u00e9 s t\u011bhotenstv\u00edm",
-            "diagnoza_skupina": "O",
-            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
-        },
-        {
-            "diagnoza_kod": "O901",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "F",
-            "diagnoza_vek_od": "0",
-            "diagnoza_vek_do": "10",
-            "diagnoza_nazev": "Dehiscence nebo rozpad porodnick\u00e9 r\u00e1ny perinea",
-            "diagnoza_skupina": "O",
-            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
-        },
-        {
-            "diagnoza_kod": "K295",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Chronick\u00e1 gastritida NS",
-            "diagnoza_skupina": "K",
-            "diagnoza_skupina_nazev": "Nemoci travici soustavy"
-        },
-        {
-            "diagnoza_kod": "G409",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Epilepsie NS",
-            "diagnoza_skupina": "G",
-            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
-        },
-        {
-            "diagnoza_kod": "C160",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "ZN - kardie",
-            "diagnoza_skupina": "C",
-            "diagnoza_skupina_nazev": "Novotvary"
-        },
-        {
-            "diagnoza_kod": "I083",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Kombinovan\u00e1 posti\u017een\u00ed chlopn\u00ed dvojc\u00edp\u00e9, aort\u00e1ln\u00ed a trojc\u00edp\u00e9",
-            "diagnoza_skupina": "I",
-            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
-        },
-        {
-            "diagnoza_kod": "Q650",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Vrozen\u00e9 jednostrann\u00e9 vyklouben\u00ed ky\u010dle",
-            "diagnoza_skupina": "Q",
-            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
-        },
-        {
-            "diagnoza_kod": "Z505",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "L\u00e9\u010dba \u0159e\u010di",
-            "diagnoza_skupina": "Z",
-            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
-        },
-        {
-            "diagnoza_kod": "G518",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Jin\u00e9 poruchy l\u00edcn\u00edho nervu",
-            "diagnoza_skupina": "G",
-            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
-        },
-        {
-            "diagnoza_kod": "K769",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Nemoc jater NS",
-            "diagnoza_skupina": "K",
-            "diagnoza_skupina_nazev": "Nemoci travici soustavy"
-        },
-        {
-            "diagnoza_kod": "R779",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Abnormalita plazmatick\u00e9 b\u00edlkoviny NS",
-            "diagnoza_skupina": "R",
-            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
-        },
-        {
-            "diagnoza_kod": "K573",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Divertikul\u00e1rn\u00ed nemoc tlust\u00e9ho st\u0159eva bez perforace n.abscesu",
-            "diagnoza_skupina": "K",
-            "diagnoza_skupina_nazev": "Nemoci travici soustavy"
-        },
-        {
-            "diagnoza_kod": "F430",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Akutn\u00ed stresov\u00e1 reakce",
-            "diagnoza_skupina": "F",
-            "diagnoza_skupina_nazev": "Nemoci dusevni a poruchy chovani"
-        },
-        {
-            "diagnoza_kod": "N185",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Chronick\u00e9 onemocn\u011bn\u00ed ledvin, stadium 5",
-            "diagnoza_skupina": "N",
-            "diagnoza_skupina_nazev": "Nemoci mocove a pohlavni soustavy"
-        },
-        {
-            "diagnoza_kod": "G930",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Mozkov\u00e9 cysty",
-            "diagnoza_skupina": "G",
-            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
-        },
-        {
-            "diagnoza_kod": "F602",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Disoci\u00e1ln\u00ed porucha osobnosti",
-            "diagnoza_skupina": "F",
-            "diagnoza_skupina_nazev": "Nemoci dusevni a poruchy chovani"
-        },
-        {
-            "diagnoza_kod": "F321",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "St\u0159edn\u011b t\u011b\u017ek\u00e1 depresivn\u00ed f\u00e1ze",
-            "diagnoza_skupina": "F",
-            "diagnoza_skupina_nazev": "Nemoci dusevni a poruchy chovani"
-        },
-        {
-            "diagnoza_kod": "B971",
+            "diagnoza_kod": "U822",
             "diagnoza_znak": "-",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "",
             "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Enterovirus, jako p\u0159\u00ed\u010dina nemoci za\u0159azen\u00e9 do jin\u00fdch kapitol",
-            "diagnoza_skupina": "B",
-            "diagnoza_skupina_nazev": "Infekcni a parizitarni nemoci"
+            "diagnoza_nazev": "Rezistence zprost\u0159edkovan\u00e1 \u0161irokospektr\u00fdmi beta-laktam\u00e1zami (ESBL)",
+            "diagnoza_skupina": "U",
+            "diagnoza_skupina_nazev": ""
         },
         {
-            "diagnoza_kod": "H409",
+            "diagnoza_kod": "M179",
             "diagnoza_znak": "",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "",
             "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Glaukom NS",
-            "diagnoza_skupina": "H",
-            "diagnoza_skupina_nazev": "Nemoci oka a ocnich adnex, nemoci ucha"
+            "diagnoza_nazev": "Gonartr\u00f3za NS",
+            "diagnoza_skupina": "M",
+            "diagnoza_skupina_nazev": "Nemoci svalove a kosterni soustavy"
         },
         {
-            "diagnoza_kod": "K219",
+            "diagnoza_kod": "K561",
             "diagnoza_znak": "",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "",
             "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Gastroezofage\u00e1ln\u00ed refluxn\u00ed onemocn\u011bn\u00ed bez ezofagitidy",
+            "diagnoza_nazev": "Intususcepce",
             "diagnoza_skupina": "K",
             "diagnoza_skupina_nazev": "Nemoci travici soustavy"
         },
         {
-            "diagnoza_kod": "C787",
+            "diagnoza_kod": "R771",
             "diagnoza_znak": "",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "",
             "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Sekund\u00e1rn\u00ed ZN jater",
-            "diagnoza_skupina": "C",
-            "diagnoza_skupina_nazev": "Novotvary"
-        },
-        {
-            "diagnoza_kod": "I429",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Kardiomyopatie NS",
-            "diagnoza_skupina": "I",
-            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
-        },
-        {
-            "diagnoza_kod": "G301",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Alzheimerova nemoc s pozdn\u00edm za\u010d\u00e1tkem",
-            "diagnoza_skupina": "G",
-            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
-        },
-        {
-            "diagnoza_kod": "E871",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Hypoosmolalita a hyponatremie",
-            "diagnoza_skupina": "E",
-            "diagnoza_skupina_nazev": "Nemoci endokrinni a metabolicke"
-        },
-        {
-            "diagnoza_kod": "R42",
-            "diagnoza_znak": "",
-            "diagnoza_pohlavi": "NULL",
-            "diagnoza_vek_od": "",
-            "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Z\u00e1vra\u0165 - vertigo",
+            "diagnoza_nazev": "Abnormalita globulinu",
             "diagnoza_skupina": "R",
             "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
         },
         {
-            "diagnoza_kod": "I676",
+            "diagnoza_kod": "D360",
             "diagnoza_znak": "",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "",
             "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Nehnisav\u00e1 tromb\u00f3za nitrolebn\u00edho \u017eiln\u00edho syst\u00e9mu",
-            "diagnoza_skupina": "I",
-            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
+            "diagnoza_nazev": "Nezhoubn\u00fd novotvar - m\u00edzn\u00ed uzliny",
+            "diagnoza_skupina": "D",
+            "diagnoza_skupina_nazev": "Novotvary"
         },
         {
-            "diagnoza_kod": "F050",
+            "diagnoza_kod": "Z511",
             "diagnoza_znak": "",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "",
             "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Delirium, kter\u00e9 nenased\u00e1 na demenci, takto popsan\u00e9",
+            "diagnoza_nazev": "Chemoterapeutick\u00fd cyklus pro novotvar",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "Z763",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Zdrav\u00e1 osoba doprov\u00e1zej\u00edc\u00ed nemocnou osobu",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "G632",
+            "diagnoza_znak": "*",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Diabetick\u00e1 neuropatie p\u0159i nem.(E10-E14+ s char. 4 na \u010dtvrt\u00e9m m\u00edst\u011b)",
+            "diagnoza_skupina": "G",
+            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
+        },
+        {
+            "diagnoza_kod": "Z720",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "U\u017e\u00edv\u00e1n\u00ed tab\u00e1ku",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "N393",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Stresov\u00e1 inkontinence",
+            "diagnoza_skupina": "N",
+            "diagnoza_skupina_nazev": "Nemoci mocove a pohlavni soustavy"
+        },
+        {
+            "diagnoza_kod": "T812",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "N\u00e1hod.bod.n.tr\u017e.poran\u011bn\u00ed p\u0159i v\u00fdkonu, NJ",
+            "diagnoza_skupina": "T",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
+        },
+        {
+            "diagnoza_kod": "F314",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Bipol\u00e1rn\u00ed afektivn\u00ed por., sou\u010d.f\u00e1ze t\u011b\u017ek\u00e1 deprese bez psychot. sympt.",
             "diagnoza_skupina": "F",
             "diagnoza_skupina_nazev": "Nemoci dusevni a poruchy chovani"
         },
         {
-            "diagnoza_kod": "D352",
+            "diagnoza_kod": "O318",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "F",
+            "diagnoza_vek_od": "0",
+            "diagnoza_vek_do": "10",
+            "diagnoza_nazev": "Jin\u00e9 komplikace mnoho\u010detn\u00e9ho t\u011bhotenstv\u00ed",
+            "diagnoza_skupina": "O",
+            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
+        },
+        {
+            "diagnoza_kod": "S018",
             "diagnoza_znak": "",
             "diagnoza_pohlavi": "NULL",
             "diagnoza_vek_od": "",
             "diagnoza_vek_do": "",
-            "diagnoza_nazev": "Nezhoubn\u00fd novotvar - hypof\u00fdza - glandula pituitaria",
+            "diagnoza_nazev": "Otev\u0159en\u00e1 r\u00e1na jin\u00fdch \u010d\u00e1st\u00ed hlavy",
+            "diagnoza_skupina": "S",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
+        },
+        {
+            "diagnoza_kod": "N736",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "F",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "P\u00e1nevn\u00ed peritone\u00e1ln\u00ed sr\u016fsty u \u017een",
+            "diagnoza_skupina": "N",
+            "diagnoza_skupina_nazev": "Nemoci mocove a pohlavni soustavy"
+        },
+        {
+            "diagnoza_kod": "Z854",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Zhoubn\u00fd novotvar pohlavn\u00edch org\u00e1n\u016f v osobn\u00ed anamn\u00e9ze",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "S860",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Poran\u011bn\u00ed Achillovy \u0161lachy",
+            "diagnoza_skupina": "S",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
+        },
+        {
+            "diagnoza_kod": "C712",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "ZN - sp\u00e1nkov\u00fd lalok - lobus temporalis",
+            "diagnoza_skupina": "C",
+            "diagnoza_skupina_nazev": "Novotvary"
+        },
+        {
+            "diagnoza_kod": "G911",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Obstruk\u010dn\u00ed hydrocefalus",
+            "diagnoza_skupina": "G",
+            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
+        },
+        {
+            "diagnoza_kod": "S410",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Otev\u0159en\u00e1 r\u00e1na ramene",
+            "diagnoza_skupina": "S",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
+        },
+        {
+            "diagnoza_kod": "S508",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e1 povrchn\u00ed poran\u011bn\u00ed p\u0159edlokt\u00ed",
+            "diagnoza_skupina": "S",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
+        },
+        {
+            "diagnoza_kod": "B968",
+            "diagnoza_znak": "-",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e1 bakteri\u00e1l.agens, jako p\u0159\u00ed\u010dina nemoci za\u0159azen\u00e9 do jin\u00fdch kapitol",
+            "diagnoza_skupina": "B",
+            "diagnoza_skupina_nazev": "Infekcni a parizitarni nemoci"
+        },
+        {
+            "diagnoza_kod": "M2380",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "\"Jin\u00e9.vnit\u0159n\u00ed poran.kolenn\u00edho kloubu",
+            "diagnoza_skupina": "M",
+            "diagnoza_skupina_nazev": "Nemoci svalove a kosterni soustavy"
+        },
+        {
+            "diagnoza_kod": "P590",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "1",
+            "diagnoza_vek_do": "99",
+            "diagnoza_nazev": "Novorozeneck\u00e1 \u017eloutenka sdru\u017een\u00e1 s p\u0159ed\u010dasn\u00fdm porodem",
+            "diagnoza_skupina": "P",
+            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
+        },
+        {
+            "diagnoza_kod": "E834",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Poruchy metabolizmu magnezia",
+            "diagnoza_skupina": "E",
+            "diagnoza_skupina_nazev": "Nemoci endokrinni a metabolicke"
+        },
+        {
+            "diagnoza_kod": "C251",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "ZN - t\u011blo slinivky b\u0159i\u0161n\u00ed - corpus pancreatis",
+            "diagnoza_skupina": "C",
+            "diagnoza_skupina_nazev": "Novotvary"
+        },
+        {
+            "diagnoza_kod": "B963",
+            "diagnoza_znak": "-",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Haemophilus influenzae, jako p\u0159\u00ed\u010dina nemoci za\u0159azen\u00e9 do j. kapitol",
+            "diagnoza_skupina": "B",
+            "diagnoza_skupina_nazev": "Infekcni a parizitarni nemoci"
+        },
+        {
+            "diagnoza_kod": "P928",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "1",
+            "diagnoza_vek_do": "99",
+            "diagnoza_nazev": "Jin\u00e9 probl\u00e9my s krmen\u00edm u novorozence",
+            "diagnoza_skupina": "P",
+            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
+        },
+        {
+            "diagnoza_kod": "T887",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Neur\u010den\u00fd nep\u0159\u00edzniv\u00fd \u00fa\u010dinek l\u00e9\u010diva",
+            "diagnoza_skupina": "T",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
+        },
+        {
+            "diagnoza_kod": "C56",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "F",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Zhoubn\u00fd novotvar vaje\u010dn\u00edku",
+            "diagnoza_skupina": "C",
+            "diagnoza_skupina_nazev": "Novotvary"
+        },
+        {
+            "diagnoza_kod": "R590",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Lokalizovan\u00e9 zv\u011bt\u0161en\u00ed m\u00edzn\u00edch uzlin",
+            "diagnoza_skupina": "R",
+            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
+        },
+        {
+            "diagnoza_kod": "I110",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Hypertenzn\u00ed nemoc srdce s (m\u011bstnav\u00fdm) srde\u010dn\u00edm selh\u00e1n\u00edm",
+            "diagnoza_skupina": "I",
+            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
+        },
+        {
+            "diagnoza_kod": "S4240",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "\"Zlomenina doln\u00edho konce pa\u017en\u00ed kosti",
+            "diagnoza_skupina": "S",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
+        },
+        {
+            "diagnoza_kod": "Z880",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Alergie na penicilin v osobn\u00ed anamn\u00e9ze",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "P618",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "1",
+            "diagnoza_vek_do": "99",
+            "diagnoza_nazev": "Jin\u00e9 ur\u010den\u00e9 perinat\u00e1ln\u00ed hematologick\u00e9 poruchy",
+            "diagnoza_skupina": "P",
+            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
+        },
+        {
+            "diagnoza_kod": "Q898",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e9 ur\u010den\u00e9 vrozen\u00e9 vady",
+            "diagnoza_skupina": "Q",
+            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
+        },
+        {
+            "diagnoza_kod": "Z921",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Dlouhodob\u00e9 u\u017e\u00edv\u00e1n\u00ed antikoagulanci\u00ed v osobn\u00ed anamn\u00e9ze",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "R270",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Ataxie NS",
+            "diagnoza_skupina": "R",
+            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
+        },
+        {
+            "diagnoza_kod": "J458",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Sm\u00ed\u0161en\u00e9 astma",
+            "diagnoza_skupina": "J",
+            "diagnoza_skupina_nazev": "Nemoci dychaci soustavy"
+        },
+        {
+            "diagnoza_kod": "C20",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Zhoubn\u00fd novotvar kone\u010dn\u00edku - recta",
+            "diagnoza_skupina": "C",
+            "diagnoza_skupina_nazev": "Novotvary"
+        },
+        {
+            "diagnoza_kod": "H55",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Nystagmus a jin\u00e9 nepravideln\u011b pohyby oka",
+            "diagnoza_skupina": "H",
+            "diagnoza_skupina_nazev": "Nemoci oka a ocnich adnex, nemoci ucha"
+        },
+        {
+            "diagnoza_kod": "H100",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Mukopurulentn\u00ed konjunktivitida",
+            "diagnoza_skupina": "H",
+            "diagnoza_skupina_nazev": "Nemoci oka a ocnich adnex, nemoci ucha"
+        },
+        {
+            "diagnoza_kod": "E790",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Hyperurikemie bez zn\u00e1mek z\u00e1n\u011btliv\u00e9 artritidy a tof\u016f",
+            "diagnoza_skupina": "E",
+            "diagnoza_skupina_nazev": "Nemoci endokrinni a metabolicke"
+        },
+        {
+            "diagnoza_kod": "R509",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Hore\u010dka NS",
+            "diagnoza_skupina": "R",
+            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
+        },
+        {
+            "diagnoza_kod": "Z958",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "P\u0159\u00edtomnost jin\u00fdch srde\u010dn\u00edch a c\u00e9vn\u00edch implant\u00e1t\u016f a transplant\u00e1t\u016f",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "R02",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Gangr\u00e9na NJ",
+            "diagnoza_skupina": "R",
+            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
+        },
+        {
+            "diagnoza_kod": "N10",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Akutn\u00ed tubulo-interstici\u00e1ln\u00ed nefritida",
+            "diagnoza_skupina": "N",
+            "diagnoza_skupina_nazev": "Nemoci mocove a pohlavni soustavy"
+        },
+        {
+            "diagnoza_kod": "N342",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e1 uretritida",
+            "diagnoza_skupina": "N",
+            "diagnoza_skupina_nazev": "Nemoci mocove a pohlavni soustavy"
+        },
+        {
+            "diagnoza_kod": "M2322",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "\"Porucha menisku zp\u016fs.star.poran.",
+            "diagnoza_skupina": "M",
+            "diagnoza_skupina_nazev": "Nemoci svalove a kosterni soustavy"
+        },
+        {
+            "diagnoza_kod": "C831",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Lymfom z pl\u00e1\u0161\u0165ov\u00e9 z\u00f3ny",
+            "diagnoza_skupina": "C",
+            "diagnoza_skupina_nazev": "Novotvary"
+        },
+        {
+            "diagnoza_kod": "D300",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Nezhoubn\u00fd novotvar - ledvina",
             "diagnoza_skupina": "D",
             "diagnoza_skupina_nazev": "Novotvary"
+        },
+        {
+            "diagnoza_kod": "G938",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e9 ur\u010den\u00e9 poruchy mozku",
+            "diagnoza_skupina": "G",
+            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
+        },
+        {
+            "diagnoza_kod": "H521",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Myopie - kr\u00e1tkozrakost",
+            "diagnoza_skupina": "H",
+            "diagnoza_skupina_nazev": "Nemoci oka a ocnich adnex, nemoci ucha"
+        },
+        {
+            "diagnoza_kod": "R040",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Krv\u00e1cen\u00ed z nosu - epistaxis",
+            "diagnoza_skupina": "R",
+            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
+        },
+        {
+            "diagnoza_kod": "G061",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Intraspin\u00e1ln\u00ed absces a granulom",
+            "diagnoza_skupina": "G",
+            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
+        },
+        {
+            "diagnoza_kod": "Z968",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "P\u0159\u00edtomnost jin\u00fdch ur\u010den\u00fdch funk\u010dn\u00edch implant\u00e1t\u016f",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "N434",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "M",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Spermatok\u00e9la",
+            "diagnoza_skupina": "N",
+            "diagnoza_skupina_nazev": "Nemoci mocove a pohlavni soustavy"
+        },
+        {
+            "diagnoza_kod": "Z894",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Z\u00edskan\u00e9 chyb\u011bn\u00ed nohy pod kotn\u00edkem a kotn\u00edku",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "G931",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Anoxick\u00e9 po\u0161kozen\u00ed mozku neza\u0159aditeln\u00e9 jinam",
+            "diagnoza_skupina": "G",
+            "diagnoza_skupina_nazev": "Nemoci nervove soustavy"
+        },
+        {
+            "diagnoza_kod": "C343",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "ZN - doln\u00ed lalok, bronchus nebo pl\u00edce",
+            "diagnoza_skupina": "C",
+            "diagnoza_skupina_nazev": "Novotvary"
+        },
+        {
+            "diagnoza_kod": "O440",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "F",
+            "diagnoza_vek_od": "0",
+            "diagnoza_vek_do": "10",
+            "diagnoza_nazev": "Placenta praevia bez krv\u00e1cen\u00ed",
+            "diagnoza_skupina": "O",
+            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
+        },
+        {
+            "diagnoza_kod": "B181",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Chronick\u00e1 virov\u00e1 hepatitida B bez Delta agens",
+            "diagnoza_skupina": "B",
+            "diagnoza_skupina_nazev": "Infekcni a parizitarni nemoci"
+        },
+        {
+            "diagnoza_kod": "Z200",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Kontakt se st\u0159evn\u00edmi infek\u010dn\u00edmi nemocemi a expozice",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "J36",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Peritonzil\u00e1rn\u00ed absces - abscessus peritonsillaris",
+            "diagnoza_skupina": "J",
+            "diagnoza_skupina_nazev": "Nemoci dychaci soustavy"
+        },
+        {
+            "diagnoza_kod": "S451",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Poran\u011bn\u00ed pa\u017en\u00ed - brachi\u00e1ln\u00ed - tepny",
+            "diagnoza_skupina": "S",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
+        },
+        {
+            "diagnoza_kod": "R620",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Zpo\u017ed\u011bn\u00e9 dosa\u017een\u00ed p\u0159edpokl\u00e1dan\u00e9ho fyziologick\u00e9ho v\u00fdvojov\u00e9ho stadia",
+            "diagnoza_skupina": "R",
+            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
+        },
+        {
+            "diagnoza_kod": "R263",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Imobilita",
+            "diagnoza_skupina": "R",
+            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
+        },
+        {
+            "diagnoza_kod": "E878",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e9 poruchy elektrolyt\u016f a tekutin NJ",
+            "diagnoza_skupina": "E",
+            "diagnoza_skupina_nazev": "Nemoci endokrinni a metabolicke"
+        },
+        {
+            "diagnoza_kod": "Z955",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "P\u0159\u00edtomnost koron\u00e1rn\u00edho angioplastick\u00e9ho implant\u00e1tu a \u0161t\u011bpu",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "I481",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "P\u0159etrv\u00e1vaj\u00edc\u00ed (perzistentn\u00ed) fibrilace s\u00edn\u00ed",
+            "diagnoza_skupina": "I",
+            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
+        },
+        {
+            "diagnoza_kod": "S661",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Poran\u011bn\u00ed svalu a \u0161lachy flexoru jin\u00e9ho prstu v \u00farovni z\u00e1p\u011bs\u00ed a ruky",
+            "diagnoza_skupina": "S",
+            "diagnoza_skupina_nazev": "Poraneni, otravy, nasledky pusobeni vnejsich pricin"
+        },
+        {
+            "diagnoza_kod": "Z433",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "O\u0161et\u0159en\u00ed kolostomie",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "I678",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e1 ur\u010den\u00e1 c\u00e9vn\u00ed onemocn\u011bn\u00ed mozku",
+            "diagnoza_skupina": "I",
+            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
+        },
+        {
+            "diagnoza_kod": "M171",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e1 prim\u00e1rn\u00ed gonartr\u00f3za",
+            "diagnoza_skupina": "M",
+            "diagnoza_skupina_nazev": "Nemoci svalove a kosterni soustavy"
+        },
+        {
+            "diagnoza_kod": "K625",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Krv\u00e1cen\u00ed z \u0159iti a kone\u010dn\u00edku",
+            "diagnoza_skupina": "K",
+            "diagnoza_skupina_nazev": "Nemoci travici soustavy"
+        },
+        {
+            "diagnoza_kod": "F82",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Specifick\u00e1 v\u00fdvojov\u00e1 porucha motorick\u00fdch funkc\u00ed",
+            "diagnoza_skupina": "F",
+            "diagnoza_skupina_nazev": "Nemoci dusevni a poruchy chovani"
+        },
+        {
+            "diagnoza_kod": "F009",
+            "diagnoza_znak": "*",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Demence u Alzheimerovy nemoci NS (G30.9+)",
+            "diagnoza_skupina": "F",
+            "diagnoza_skupina_nazev": "Nemoci dusevni a poruchy chovani"
+        },
+        {
+            "diagnoza_kod": "L409",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Psori\u00e1za NS",
+            "diagnoza_skupina": "L",
+            "diagnoza_skupina_nazev": "Nemoci kuze a podkozniho vaziva"
+        },
+        {
+            "diagnoza_kod": "B962",
+            "diagnoza_znak": "-",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Escherichia coli, jako p\u0159\u00ed\u010dina nemoci za\u0159azen\u00e9 do jin\u00fdch kapitol",
+            "diagnoza_skupina": "B",
+            "diagnoza_skupina_nazev": "Infekcni a parizitarni nemoci"
+        },
+        {
+            "diagnoza_kod": "F104",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Poruchy zp\u016fsoben\u00e9 alkoholem - odvykac\u00ed stav s deliriem",
+            "diagnoza_skupina": "F",
+            "diagnoza_skupina_nazev": "Nemoci dusevni a poruchy chovani"
+        },
+        {
+            "diagnoza_kod": "H442",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Degenerativn\u00ed myopie",
+            "diagnoza_skupina": "H",
+            "diagnoza_skupina_nazev": "Nemoci oka a ocnich adnex, nemoci ucha"
+        },
+        {
+            "diagnoza_kod": "R220",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Lokalizovan\u00e9 zdu\u0159en\u00ed, \u00fatvar a bulka, hlavy",
+            "diagnoza_skupina": "R",
+            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
+        },
+        {
+            "diagnoza_kod": "Z850",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Zhoubn\u00fd novotvar tr\u00e1vic\u00edc\u00edho \u00fastroj\u00ed v osobn\u00ed anamn\u00e9ze",
+            "diagnoza_skupina": "Z",
+            "diagnoza_skupina_nazev": "Faktory ovlivnujici zdravotni stav"
+        },
+        {
+            "diagnoza_kod": "P271",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "1",
+            "diagnoza_vek_do": "99",
+            "diagnoza_nazev": "Bronchopulmon\u00e1ln\u00ed dysplazie vznikl\u00e1 v perinat\u00e1ln\u00edm obdob\u00ed",
+            "diagnoza_skupina": "P",
+            "diagnoza_skupina_nazev": "Tehotenstvi, porod, sestinedeli, perinatalni stavy, vrozene vady, deformace, malformace"
+        },
+        {
+            "diagnoza_kod": "I251",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Aterosklerotick\u00e1 nemoc (choroba) srde\u010dn\u00ed",
+            "diagnoza_skupina": "I",
+            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
+        },
+        {
+            "diagnoza_kod": "D223",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Melanocytov\u00fd n\u00e9vus jin\u00e9 a neur\u010den\u00e9 \u010d\u00e1sti obli\u010deje",
+            "diagnoza_skupina": "D",
+            "diagnoza_skupina_nazev": "Novotvary"
+        },
+        {
+            "diagnoza_kod": "E160",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Hypoglykemie bez k\u00f3matu, zp\u016fsoben\u00e1 l\u00e9ky",
+            "diagnoza_skupina": "E",
+            "diagnoza_skupina_nazev": "Nemoci endokrinni a metabolicke"
+        },
+        {
+            "diagnoza_kod": "R488",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e9 a neur\u010den\u00e9 znakov\u00e9 poruchy",
+            "diagnoza_skupina": "R",
+            "diagnoza_skupina_nazev": "Priznaky, znaky a nalezy nezarazene jinde"
+        },
+        {
+            "diagnoza_kod": "I272",
+            "diagnoza_znak": "",
+            "diagnoza_pohlavi": "NULL",
+            "diagnoza_vek_od": "",
+            "diagnoza_vek_do": "",
+            "diagnoza_nazev": "Jin\u00e9 sekund\u00e1rn\u00ed plicn\u00ed hypertenze",
+            "diagnoza_skupina": "I",
+            "diagnoza_skupina_nazev": "Nemoci obehove soustavy"
         }
     ]
 }
