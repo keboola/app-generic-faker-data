@@ -10,4 +10,6 @@ docker images
 docker push quay.io/keboola/app-generic-faker:latest
 
 pip install awscli --upgrade --user
-aws ecs run-task --cluster ${AWS_CLUSTER} --started-by TravisCI --task-definition generic_faker
+
+#aws ecs run-task --cluster ${AWS_CLUSTER} --started-by TravisCI --task-definition generic_faker
+aws ecs update-service --cluster ${AWS_CLUSTER} --service generic_faker --task-definition generic_faker
