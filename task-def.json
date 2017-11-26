@@ -1,0 +1,18 @@
+{
+  "containerDefinitions": [
+    {
+      "portMappings": [
+        {
+          "hostPort": 8945,
+          "protocol": "tcp",
+          "containerPort": 80
+        }
+      ],
+      "memoryReservation": 128,
+      "image": "quay.io/keboola/app-generic-faker:latest",
+      "name": "generic-faker-data"
+    }
+  ],
+  "family": "generic_faker",
+  "networkMode": "bridge"
+}
