@@ -15,4 +15,4 @@ pip install awscli --upgrade --user
 COMMAND_RESULT=$(aws ecs register-task-definition --cli-input-json file://${TRAVIS_BUILD_DIR}/task-def.json)
 REVISION=$(echo ${COMMAND_RESULT} | grep -o '"revision": [0-9]*' | grep -o '[0-9]*')
 echo "Using revision ${REVISION}"
-aws ecs update-service --cluster ${AWS_CLUSTER} --service generic_faker --task-definition generic_faker:${REVISION} --task-definition
+aws ecs update-service --cluster ${AWS_CLUSTER} --service generic_faker --task-definition generic_faker:${REVISION}
