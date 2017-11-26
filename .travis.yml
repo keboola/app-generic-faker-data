@@ -1,0 +1,20 @@
+language: bash
+
+services:
+  - docker
+
+script:
+  - git clone https://github.com/keboola/ex-generic-mock-server.git ./server/
+  - rm -rf ./server/data/
+  - git clone https://github.com/keboola/app-generic-faker-data.git ./server/data/
+  - docker build --tag=mock-server ./server/
+
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: ./deploy.sh
+  on:
+    tags: true
+
+notifications:
+  email: false
