@@ -8,3 +8,6 @@ docker tag mock-server quay.io/keboola/app-generic-faker:latest
 docker images
 docker push quay.io/keboola/app-generic-faker:${TRAVIS_TAG}
 docker push quay.io/keboola/app-generic-faker:latest
+
+pip install awscli --upgrade --user
+aws ecs run-task --cluster ${AWS_CLUSTER} --started-by TravisCI --task-definition generic_faker
