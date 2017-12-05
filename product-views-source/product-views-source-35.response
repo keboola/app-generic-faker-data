@@ -1,0 +1,710 @@
+{
+    "source": "in.c-keboola-ex-google-analytics-v4-326477640.product-views-source",
+    "destination": "product-views-source",
+    "page": {
+        "last": false,
+        "number": 35
+    },
+    "items": [
+        {
+            "id": "993cb887dc77f3dfee0f8434b63f4b7df503aeb8",
+            "idProfile": "127868145",
+            "date": "2016-11-29",
+            "productSku": "34",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "2b29a49e9596c5e6c33c6fbb47fffb3bb9e779c1",
+            "idProfile": "127868145",
+            "date": "2016-10-05",
+            "productSku": "18",
+            "productDetailViews": "6"
+        },
+        {
+            "id": "eab2823a5d12e6e7b3ce04d5c4f4b5c857547ee5",
+            "idProfile": "127868145",
+            "date": "2017-09-12",
+            "productSku": "86",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "31a1e0c4e47c358d4b60a2765a7e614a0febffc9",
+            "idProfile": "127868145",
+            "date": "2017-06-08",
+            "productSku": "81",
+            "productDetailViews": "4"
+        },
+        {
+            "id": "9284995cd6eddf59a061fd3659ecd266eb99d3e3",
+            "idProfile": "127868145",
+            "date": "2016-10-09",
+            "productSku": "35",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "f66e313d7160bfc54a03cbf257fad7a1f4cf4fac",
+            "idProfile": "127868145",
+            "date": "2017-04-05",
+            "productSku": "32",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "3fa425389203db482cc862f51f41978c6747638f",
+            "idProfile": "127868145",
+            "date": "2017-08-03",
+            "productSku": "76",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "af0bf96b8147ed122dc118e1ebc35892a832bfc8",
+            "idProfile": "127868145",
+            "date": "2017-04-08",
+            "productSku": "45",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "5e474b00e4d7d0b7f10848b8ed3d6bb637f8e4a0",
+            "idProfile": "127868145",
+            "date": "2016-12-01",
+            "productSku": "32",
+            "productDetailViews": "3"
+        },
+        {
+            "id": "b386dc3ec7a109daded9830396a8ad23e5f67a7f",
+            "idProfile": "127868145",
+            "date": "2016-09-14",
+            "productSku": "16",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "87ce9121a6c65e0fee38e78c686bbe887d1fa61e",
+            "idProfile": "127868145",
+            "date": "2017-07-17",
+            "productSku": "25",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "6178d09dbd74c008769f6481b143ec6b0d09cab7",
+            "idProfile": "127868145",
+            "date": "2017-10-05",
+            "productSku": "66",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "041aa751ab769f2a8701980794a585bd65e9c23a",
+            "idProfile": "127868145",
+            "date": "2017-05-03",
+            "productSku": "86",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "14e52b399642cd9fe5302620cf4c5270f7a44e81",
+            "idProfile": "127868145",
+            "date": "2017-01-22",
+            "productSku": "38",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "bc77741488b2a24dfe4ecec584bd84360532a999",
+            "idProfile": "127868145",
+            "date": "2017-06-09",
+            "productSku": "22",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "30913f6b2334082cf650ba91ba799f1825a180d1",
+            "idProfile": "127868145",
+            "date": "2017-06-25",
+            "productSku": "69",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "45150420757b3c1cb226d2d0b1c04f32eef1d6a0",
+            "idProfile": "127868145",
+            "date": "2017-05-31",
+            "productSku": "103",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "ca025ec80c9cca24d30afb444fed5bd02bf8d415",
+            "idProfile": "127868145",
+            "date": "2017-05-14",
+            "productSku": "95",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "8837e7db46d76fbaa1f7badd89f0bbddf1d18346",
+            "idProfile": "127868145",
+            "date": "2017-03-29",
+            "productSku": "50",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "3b4ab91d077b3fe2c3c4d0c4718a9662558a02a4",
+            "idProfile": "127868145",
+            "date": "2017-06-26",
+            "productSku": "81",
+            "productDetailViews": "4"
+        },
+        {
+            "id": "0883a3299b3565038ef94494b82b4cf65dd74cf5",
+            "idProfile": "127868145",
+            "date": "2017-03-29",
+            "productSku": "81",
+            "productDetailViews": "3"
+        },
+        {
+            "id": "d3264595eb5d8fbd934ad8d5e96eb18eca701fb3",
+            "idProfile": "127868145",
+            "date": "2017-08-28",
+            "productSku": "87",
+            "productDetailViews": "8"
+        },
+        {
+            "id": "d7bd17ae1b84d718cea1c5f8fd24e3d247941e1c",
+            "idProfile": "127868145",
+            "date": "2017-07-29",
+            "productSku": "28",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "e26ebf0533234e1388857f29a723150d60098465",
+            "idProfile": "127868145",
+            "date": "2017-01-29",
+            "productSku": "95",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "586c2c7e1f74dcd03c701d62cdcb0944968890fd",
+            "idProfile": "127868145",
+            "date": "2017-04-17",
+            "productSku": "56",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "ab772b47d84d0d21a6701c68109653a8d051f758",
+            "idProfile": "127868145",
+            "date": "2017-09-26",
+            "productSku": "81",
+            "productDetailViews": "9"
+        },
+        {
+            "id": "1f302cb411e7f87009efee906ec48abcb6311eeb",
+            "idProfile": "127868145",
+            "date": "2017-07-15",
+            "productSku": "56",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "cee8679c4f617a15c5c5477ed78f59af5a4c3bf2",
+            "idProfile": "127868145",
+            "date": "2017-10-27",
+            "productSku": "66",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "d8b31abeb25954adf1ef52968e8059f85aac3123",
+            "idProfile": "127868145",
+            "date": "2017-01-20",
+            "productSku": "30",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "2a81467c4c372efd47124224902f3a0a0e284c0f",
+            "idProfile": "127868145",
+            "date": "2017-07-28",
+            "productSku": "25",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "68bd6c57849ca10d2ff8ef0b7d3937bcad6514f1",
+            "idProfile": "127868145",
+            "date": "2017-06-02",
+            "productSku": "51",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "1809b7a6cdbb85cbfbaf68611d5820beea96481d",
+            "idProfile": "127868145",
+            "date": "2017-02-17",
+            "productSku": "80",
+            "productDetailViews": "6"
+        },
+        {
+            "id": "4b513c9fa06234fad990e89d28d5c4ea521b8770",
+            "idProfile": "127868145",
+            "date": "2016-11-25",
+            "productSku": "22",
+            "productDetailViews": "3"
+        },
+        {
+            "id": "ed6c200fbad56a5fc7db8676c7069e58c6eb775f",
+            "idProfile": "127868145",
+            "date": "2017-10-29",
+            "productSku": "105",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "3befe8e749ec37c848febc447c8dd7954abfccbd",
+            "idProfile": "127868145",
+            "date": "2017-04-15",
+            "productSku": "16",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "9e9bf77bade271a4a2548ad28a505a59dfaea757",
+            "idProfile": "127868145",
+            "date": "2017-06-05",
+            "productSku": "25",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "8f4f4c224e4114858649079c63b58a326183508d",
+            "idProfile": "127868145",
+            "date": "2016-09-24",
+            "productSku": "13",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "339304f0748e7401a15c2ecd8b0c76a5d61c4213",
+            "idProfile": "127868145",
+            "date": "2017-05-10",
+            "productSku": "17",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "a64b1a5ae1a2511fb8a6913456872741db0b7e05",
+            "idProfile": "127868145",
+            "date": "2017-10-29",
+            "productSku": "110",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "9c82162c8ded83900b02dd2058565f700357bb77",
+            "idProfile": "127868145",
+            "date": "2017-04-23",
+            "productSku": "99",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "11f7f8c714fa0c28c1e13c29da33c91b615371b1",
+            "idProfile": "127868145",
+            "date": "2017-03-21",
+            "productSku": "30",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "5c2cc045cd75ab02d5f45b1896460146ca4b050e",
+            "idProfile": "127868145",
+            "date": "2017-10-11",
+            "productSku": "83",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "d737ad836890307b80cee0ea502bdcffd0c5c112",
+            "idProfile": "127868145",
+            "date": "2017-08-28",
+            "productSku": "10",
+            "productDetailViews": "5"
+        },
+        {
+            "id": "e22ea56b2229b24d47db714acac1d7a12f64f52c",
+            "idProfile": "127868145",
+            "date": "2017-07-26",
+            "productSku": "51",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "abe7d56a30148124e281b8a7e8b9d2d1c490d5d1",
+            "idProfile": "127868145",
+            "date": "2017-08-18",
+            "productSku": "76",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "844b62775cf6c376e924dc0ce39ea380a406299d",
+            "idProfile": "127868145",
+            "date": "2016-12-09",
+            "productSku": "86",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "3d56dada2887d5ee8913053d604c613d1ef7068a",
+            "idProfile": "127868145",
+            "date": "2017-09-12",
+            "productSku": "38",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "b15697c47ca2333e3ba5b5be14a56fab27b5f500",
+            "idProfile": "127868145",
+            "date": "2017-01-13",
+            "productSku": "32",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "58196940db4a8c32e29656c656be6db7fc1d77a0",
+            "idProfile": "127868145",
+            "date": "2016-08-31",
+            "productSku": "45",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "966486f5d9b45cb0c011642404c580cb21063282",
+            "idProfile": "127868145",
+            "date": "2017-05-15",
+            "productSku": "44",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "9284d7944d89eeca7a078069b9a4d82e3d86ed6c",
+            "idProfile": "127868145",
+            "date": "2016-12-01",
+            "productSku": "17",
+            "productDetailViews": "3"
+        },
+        {
+            "id": "c1acea80e9ba2da985128b886b9fc3d5381e16d9",
+            "idProfile": "127868145",
+            "date": "2017-10-28",
+            "productSku": "73",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "707904a445ef82cc7f68b5e6e5cf02a09f54659b",
+            "idProfile": "127868145",
+            "date": "2017-06-29",
+            "productSku": "70",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "734cb4cefd1cb7ff7342d5693f0153cdd4ed15d1",
+            "idProfile": "127868145",
+            "date": "2017-04-19",
+            "productSku": "100",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "8c72a52401aff460ac0d6999a901e1369e539a88",
+            "idProfile": "127868145",
+            "date": "2016-11-26",
+            "productSku": "66",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "799fde826fbcc295aaa9861ab89df14009dfe4eb",
+            "idProfile": "127868145",
+            "date": "2017-01-18",
+            "productSku": "17",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "b03841cb8c60a66524bbe16345e722566ef029a9",
+            "idProfile": "127868145",
+            "date": "2017-06-16",
+            "productSku": "75",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "f434fba24f7e3ccc35ee158aa4bfb4ca3415d8c7",
+            "idProfile": "127868145",
+            "date": "2016-11-28",
+            "productSku": "50",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "8f06d3b8e1a4d48661572f6278b26553649e3d1d",
+            "idProfile": "127868145",
+            "date": "2016-11-07",
+            "productSku": "17",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "19e69c441b4700bfba5617c2a864daaff5502d8e",
+            "idProfile": "127868145",
+            "date": "2017-08-19",
+            "productSku": "50",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "04f24f5b02ce20592f5876b3946693a88be20c77",
+            "idProfile": "127868145",
+            "date": "2017-09-07",
+            "productSku": "56",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "f1ee9563ec7e2eeee0d13e8ade02d873ec862876",
+            "idProfile": "127868145",
+            "date": "2017-06-30",
+            "productSku": "78",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "bfac8d42cf1d02d8ef7e1bd5d94181a5a95e6b73",
+            "idProfile": "127868145",
+            "date": "2016-11-14",
+            "productSku": "15",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "e9ded69050a2fbd8c97de82fcdd324863aec151c",
+            "idProfile": "127868145",
+            "date": "2017-06-02",
+            "productSku": "54",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "b23408b056514c436291ea3005cbf55826b2f086",
+            "idProfile": "127868145",
+            "date": "2017-10-22",
+            "productSku": "92",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "8cb69b0ce7938122b5780e17e0c2ecd227d71040",
+            "idProfile": "127868145",
+            "date": "2017-06-30",
+            "productSku": "70",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "535e39ce07bcca39afd5a0081f7b3d2044d65225",
+            "idProfile": "127868145",
+            "date": "2017-08-16",
+            "productSku": "54",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "f4d7466059f868b50c91387d73afd8e8cf612e3c",
+            "idProfile": "127868145",
+            "date": "2017-09-20",
+            "productSku": "92",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "9a1497ef0be35ddae631df1a37e68944e56868c6",
+            "idProfile": "127868145",
+            "date": "2017-06-25",
+            "productSku": "81",
+            "productDetailViews": "5"
+        },
+        {
+            "id": "013a44be42971ca8f95f3232e801f1fed7de87e0",
+            "idProfile": "127868145",
+            "date": "2017-07-08",
+            "productSku": "93",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "b71ef8ae1fd47f84993b66acdce08e6cd04170a9",
+            "idProfile": "127868145",
+            "date": "2017-05-11",
+            "productSku": "50",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "4561f4379d1951b5f55955588207a6dc4e3f1dd8",
+            "idProfile": "127868145",
+            "date": "2017-04-11",
+            "productSku": "86",
+            "productDetailViews": "4"
+        },
+        {
+            "id": "76414526d63d82c54a7d7053856f5cad367d2bb4",
+            "idProfile": "127868145",
+            "date": "2017-09-22",
+            "productSku": "73",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "0519b29f8e0017e73194b9736818ea0153b75053",
+            "idProfile": "127868145",
+            "date": "2016-08-27",
+            "productSku": "37",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "f59f088f979446d0c13812e7df165065dec13ae5",
+            "idProfile": "127868145",
+            "date": "2017-04-12",
+            "productSku": "72",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "14fb876ee268dc5dc2be682cecaee91891b0d544",
+            "idProfile": "127868145",
+            "date": "2016-12-03",
+            "productSku": "96",
+            "productDetailViews": "5"
+        },
+        {
+            "id": "6c45f9dde4da6cf29bf98d1086c266c0bb16093f",
+            "idProfile": "127868145",
+            "date": "2017-10-01",
+            "productSku": "32",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "8a140b1238f427a67c00286a568ffd9db328fbe8",
+            "idProfile": "127868145",
+            "date": "2017-05-23",
+            "productSku": "103",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "e97925b3d0ca3274b280c09df6e087d4a776f2cb",
+            "idProfile": "127868145",
+            "date": "2016-12-10",
+            "productSku": "22",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "09f03b273f867b9a143b132d107cb8b41549783f",
+            "idProfile": "127868145",
+            "date": "2017-07-12",
+            "productSku": "17",
+            "productDetailViews": "3"
+        },
+        {
+            "id": "e42e7ccc0e058773b66f7cb3bc8eb4823d0f83cd",
+            "idProfile": "127868145",
+            "date": "2017-05-28",
+            "productSku": "18",
+            "productDetailViews": "8"
+        },
+        {
+            "id": "8147356cc02617398e9ff2035f2a60da9125d20d",
+            "idProfile": "127868145",
+            "date": "2017-02-09",
+            "productSku": "10",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "2001ff45f62e6241ea9ba07c5a53590c6101ab1d",
+            "idProfile": "127868145",
+            "date": "2016-11-28",
+            "productSku": "10",
+            "productDetailViews": "10"
+        },
+        {
+            "id": "20f3e9acbbf6a389fef060451e553b8aea04c14d",
+            "idProfile": "127868145",
+            "date": "2017-06-19",
+            "productSku": "30",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "3625a7c9eeb02a4eaaea1c3cf474cb2cdc9980a4",
+            "idProfile": "127868145",
+            "date": "2017-04-18",
+            "productSku": "26",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "479654ef5fbdf710f81c1e737647ff79b5a7d9d7",
+            "idProfile": "127868145",
+            "date": "2017-02-11",
+            "productSku": "79",
+            "productDetailViews": "4"
+        },
+        {
+            "id": "1d625431f10adff982f6c85eab1eb96465b607a2",
+            "idProfile": "127868145",
+            "date": "2017-04-24",
+            "productSku": "98",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "710f41f63b29c2e47e9f726091e324830a22235a",
+            "idProfile": "127868145",
+            "date": "2017-09-06",
+            "productSku": "101",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "a1afee04f24c1be74f509b32740439e5f3a18c3f",
+            "idProfile": "127868145",
+            "date": "2017-05-09",
+            "productSku": "26",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "f96b9a9f195a8863a694d89f38b8b36647d7eed8",
+            "idProfile": "127868145",
+            "date": "2017-05-15",
+            "productSku": "98",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "38d5117a54210d4fb17ad15cbd6e64a180a4ff20",
+            "idProfile": "127868145",
+            "date": "2017-08-25",
+            "productSku": "78",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "d57c28f252a03f3d5fc490d8048f51af1afadf61",
+            "idProfile": "127868145",
+            "date": "2017-10-20",
+            "productSku": "44",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "32e422be90ff37677e05a46f9f1b3c79b70a6924",
+            "idProfile": "127868145",
+            "date": "2017-07-11",
+            "productSku": "41",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "c8768b792a98d6e85de45258750312cad7f3fdd5",
+            "idProfile": "127868145",
+            "date": "2017-04-16",
+            "productSku": "65",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "01d22a020edc8078630c8741c4b8959313147ec6",
+            "idProfile": "127868145",
+            "date": "2017-08-13",
+            "productSku": "37",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "e3c26eec95c6061fd3bf5db7817b5c4670404abe",
+            "idProfile": "127868145",
+            "date": "2017-08-18",
+            "productSku": "72",
+            "productDetailViews": "3"
+        },
+        {
+            "id": "f985f9891e07cd3f2db0d63704436b0cd3e6abdc",
+            "idProfile": "127868145",
+            "date": "2017-03-18",
+            "productSku": "68",
+            "productDetailViews": "2"
+        },
+        {
+            "id": "41c76196036d9c36a8c4dff29d72e8ba60c4d5fc",
+            "idProfile": "127868145",
+            "date": "2017-07-08",
+            "productSku": "56",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "a4861bef189a5d1af544657dde34ed926fa5e407",
+            "idProfile": "127868145",
+            "date": "2017-09-19",
+            "productSku": "28",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "3057bf122ccf251b0935cbc68e28dc61eabf15a0",
+            "idProfile": "127868145",
+            "date": "2017-09-30",
+            "productSku": "22",
+            "productDetailViews": "0"
+        }
+    ]
+}
