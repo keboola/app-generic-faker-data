@@ -1,0 +1,80 @@
+{
+    "source": "in.c-keboola-ex-google-analytics-v4-326477640.product-views-source",
+    "destination": "product-views-source",
+    "page": {
+        "last": true,
+        "number": 214
+    },
+    "items": [
+        {
+            "id": "c20ad3a43a7332000b3453ed95d395285dde19a0",
+            "idProfile": "127868145",
+            "date": "2017-12-05",
+            "productSku": "56",
+            "productDetailViews": "16"
+        },
+        {
+            "id": "c6e230fb0c4d9d78d300bb9135c6f03becee133f",
+            "idProfile": "127868145",
+            "date": "2017-12-05",
+            "productSku": "66",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "83430e4e91aeb3e4161894f7af4d33ebe485c974",
+            "idProfile": "127868145",
+            "date": "2017-12-06",
+            "productSku": "48",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "8932b9e654d0f0ee96e1e841fa07634fcab867da",
+            "idProfile": "127868145",
+            "date": "2017-12-06",
+            "productSku": "28",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "a1e31a4432595ddd77f76638cac7ea0207b6862d",
+            "idProfile": "127868145",
+            "date": "2017-12-06",
+            "productSku": "55",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "6457c07c6471d6d4f130bdbbf9bb8127a7aed05a",
+            "idProfile": "127868145",
+            "date": "2017-12-06",
+            "productSku": "54",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "e0fd73376221a646182b353b5d91f3fb1cdfa36b",
+            "idProfile": "127868145",
+            "date": "2017-12-05",
+            "productSku": "59",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "5c51625ec2fb06fd4b223a8594beb051903e01b8",
+            "idProfile": "127868145",
+            "date": "2017-12-06",
+            "productSku": "44",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "c0946ca910c43fc1cce1e4b4ede3c3801634d1b9",
+            "idProfile": "127868145",
+            "date": "2017-12-06",
+            "productSku": "26",
+            "productDetailViews": "0"
+        },
+        {
+            "id": "5531546457e7c941901afdd6132ffdb720714a91",
+            "idProfile": "127868145",
+            "date": "2017-12-05",
+            "productSku": "92",
+            "productDetailViews": "0"
+        }
+    ]
+}

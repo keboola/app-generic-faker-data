@@ -765,6 +765,46 @@
             "browser": "Chrome",
             "transactions": "1",
             "transactionRevenue": "1818.0"
+        },
+        {
+            "id": "68a7ae7cdd14bcb0cee4ee3a5590ef7d7297c9ad",
+            "idProfile": "127868145",
+            "date": "2017-12-05",
+            "transactionId": "994",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "1070.0"
+        },
+        {
+            "id": "2308da6164fafca31280b934dbeb9415e615600d",
+            "idProfile": "127868145",
+            "date": "2017-12-05",
+            "transactionId": "997",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "696.0"
+        },
+        {
+            "id": "59a793975badfc9f1e4cb58376e1b3fd471f226a",
+            "idProfile": "127868145",
+            "date": "2017-12-05",
+            "transactionId": "996",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "768.0"
+        },
+        {
+            "id": "88d9f9466853872c33d72c9306850f2fd5fb42fe",
+            "idProfile": "127868145",
+            "date": "2017-12-05",
+            "transactionId": "998",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "350.0"
         }
     ]
 }
