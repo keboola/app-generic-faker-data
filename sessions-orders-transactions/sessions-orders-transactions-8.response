@@ -845,6 +845,16 @@
             "browser": "Internet Explorer",
             "transactions": "1",
             "transactionRevenue": "853.5"
+        },
+        {
+            "id": "60311b87df86df329425c53733856d832e694497",
+            "idProfile": "127868145",
+            "date": "2017-12-07",
+            "transactionId": "1010",
+            "deviceCategory": "tablet",
+            "browser": "Safari",
+            "transactions": "1",
+            "transactionRevenue": "579.0"
         }
     ]
 }
