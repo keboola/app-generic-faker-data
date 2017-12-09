@@ -855,6 +855,76 @@
             "browser": "Safari",
             "transactions": "1",
             "transactionRevenue": "579.0"
+        },
+        {
+            "id": "6f21013fb6cb1d88d00caffd7038b94d7606d7a9",
+            "idProfile": "127868145",
+            "date": "2017-12-08",
+            "transactionId": "1007",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "548.0"
+        },
+        {
+            "id": "8906352dfb3ca42c879170715b4647674c48927e",
+            "idProfile": "127868145",
+            "date": "2017-12-08",
+            "transactionId": "1004",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "751.874722"
+        },
+        {
+            "id": "85a57ae41b152182ef0f5191f67575a1767940db",
+            "idProfile": "127868145",
+            "date": "2017-12-08",
+            "transactionId": "1008",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "579.0"
+        },
+        {
+            "id": "755ac987dcdb6a48fcb8279f9576b910bdb6972c",
+            "idProfile": "127868145",
+            "date": "2017-12-08",
+            "transactionId": "1000",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "768.0"
+        },
+        {
+            "id": "a9b8b8d4d7245c9f6522510cf0d2cfabc61c84bb",
+            "idProfile": "127868145",
+            "date": "2017-12-08",
+            "transactionId": "1005",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "1750.0"
+        },
+        {
+            "id": "b31aca3d1245f46982303af06befadcca64d706a",
+            "idProfile": "127868145",
+            "date": "2017-12-08",
+            "transactionId": "1009",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "579.0"
+        },
+        {
+            "id": "9f760262a29a74808e1f624d69ac52ae14c56704",
+            "idProfile": "127868145",
+            "date": "2017-12-08",
+            "transactionId": "1011",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "11003.362944"
         }
     ]
 }
