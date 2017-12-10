@@ -1,10 +1,7 @@
 {
     "source": "in.c-application-testing.coords",
     "destination": "coords",
-    "page": {
-        "last": true,
-        "number": 1
-    },
+    "lastPage": true,
     "items": [
         {
             "lat": "38.766994",
@@ -26,5 +23,6 @@
             "lat": "51.537109",
             "long": "-3.732170"
         }
-    ]
+    ],
+    "pageNumber": 1
 }
