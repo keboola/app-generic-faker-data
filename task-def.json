@@ -3,12 +3,12 @@
     {
       "portMappings": [
         {
-          "hostPort": 8945,
+          "hostPort": 0,
           "protocol": "tcp",
           "containerPort": 80
         }
       ],
-      "memoryReservation": 128,
+      "memoryReservation": 256,
       "image": "quay.io/keboola/app-generic-faker:latest",
       "name": "generic-faker-data"
     }
