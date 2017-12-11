@@ -1,10 +1,7 @@
 {
     "source": "in.c-keboola-ex-google-analytics-v4-326477640.profiles",
     "destination": "profiles",
-    "page": {
-        "last": true,
-        "number": 1
-    },
+    "lastPage": true,
     "items": [
         {
             "id": "127868145",
@@ -14,5 +11,6 @@
             "accountId": "66941294",
             "accountName": "GadoGado"
         }
-    ]
+    ],
+    "pageNumber": 1
 }
