@@ -8,7 +8,7 @@
           "containerPort": 80
         }
       ],
-      "memoryReservation": 256,
+      "memory": 400,
       "image": "quay.io/keboola/app-generic-faker:latest",
       "name": "generic-faker-data"
     }
