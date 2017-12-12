@@ -7364,6 +7364,116 @@
             "transactionRevenue": "1453.5"
         },
         {
+            "id": "32f6de1d7c9d2efd68050c38a2f39c5b6311351d",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1020",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "768.0"
+        },
+        {
+            "id": "2d529a9dff10c321f22244eb1f705fa90f439abe",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1022",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "650.148585"
+        },
+        {
+            "id": "6219f9d3afcb4df85d5517f1ae7259f009e0253b",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1023",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "transactions": "1",
+            "transactionRevenue": "696.0"
+        },
+        {
+            "id": "f95f8eb61b28ba3c15d7570e6822bd771a805a4f",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1024",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "transactions": "1",
+            "transactionRevenue": "1302.0"
+        },
+        {
+            "id": "cc84651221728e1cd9193add97e7a0e103287fc2",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1012",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "548.0"
+        },
+        {
+            "id": "ecdac25fdf5a4caaa9a8f8b79808c2fc7639a9bd",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1018",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "transactions": "1",
+            "transactionRevenue": "493.0"
+        },
+        {
+            "id": "cee211b19d6216ef3f02bc0dbff9ee9d92f94724",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1019",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "768.0"
+        },
+        {
+            "id": "8efbda62f0abaaff5cac2739391aec0724b63c2c",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1017",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "744.450797"
+        },
+        {
+            "id": "deca1aae5b11f1a605204b88ff19a639cd33fbc1",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1013",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "1302.0"
+        },
+        {
+            "id": "17cb2f0e657ee989ac4acf6c958f460ea8694098",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1016",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "transactions": "1",
+            "transactionRevenue": "1133.9266"
+        },
+        {
+            "id": "7101fc0fb74a73e97de6f110f8e4aa1a8d151faf",
+            "idProfile": "127868145",
+            "date": "2017-12-11",
+            "transactionId": "1021",
+            "deviceCategory": "desktop",
+            "browser": "Internet Explorer",
+            "transactions": "1",
+            "transactionRevenue": "1440.0"
+        },
+        {
             "id": "e8fa9e58aa672219a96a86ac03763ac48befd396",
             "idProfile": "127868145",
             "date": "2017-12-07",
