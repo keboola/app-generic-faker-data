@@ -4,6 +4,16 @@
     "lastPage": true,
     "items": [
         {
+            "id": "f7829ee9fc7db7bb720eaf40689b7e05c1234e6b",
+            "idProfile": "127868145",
+            "date": "2017-12-13",
+            "transactionId": "1029",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "3360.0"
+        },
+        {
             "id": "0b8b4baea0de1138abdad959f007da2c248ed268",
             "idProfile": "127868145",
             "date": "2017-05-19",
