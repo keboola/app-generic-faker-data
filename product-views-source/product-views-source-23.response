@@ -1,0 +1,36 @@
+{
+    "source": "in.c-keboola-ex-google-analytics-v4-326477640.product-views-source",
+    "destination": "product-views-source",
+    "lastPage": true,
+    "items": [
+        {
+            "id": "d5c2a16264ff11346a1b2e9fa838f21addd81d62",
+            "idProfile": "127868145",
+            "date": "2017-12-14",
+            "productSku": "104",
+            "productDetailViews": "1"
+        },
+        {
+            "id": "6578431d2de208803e48f1aee54ff490ce5bf11b",
+            "idProfile": "127868145",
+            "date": "2017-12-14",
+            "productSku": "102",
+            "productDetailViews": "3"
+        },
+        {
+            "id": "799f9b10c848ea790fa2f1205c78b040af7da1f7",
+            "idProfile": "127868145",
+            "date": "2017-12-14",
+            "productSku": "116",
+            "productDetailViews": "3"
+        },
+        {
+            "id": "569af65f4da6be556dc62f5cb4184a43187270e0",
+            "idProfile": "127868145",
+            "date": "2017-12-13",
+            "productSku": "37",
+            "productDetailViews": "1"
+        }
+    ],
+    "pageNumber": 23
+}
