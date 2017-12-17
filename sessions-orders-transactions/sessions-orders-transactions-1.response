@@ -7364,6 +7364,26 @@
             "transactionRevenue": "768.0"
         },
         {
+            "id": "cee3a7a29ee4ebd5479f3f026e4e2a244b69f883",
+            "idProfile": "127868145",
+            "date": "2017-12-16",
+            "transactionId": "1048",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1220.0"
+        },
+        {
+            "id": "c2e2498709bb17fe6dff8af8b0d72b5c78e142b6",
+            "idProfile": "127868145",
+            "date": "2017-12-16",
+            "transactionId": "1046",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "transactions": "1",
+            "transactionRevenue": "788.0"
+        },
+        {
             "id": "5552ddff94c8fa88f545d91c4fc42f9e5b95cc52",
             "idProfile": "127868145",
             "date": "2017-11-24",
