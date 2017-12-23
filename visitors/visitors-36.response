@@ -1,0 +1,23 @@
+{
+    "source": "in.c-keboola-ex-google-analytics-v4-326477640.visitors",
+    "destination": "visitors",
+    "lastPage": true,
+    "items": [
+        {
+            "id": "88b3194058d6d9656ad3a4506404800c95dd1729",
+            "idProfile": "127868145",
+            "date": "2017-12-16",
+            "source": "facebook",
+            "medium": "cpc",
+            "country": "Slovakia",
+            "city": "Trnava",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "13",
+            "uniquePageviews": "5",
+            "newUsers": "1",
+            "sessions": "1"
+        }
+    ],
+    "pageNumber": 36
+}

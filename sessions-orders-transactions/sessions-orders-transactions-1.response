@@ -8352,6 +8352,16 @@
             "browser": "Safari",
             "transactions": "1",
             "transactionRevenue": "795.0"
+        },
+        {
+            "id": "f89621a066c52a53d446075198a9cdd48d0feffd",
+            "idProfile": "127868145",
+            "date": "2017-12-22",
+            "transactionId": "1003",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "1000.0"
         }
     ],
     "pageNumber": 1
