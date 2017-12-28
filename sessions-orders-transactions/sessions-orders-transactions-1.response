@@ -8492,6 +8492,36 @@
             "browser": "(not set)",
             "transactions": "1",
             "transactionRevenue": "788.0"
+        },
+        {
+            "id": "cc16840a0f85955c0ced3a17bc38069cb8d820dc",
+            "idProfile": "127868145",
+            "date": "2017-12-27",
+            "transactionId": "1070",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "624.0"
+        },
+        {
+            "id": "ad86a2b077e7e0af0f06f0da47c3f06cd860c146",
+            "idProfile": "127868145",
+            "date": "2017-12-27",
+            "transactionId": "1072",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1152.0"
+        },
+        {
+            "id": "3709e3b3d730a6bc887b88f0eb9d9e3fd11cd85b",
+            "idProfile": "127868145",
+            "date": "2017-12-27",
+            "transactionId": "1071",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1400.0"
         }
     ],
     "pageNumber": 1
