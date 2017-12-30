@@ -8562,6 +8562,36 @@
             "browser": "Chrome",
             "transactions": "1",
             "transactionRevenue": "1648.0"
+        },
+        {
+            "id": "309daa8dea6e6bf86e562330cf1aa2b975ecf28e",
+            "idProfile": "127868145",
+            "date": "2017-12-29",
+            "transactionId": "1078",
+            "deviceCategory": "mobile",
+            "browser": "Samsung Internet",
+            "transactions": "1",
+            "transactionRevenue": "1390.0"
+        },
+        {
+            "id": "85c347fbd9385ce397424cefabb55cc305699542",
+            "idProfile": "127868145",
+            "date": "2017-12-29",
+            "transactionId": "1080",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "transactions": "1",
+            "transactionRevenue": "644.0"
+        },
+        {
+            "id": "415bbc78b1d1a7354cbde0edd829cd6200388c51",
+            "idProfile": "127868145",
+            "date": "2017-12-29",
+            "transactionId": "1079",
+            "deviceCategory": "mobile",
+            "browser": "Android Webview",
+            "transactions": "1",
+            "transactionRevenue": "741.671435"
         }
     ],
     "pageNumber": 1
