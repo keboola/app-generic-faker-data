@@ -8592,6 +8592,56 @@
             "browser": "Android Webview",
             "transactions": "1",
             "transactionRevenue": "741.671435"
+        },
+        {
+            "id": "12763a0cd7c8282fd61aee9bc706fc3bb62741e2",
+            "idProfile": "127868145",
+            "date": "2017-12-30",
+            "transactionId": "1085",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "624.0"
+        },
+        {
+            "id": "c8517ba383e53675d5525b6d7717bffffa76f96a",
+            "idProfile": "127868145",
+            "date": "2017-12-30",
+            "transactionId": "1083",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "740.568425"
+        },
+        {
+            "id": "4ae457ba5e17d3e54c7f01e42ebdd796ebeb7730",
+            "idProfile": "127868145",
+            "date": "2017-12-30",
+            "transactionId": "1082",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1055.0"
+        },
+        {
+            "id": "7dcf581e895eb17b55220e1e2a5aba0ced61f416",
+            "idProfile": "127868145",
+            "date": "2017-12-30",
+            "transactionId": "1081",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "723.0"
+        },
+        {
+            "id": "cbc8289239e59a9deda7d62ae277fc4ba5e28394",
+            "idProfile": "127868145",
+            "date": "2017-12-30",
+            "transactionId": "1084",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "transactions": "1",
+            "transactionRevenue": "644.0"
         }
     ],
     "pageNumber": 1
