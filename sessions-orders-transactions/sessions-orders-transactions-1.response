@@ -8772,6 +8772,26 @@
             "browser": "Firefox",
             "transactions": "1",
             "transactionRevenue": "768.0"
+        },
+        {
+            "id": "091ea19bf693d8a02de18a7fd2758ebd43fa13cb",
+            "idProfile": "127868145",
+            "date": "2018-01-05",
+            "transactionId": "1100",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "transactions": "1",
+            "transactionRevenue": "624.0"
+        },
+        {
+            "id": "88f3937336e4ac0e3bfa86e3de67b5b842090b3b",
+            "idProfile": "127868145",
+            "date": "2018-01-05",
+            "transactionId": "1101",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "transactions": "1",
+            "transactionRevenue": "788.0"
         }
     ],
     "pageNumber": 1
