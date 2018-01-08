@@ -14929,21 +14929,6 @@
             "sessions": "1"
         },
         {
-            "id": "cec72933cc836575a6b2832339363087785ff870",
-            "idProfile": "127868145",
-            "date": "2018-01-07",
-            "source": "facebook",
-            "medium": "CPC",
-            "country": "Slovakia",
-            "city": "(not set)",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "2",
-            "uniquePageviews": "2",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
             "id": "d7e57b1648b57bfffbfe00c267f47102969ed0f6",
             "idProfile": "127868145",
             "date": "2018-01-06",
@@ -15001,6 +14986,21 @@
             "pageviews": "1",
             "uniquePageviews": "1",
             "newUsers": "0",
+            "sessions": "1"
+        },
+        {
+            "id": "489efc5d451322add9af8a92a5ec7c4b808802e6",
+            "idProfile": "127868145",
+            "date": "2018-01-06",
+            "source": "l.facebook.com",
+            "medium": "referral",
+            "country": "Czechia",
+            "city": "Brno",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "1",
+            "uniquePageviews": "1",
+            "newUsers": "1",
             "sessions": "1"
         }
     ],
