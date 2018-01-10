@@ -8872,6 +8872,26 @@
             "browser": "Safari (in-app)",
             "transactions": "1",
             "transactionRevenue": "1192.0"
+        },
+        {
+            "id": "c91086968884c37aeebab83abf171ff9ec5aef00",
+            "idProfile": "127868145",
+            "date": "2018-01-09",
+            "transactionId": "1103",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "976.0"
+        },
+        {
+            "id": "d87ed6ea6b246c974cc29194c6cd1b82dc1b079c",
+            "idProfile": "127868145",
+            "date": "2018-01-09",
+            "transactionId": "1111",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "788.0"
         }
     ],
     "pageNumber": 1
