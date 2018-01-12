@@ -8902,6 +8902,16 @@
             "browser": "(not set)",
             "transactions": "1",
             "transactionRevenue": "788.0"
+        },
+        {
+            "id": "847b3c3ef7969390e36a6afe1b32b9746ee1fa8c",
+            "idProfile": "127868145",
+            "date": "2018-01-11",
+            "transactionId": "1112",
+            "deviceCategory": "desktop",
+            "browser": "Edge",
+            "transactions": "1",
+            "transactionRevenue": "768.0"
         }
     ],
     "pageNumber": 1
