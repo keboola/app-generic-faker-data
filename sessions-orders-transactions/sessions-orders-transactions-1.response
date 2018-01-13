@@ -8912,6 +8912,16 @@
             "browser": "Edge",
             "transactions": "1",
             "transactionRevenue": "768.0"
+        },
+        {
+            "id": "415023c915e45be4bd1720b95e4fe3a66a298631",
+            "idProfile": "127868145",
+            "date": "2018-01-12",
+            "transactionId": "1114",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "799.0"
         }
     ],
     "pageNumber": 1
