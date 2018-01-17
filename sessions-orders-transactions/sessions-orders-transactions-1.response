@@ -8982,6 +8982,16 @@
             "browser": "(not set)",
             "transactions": "1",
             "transactionRevenue": "788.0"
+        },
+        {
+            "id": "5aa907868d9ec17385008e8133da008bb5614a57",
+            "idProfile": "127868145",
+            "date": "2018-01-16",
+            "transactionId": "1118",
+            "deviceCategory": "mobile",
+            "browser": "Android Webview",
+            "transactions": "1",
+            "transactionRevenue": "1508.0"
         }
     ],
     "pageNumber": 1
