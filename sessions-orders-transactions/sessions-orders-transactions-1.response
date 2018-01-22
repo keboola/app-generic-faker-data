@@ -9022,6 +9022,26 @@
             "browser": "Opera",
             "transactions": "1",
             "transactionRevenue": "518.0"
+        },
+        {
+            "id": "bf7413dba4f95248939648d4626f6ff91b2ccd28",
+            "idProfile": "127868145",
+            "date": "2018-01-21",
+            "transactionId": "1122",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "716.0"
+        },
+        {
+            "id": "be19b7efc269799368c315d602f5c9d006463b7b",
+            "idProfile": "127868145",
+            "date": "2018-01-21",
+            "transactionId": "1121",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1000.0"
         }
     ],
     "pageNumber": 1
