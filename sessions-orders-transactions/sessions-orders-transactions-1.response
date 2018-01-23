@@ -9042,6 +9042,26 @@
             "browser": "Chrome",
             "transactions": "1",
             "transactionRevenue": "1000.0"
+        },
+        {
+            "id": "84abd5f494275b99322ba20e7192d82990258850",
+            "idProfile": "127868145",
+            "date": "2018-01-22",
+            "transactionId": "1123",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1220.0"
+        },
+        {
+            "id": "971d9543623a4321a6ff1bba2508fe0249579ad9",
+            "idProfile": "127868145",
+            "date": "2018-01-22",
+            "transactionId": "1124",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "transactions": "1",
+            "transactionRevenue": "1080.0"
         }
     ],
     "pageNumber": 1
