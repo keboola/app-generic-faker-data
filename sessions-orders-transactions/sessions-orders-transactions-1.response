@@ -9162,6 +9162,26 @@
             "browser": "Chrome",
             "transactions": "1",
             "transactionRevenue": "1148.0"
+        },
+        {
+            "id": "b462028cd827f184dbf945960acfa2a0394fef02",
+            "idProfile": "127868145",
+            "date": "2018-01-26",
+            "transactionId": "1134",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "transactions": "1",
+            "transactionRevenue": "1080.0"
+        },
+        {
+            "id": "935e739b8feff563a4586e3675ad2d4595eaf001",
+            "idProfile": "127868145",
+            "date": "2018-01-26",
+            "transactionId": "1135",
+            "deviceCategory": "mobile",
+            "browser": "Android Webview",
+            "transactions": "1",
+            "transactionRevenue": "1463.0"
         }
     ],
     "pageNumber": 1
