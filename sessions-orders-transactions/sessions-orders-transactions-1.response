@@ -9242,6 +9242,36 @@
             "browser": "Chrome",
             "transactions": "1",
             "transactionRevenue": "1620.0"
+        },
+        {
+            "id": "cec628fdbcb3c1f75b21c55d86a7706fd1453fc0",
+            "idProfile": "127868145",
+            "date": "2018-01-30",
+            "transactionId": "1143",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1080.0"
+        },
+        {
+            "id": "5436bd743234370053a198850ae3c8fe3f8f77eb",
+            "idProfile": "127868145",
+            "date": "2018-01-30",
+            "transactionId": "1137",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "transactions": "1",
+            "transactionRevenue": "1080.0"
+        },
+        {
+            "id": "cc73a4f05730302b650092c85686aea4c64dd053",
+            "idProfile": "127868145",
+            "date": "2018-01-30",
+            "transactionId": "1144",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1091.080202"
         }
     ],
     "pageNumber": 1
