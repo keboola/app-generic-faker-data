@@ -9272,6 +9272,16 @@
             "browser": "Chrome",
             "transactions": "1",
             "transactionRevenue": "1091.080202"
+        },
+        {
+            "id": "cbafe3b53acaa4a5a479c88b39d187f224c7b0e6",
+            "idProfile": "127868145",
+            "date": "2018-01-31",
+            "transactionId": "1146",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "transactions": "1",
+            "transactionRevenue": "737.546465"
         }
     ],
     "pageNumber": 1
