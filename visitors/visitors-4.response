@@ -13414,21 +13414,6 @@
             "sessions": "1"
         },
         {
-            "id": "9c8c29f5720c44d300c890ba838b0ea194024013",
-            "idProfile": "127868145",
-            "date": "2018-02-03",
-            "source": "facebook",
-            "medium": "cpc",
-            "country": "Czechia",
-            "city": "Prague",
-            "continent": "Europe",
-            "users": "2",
-            "pageviews": "2",
-            "uniquePageviews": "2",
-            "newUsers": "1",
-            "sessions": "2"
-        },
-        {
             "id": "2b16c73926b5fb646b52897b21808d65c445fd40",
             "idProfile": "127868145",
             "date": "2018-02-02",
@@ -14162,21 +14147,6 @@
             "uniquePageviews": "1",
             "newUsers": "1",
             "sessions": "1"
-        },
-        {
-            "id": "0580ddcc243cb1535bcc89c1f0d71780d061cf45",
-            "idProfile": "127868145",
-            "date": "2018-02-03",
-            "source": "facebook",
-            "medium": "cpc",
-            "country": "Czechia",
-            "city": "Brno",
-            "continent": "Europe",
-            "users": "2",
-            "pageviews": "2",
-            "uniquePageviews": "2",
-            "newUsers": "2",
-            "sessions": "2"
         },
         {
             "id": "42773cfa2c738c147c912c812750ad4765423670",
@@ -15002,6 +14972,36 @@
             "uniquePageviews": "5",
             "newUsers": "1",
             "sessions": "2"
+        },
+        {
+            "id": "684684dc2932f491b54b2bdadcc4c78cd7894bee",
+            "idProfile": "127868145",
+            "date": "2018-01-29",
+            "source": "Instagram",
+            "medium": "biolink",
+            "country": "Germany",
+            "city": "Frankfurt",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "3",
+            "uniquePageviews": "3",
+            "newUsers": "1",
+            "sessions": "1"
+        },
+        {
+            "id": "2c91e289ad1403eaca6425b5fa8cce66f202054f",
+            "idProfile": "127868145",
+            "date": "2018-01-29",
+            "source": "google",
+            "medium": "organic",
+            "country": "Slovakia",
+            "city": "Zvolen",
+            "continent": "Europe",
+            "users": "2",
+            "pageviews": "13",
+            "uniquePageviews": "9",
+            "newUsers": "1",
+            "sessions": "4"
         }
     ],
     "pageNumber": 4
