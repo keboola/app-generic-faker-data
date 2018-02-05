@@ -9432,6 +9432,56 @@
             "browser": "(not set)",
             "transactions": "1",
             "transactionRevenue": "1080.0"
+        },
+        {
+            "id": "0611ca8752ffc1231929599ec929ef36024c0a61",
+            "idProfile": "127868145",
+            "date": "2018-02-04",
+            "transactionId": "1166",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "782.083704"
+        },
+        {
+            "id": "bcd755459ff00ffa949d05cbef13c5d25ec51815",
+            "idProfile": "127868145",
+            "date": "2018-02-04",
+            "transactionId": "1163",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1080.0"
+        },
+        {
+            "id": "136d0413309938b00bd643e40be2c3bd97ff6af2",
+            "idProfile": "127868145",
+            "date": "2018-02-04",
+            "transactionId": "1164",
+            "deviceCategory": "tablet",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1080.0"
+        },
+        {
+            "id": "dd5d19ab862e4fd7399a61e641d1f262089b7514",
+            "idProfile": "127868145",
+            "date": "2018-02-04",
+            "transactionId": "1165",
+            "deviceCategory": "mobile",
+            "browser": "Samsung Internet",
+            "transactions": "1",
+            "transactionRevenue": "1080.0"
+        },
+        {
+            "id": "eb365a8dbb1d6c05147065f70dcb7b2156b64254",
+            "idProfile": "127868145",
+            "date": "2018-02-04",
+            "transactionId": "1162",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1080.0"
         }
     ],
     "pageNumber": 1
