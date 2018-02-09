@@ -14794,21 +14794,6 @@
             "sessions": "1"
         },
         {
-            "id": "16cdb02590ea3db67a8d67cf66368f3b0143ef1d",
-            "idProfile": "127868145",
-            "date": "2018-02-08",
-            "source": "(direct)",
-            "medium": "(none)",
-            "country": "Slovakia",
-            "city": "Bratislava",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "1",
-            "uniquePageviews": "1",
-            "newUsers": "0",
-            "sessions": "1"
-        },
-        {
             "id": "0f779d1b258be898ba59ed0ae72065f1c6084075",
             "idProfile": "127868145",
             "date": "2018-02-07",
@@ -15000,6 +14985,21 @@
             "users": "1",
             "pageviews": "7",
             "uniquePageviews": "2",
+            "newUsers": "1",
+            "sessions": "1"
+        },
+        {
+            "id": "b05e0c5903ac76c25a8512ab7181115fbae722d9",
+            "idProfile": "127868145",
+            "date": "2018-02-07",
+            "source": "lifeisbetterinbikinis.net",
+            "medium": "referral",
+            "country": "Slovakia",
+            "city": "Bratislava",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "3",
+            "uniquePageviews": "3",
             "newUsers": "1",
             "sessions": "1"
         }
