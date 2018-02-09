@@ -10,7 +10,8 @@
       ],
       "memory": 400,
       "image": "quay.io/keboola/app-generic-faker:latest",
-      "name": "generic-faker-data"
+      "name": "generic-faker-data",
+      "hostname": "faker.keboola.com"
     }
   ],
   "family": "generic_faker",
