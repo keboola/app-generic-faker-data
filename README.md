@@ -1,4 +1,7 @@
 # Generic Faker Data
+
+[![Build Status](https://travis-ci.org/keboola/app-generic-faker-data.svg?branch=master)](https://travis-ci.org/keboola/app-generic-faker-data)
+
 Repository contains data for fake JSON responses for [Mock server](https://github.com/keboola/ex-generic-mock-server). Repository contents are generated using
 [Generic Faker](https://github.com/keboola/app-generic-faker) KBC component. 
 
