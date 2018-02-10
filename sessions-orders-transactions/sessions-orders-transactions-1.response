@@ -9662,6 +9662,16 @@
             "browser": "(not set)",
             "transactions": "1",
             "transactionRevenue": "1080.0"
+        },
+        {
+            "id": "fccda8c738165a99ad5ca964107fbd5caa2ab8b1",
+            "idProfile": "127868145",
+            "date": "2018-02-09",
+            "transactionId": "1187",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "transactions": "1",
+            "transactionRevenue": "795.0"
         }
     ],
     "pageNumber": 1
