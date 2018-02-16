@@ -14854,21 +14854,6 @@
             "sessions": "1"
         },
         {
-            "id": "ad5f254ac5f832dae775aa9923e3404fb9c7a78f",
-            "idProfile": "127868145",
-            "date": "2018-02-15",
-            "source": "facebook",
-            "medium": "cpc",
-            "country": "Slovakia",
-            "city": "Kosice",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "1",
-            "uniquePageviews": "1",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
             "id": "29db371e3bed7fb4a1aff7196440907bdc2c2df2",
             "idProfile": "127868145",
             "date": "2018-02-14",
@@ -15002,6 +14987,21 @@
             "uniquePageviews": "3",
             "newUsers": "0",
             "sessions": "3"
+        },
+        {
+            "id": "005ffd24fa2bfacb75e1f87bbd15c7f73ea680a3",
+            "idProfile": "127868145",
+            "date": "2018-02-14",
+            "source": "facebook",
+            "medium": "cpc",
+            "country": "Slovakia",
+            "city": "(not set)",
+            "continent": "Europe",
+            "users": "11",
+            "pageviews": "33",
+            "uniquePageviews": "20",
+            "newUsers": "7",
+            "sessions": "11"
         }
     ],
     "pageNumber": 40
