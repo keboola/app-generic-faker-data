@@ -9792,6 +9792,16 @@
             "browser": "Safari (in-app)",
             "transactions": "1",
             "transactionRevenue": "1200.0"
+        },
+        {
+            "id": "5314bffd7b62f7fb28093fd5a15f3f41fe7bc82b",
+            "idProfile": "127868145",
+            "date": "2018-02-18",
+            "transactionId": "1196",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "828.0"
         }
     ],
     "pageNumber": 1
