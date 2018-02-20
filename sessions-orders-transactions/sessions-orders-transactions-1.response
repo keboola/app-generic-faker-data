@@ -9794,6 +9794,46 @@
             "transactionRevenue": "1200.0"
         },
         {
+            "id": "54ce2f96f39bf213f7abc9fb76610b2c4be64226",
+            "idProfile": "127868145",
+            "date": "2018-02-19",
+            "transactionId": "1198",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "transactions": "1",
+            "transactionRevenue": "855.0"
+        },
+        {
+            "id": "105aeef1c4f02edb77e5cf8a1c4b30b2bf0ba0e9",
+            "idProfile": "127868145",
+            "date": "2018-02-19",
+            "transactionId": "1197",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "transactions": "1",
+            "transactionRevenue": "2251.34136"
+        },
+        {
+            "id": "1093c4a4bd1616dc37a86e0863aaac3fb4dc2ff8",
+            "idProfile": "127868145",
+            "date": "2018-02-19",
+            "transactionId": "1200",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "1735.0"
+        },
+        {
+            "id": "ae138e3f19a730d8321578674bb8cdea9324077c",
+            "idProfile": "127868145",
+            "date": "2018-02-19",
+            "transactionId": "1199",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "2250.0"
+        },
+        {
             "id": "5314bffd7b62f7fb28093fd5a15f3f41fe7bc82b",
             "idProfile": "127868145",
             "date": "2018-02-18",
