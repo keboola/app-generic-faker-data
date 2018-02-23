@@ -9892,6 +9892,16 @@
             "browser": "Chrome",
             "transactions": "1",
             "transactionRevenue": "638.0"
+        },
+        {
+            "id": "fcfd50a72ffc5f668d4dc21737130b6c7b4de380",
+            "idProfile": "127868145",
+            "date": "2018-02-22",
+            "transactionId": "1206",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "828.0"
         }
     ],
     "pageNumber": 1
