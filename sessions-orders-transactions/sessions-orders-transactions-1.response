@@ -9942,6 +9942,16 @@
             "browser": "Safari",
             "transactions": "1",
             "transactionRevenue": "565.0"
+        },
+        {
+            "id": "a3a94b229cd0e8f41f78f80215cfe31a52c8360f",
+            "idProfile": "127868145",
+            "date": "2018-03-02",
+            "transactionId": "1211",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "669.0"
         }
     ],
     "pageNumber": 1
