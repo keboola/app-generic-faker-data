@@ -2,6 +2,17 @@
     "source": "in.c-keboola-ex-google-analytics-v4-326477640.sessions-orders-transactions",
     "destination": "sessions-orders-transactions",
     "lastPage": true,
-    "items": [],
+    "items": [
+        {
+            "id": "5a97c9cb9996e06ba0c953ee814db879dea599a2",
+            "idProfile": "127868145",
+            "date": "2018-03-06",
+            "transactionId": "1217",
+            "deviceCategory": "mobile",
+            "browser": "Android Webview",
+            "transactions": "1",
+            "transactionRevenue": "828.0"
+        }
+    ],
     "pageNumber": 2
 }
