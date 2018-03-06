@@ -1,7 +1,7 @@
 {
     "source": "in.c-keboola-ex-google-analytics-v4-326477640.sessions-orders-transactions",
     "destination": "sessions-orders-transactions",
-    "lastPage": true,
+    "lastPage": false,
     "items": [
         {
             "id": "f7829ee9fc7db7bb720eaf40689b7e05c1234e6b",
@@ -9982,6 +9982,26 @@
             "browser": "Chrome",
             "transactions": "1",
             "transactionRevenue": "248.0"
+        },
+        {
+            "id": "0f9471cd2bf624ca4e9da8ac4566e8a3b6a492b9",
+            "idProfile": "127868145",
+            "date": "2018-03-05",
+            "transactionId": "1215",
+            "deviceCategory": "mobile",
+            "browser": "Android Webview",
+            "transactions": "1",
+            "transactionRevenue": "848.0"
+        },
+        {
+            "id": "f14365cadbd5ab3011ca6f1b9495689381103e64",
+            "idProfile": "127868145",
+            "date": "2018-03-05",
+            "transactionId": "1216",
+            "deviceCategory": "tablet",
+            "browser": "Chrome",
+            "transactions": "1",
+            "transactionRevenue": "828.0"
         }
     ],
     "pageNumber": 1
