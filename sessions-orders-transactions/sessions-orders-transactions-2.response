@@ -4,14 +4,16 @@
     "lastPage": true,
     "items": [
         {
-            "id": "5a97c9cb9996e06ba0c953ee814db879dea599a2",
+            "id": "994945298782382c8435897696bad8373fa03114",
             "idProfile": "127868145",
-            "date": "2018-03-06",
-            "transactionId": "1217",
+            "date": "2017-02-01",
+            "transactionId": "411",
             "deviceCategory": "mobile",
-            "browser": "Android Webview",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
             "transactions": "1",
-            "transactionRevenue": "828.0"
+            "transactionRevenue": "1134.0"
         }
     ],
     "pageNumber": 2
