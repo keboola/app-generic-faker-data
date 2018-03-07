@@ -4,21 +4,6 @@
     "lastPage": false,
     "items": [
         {
-            "id": "fa90cbc59f1d123600c26a19d3594fb5d9f90322",
-            "idProfile": "127868145",
-            "date": "2017-09-14",
-            "source": "google",
-            "medium": "cpc",
-            "country": "Czechia",
-            "city": "Ricany",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "1",
-            "uniquePageviews": "1",
-            "newUsers": "0",
-            "sessions": "1"
-        },
-        {
             "id": "ca820e3389b325881a738a78840c978023321691",
             "idProfile": "127868145",
             "date": "2017-12-12",
@@ -3976,21 +3961,6 @@
             "pageviews": "6",
             "uniquePageviews": "5",
             "newUsers": "1",
-            "sessions": "1"
-        },
-        {
-            "id": "ef4c0780067902abb3ae3393237bbf3952b25cd7",
-            "idProfile": "127868145",
-            "date": "2018-03-06",
-            "source": "Gado Gado customers - automation export - do not touch",
-            "medium": "email",
-            "country": "Czechia",
-            "city": "Prague",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "5",
-            "uniquePageviews": "4",
-            "newUsers": "0",
             "sessions": "1"
         },
         {
@@ -15002,6 +14972,36 @@
             "uniquePageviews": "2",
             "newUsers": "2",
             "sessions": "2"
+        },
+        {
+            "id": "710a3303daf5ba47203f0db909924c6abe193f8a",
+            "idProfile": "127868145",
+            "date": "2017-07-12",
+            "source": "(direct)",
+            "medium": "(none)",
+            "country": "Czechia",
+            "city": "Podebrady",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "1",
+            "uniquePageviews": "1",
+            "newUsers": "1",
+            "sessions": "1"
+        },
+        {
+            "id": "b182dcc9cb9f99c16ec64011caee9a60ad4f3001",
+            "idProfile": "127868145",
+            "date": "2017-10-07",
+            "source": "facebook",
+            "medium": "cpc",
+            "country": "Czechia",
+            "city": "Mnisek pod Brdy",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "1",
+            "uniquePageviews": "1",
+            "newUsers": "1",
+            "sessions": "1"
         }
     ],
     "pageNumber": 7

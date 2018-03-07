@@ -4,36 +4,6 @@
     "lastPage": false,
     "items": [
         {
-            "id": "c4a58e3533fd7660abc09700cdc234340c22809d",
-            "idProfile": "127868145",
-            "date": "2017-09-17",
-            "source": "facebook",
-            "medium": "cpc",
-            "country": "Czechia",
-            "city": "Znojmo",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "1",
-            "uniquePageviews": "1",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
-            "id": "ed34ec5b52b6c81d6141c599c1b93ea06204df05",
-            "idProfile": "127868145",
-            "date": "2017-07-11",
-            "source": "Facebook ads",
-            "medium": "cpc",
-            "country": "Czechia",
-            "city": "Jesenik",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "1",
-            "uniquePageviews": "1",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
             "id": "a4e2da71c3d6d492578e700f4ff9450efb66742b",
             "idProfile": "127868145",
             "date": "2017-08-20",
@@ -3349,6 +3319,36 @@
             "sessions": "1"
         },
         {
+            "id": "1b16f0197fb22e794790320482a86efe990545c2",
+            "idProfile": "127868145",
+            "date": "2018-03-06",
+            "source": "Instagram",
+            "medium": "biolink",
+            "country": "Slovakia",
+            "city": "(not set)",
+            "continent": "Europe",
+            "users": "3",
+            "pageviews": "20",
+            "uniquePageviews": "18",
+            "newUsers": "3",
+            "sessions": "4"
+        },
+        {
+            "id": "4d070057744dd45072f5f702e176f8af576cd21c",
+            "idProfile": "127868145",
+            "date": "2018-03-06",
+            "source": "instagram.com",
+            "medium": "referral",
+            "country": "Slovakia",
+            "city": "Zilina",
+            "continent": "Europe",
+            "users": "2",
+            "pageviews": "5",
+            "uniquePageviews": "3",
+            "newUsers": "1",
+            "sessions": "2"
+        },
+        {
             "id": "4d479096c52af7774495461b5df5cf7791cf3e43",
             "idProfile": "127868145",
             "date": "2018-03-06",
@@ -3357,11 +3357,11 @@
             "country": "Czechia",
             "city": "Prague",
             "continent": "Europe",
-            "users": "1",
-            "pageviews": "3",
-            "uniquePageviews": "3",
-            "newUsers": "1",
-            "sessions": "1"
+            "users": "2",
+            "pageviews": "4",
+            "uniquePageviews": "4",
+            "newUsers": "2",
+            "sessions": "2"
         },
         {
             "id": "f7997404cb71eaf218f72e087d96b32c5077b169",

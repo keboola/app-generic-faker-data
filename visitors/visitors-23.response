@@ -4,36 +4,6 @@
     "lastPage": false,
     "items": [
         {
-            "id": "4de550c10d9efd7f9d662866c636c8e6374e8fbe",
-            "idProfile": "127868145",
-            "date": "2018-02-07",
-            "source": "google",
-            "medium": "cpc",
-            "country": "Czechia",
-            "city": "Rokycany",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "3",
-            "uniquePageviews": "3",
-            "newUsers": "1",
-            "sessions": "3"
-        },
-        {
-            "id": "945d7c9d5682affba8952bc659caefa3bd88ba0d",
-            "idProfile": "127868145",
-            "date": "2017-07-16",
-            "source": "facebook.com",
-            "medium": "referral",
-            "country": "Czechia",
-            "city": "Kutna Hora",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "3",
-            "uniquePageviews": "3",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
             "id": "6ed43385665b19b3ea7125711e3b4c68b30d9760",
             "idProfile": "127868145",
             "date": "2017-10-21",
@@ -14089,21 +14059,6 @@
             "sessions": "1"
         },
         {
-            "id": "adaf6b3f63c1af6275df64735ede356c1e8394e1",
-            "idProfile": "127868145",
-            "date": "2018-03-06",
-            "source": "google",
-            "medium": "organic",
-            "country": "Czechia",
-            "city": "Prague",
-            "continent": "Europe",
-            "users": "5",
-            "pageviews": "24",
-            "uniquePageviews": "18",
-            "newUsers": "4",
-            "sessions": "5"
-        },
-        {
             "id": "fdd90db73b32f5136dd47bc968b41c39f4fdf7bd",
             "idProfile": "127868145",
             "date": "2018-02-12",
@@ -15002,6 +14957,51 @@
             "uniquePageviews": "16",
             "newUsers": "1",
             "sessions": "3"
+        },
+        {
+            "id": "5e4b33b3234397939239c81c7c24bc3d92caff62",
+            "idProfile": "127868145",
+            "date": "2017-08-19",
+            "source": "facebook",
+            "medium": "cover",
+            "country": "Czechia",
+            "city": "Hranice",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "6",
+            "uniquePageviews": "5",
+            "newUsers": "1",
+            "sessions": "1"
+        },
+        {
+            "id": "c1ff0c348d0ebe8a798ce584bd49f06ed462df66",
+            "idProfile": "127868145",
+            "date": "2017-09-10",
+            "source": "(direct)",
+            "medium": "(none)",
+            "country": "Czechia",
+            "city": "Hlucin",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "1",
+            "uniquePageviews": "1",
+            "newUsers": "1",
+            "sessions": "1"
+        },
+        {
+            "id": "dc1b00928a86e58239682b0d2f7f9795f3a02176",
+            "idProfile": "127868145",
+            "date": "2017-08-02",
+            "source": "lm.facebook.com",
+            "medium": "referral",
+            "country": "Indonesia",
+            "city": "Surabaya",
+            "continent": "Asia",
+            "users": "1",
+            "pageviews": "2",
+            "uniquePageviews": "1",
+            "newUsers": "1",
+            "sessions": "1"
         }
     ],
     "pageNumber": 23

@@ -3529,21 +3529,6 @@
             "sessions": "1"
         },
         {
-            "id": "734bb36345c45e687217bf0b8ced569415e792f7",
-            "idProfile": "127868145",
-            "date": "2018-03-06",
-            "source": "Gadogado.cz registrovani zakaznici",
-            "medium": "email",
-            "country": "Slovakia",
-            "city": "Bratislava",
-            "continent": "Europe",
-            "users": "3",
-            "pageviews": "8",
-            "uniquePageviews": "7",
-            "newUsers": "2",
-            "sessions": "3"
-        },
-        {
             "id": "05c49a19f5a25b0d05e09f7dc86c2ebc688353ba",
             "idProfile": "127868145",
             "date": "2017-09-08",
@@ -11989,21 +11974,6 @@
             "sessions": "1"
         },
         {
-            "id": "024b90c941f84441643c080c3335fc8ae7ba8055",
-            "idProfile": "127868145",
-            "date": "2018-03-06",
-            "source": "instagram.com",
-            "medium": "referral",
-            "country": "Slovakia",
-            "city": "Kosice",
-            "continent": "Europe",
-            "users": "3",
-            "pageviews": "3",
-            "uniquePageviews": "3",
-            "newUsers": "2",
-            "sessions": "3"
-        },
-        {
             "id": "861e49611fe87e62673f1def3b75e6f9deb6be86",
             "idProfile": "127868145",
             "date": "2017-08-26",
@@ -15002,6 +14972,36 @@
             "uniquePageviews": "21",
             "newUsers": "5",
             "sessions": "8"
+        },
+        {
+            "id": "4de550c10d9efd7f9d662866c636c8e6374e8fbe",
+            "idProfile": "127868145",
+            "date": "2018-02-07",
+            "source": "google",
+            "medium": "cpc",
+            "country": "Czechia",
+            "city": "Rokycany",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "3",
+            "uniquePageviews": "3",
+            "newUsers": "1",
+            "sessions": "3"
+        },
+        {
+            "id": "945d7c9d5682affba8952bc659caefa3bd88ba0d",
+            "idProfile": "127868145",
+            "date": "2017-07-16",
+            "source": "facebook.com",
+            "medium": "referral",
+            "country": "Czechia",
+            "city": "Kutna Hora",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "3",
+            "uniquePageviews": "3",
+            "newUsers": "1",
+            "sessions": "1"
         }
     ],
     "pageNumber": 22

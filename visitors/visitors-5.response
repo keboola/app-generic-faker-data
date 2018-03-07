@@ -4,21 +4,6 @@
     "lastPage": false,
     "items": [
         {
-            "id": "fc52a84061da62c249c18ca07e736d1b3abe43d9",
-            "idProfile": "127868145",
-            "date": "2017-10-05",
-            "source": "lm.facebook.com",
-            "medium": "referral",
-            "country": "Czechia",
-            "city": "Prague",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "3",
-            "uniquePageviews": "2",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
             "id": "a2b27a2c899b146b515fce7bab3b51f76f99f1d7",
             "idProfile": "127868145",
             "date": "2017-09-26",
@@ -15001,6 +14986,21 @@
             "pageviews": "0",
             "uniquePageviews": "0",
             "newUsers": "0",
+            "sessions": "1"
+        },
+        {
+            "id": "0fda6a48d0ca7c5a2c2c67bd9046d33982c34e60",
+            "idProfile": "127868145",
+            "date": "2018-01-09",
+            "source": "seznam",
+            "medium": "organic",
+            "country": "Czechia",
+            "city": "Moravsky Krumlov",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "17",
+            "uniquePageviews": "9",
+            "newUsers": "1",
             "sessions": "1"
         }
     ],

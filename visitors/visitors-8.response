@@ -4,36 +4,6 @@
     "lastPage": false,
     "items": [
         {
-            "id": "710a3303daf5ba47203f0db909924c6abe193f8a",
-            "idProfile": "127868145",
-            "date": "2017-07-12",
-            "source": "(direct)",
-            "medium": "(none)",
-            "country": "Czechia",
-            "city": "Podebrady",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "1",
-            "uniquePageviews": "1",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
-            "id": "b182dcc9cb9f99c16ec64011caee9a60ad4f3001",
-            "idProfile": "127868145",
-            "date": "2017-10-07",
-            "source": "facebook",
-            "medium": "cpc",
-            "country": "Czechia",
-            "city": "Mnisek pod Brdy",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "1",
-            "uniquePageviews": "1",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
             "id": "08ba6120881b71914eac9d2502f09b48e1d95a17",
             "idProfile": "127868145",
             "date": "2017-08-07",
@@ -14042,6 +14012,36 @@
             "uniquePageviews": "2",
             "newUsers": "1",
             "sessions": "1"
+        },
+        {
+            "id": "ba17faff86ce2d6c91549ce19aca59e2f5d8eed1",
+            "idProfile": "127868145",
+            "date": "2018-03-06",
+            "source": "(direct)",
+            "medium": "(none)",
+            "country": "Slovakia",
+            "city": "(not set)",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "2",
+            "uniquePageviews": "2",
+            "newUsers": "0",
+            "sessions": "2"
+        },
+        {
+            "id": "ef4c0780067902abb3ae3393237bbf3952b25cd7",
+            "idProfile": "127868145",
+            "date": "2018-03-06",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "medium": "email",
+            "country": "Czechia",
+            "city": "Prague",
+            "continent": "Europe",
+            "users": "2",
+            "pageviews": "10",
+            "uniquePageviews": "6",
+            "newUsers": "0",
+            "sessions": "2"
         },
         {
             "id": "d2cbac2f364138601aff1b39fb6a0987d3b7131b",

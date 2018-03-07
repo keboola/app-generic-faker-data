@@ -13684,21 +13684,6 @@
             "sessions": "1"
         },
         {
-            "id": "2d22b5eeedf327ddf233b139f8b8e5a7398f7be7",
-            "idProfile": "127868145",
-            "date": "2018-03-06",
-            "source": "instagram.com",
-            "medium": "referral",
-            "country": "Czechia",
-            "city": "Prague",
-            "continent": "Europe",
-            "users": "2",
-            "pageviews": "3",
-            "uniquePageviews": "3",
-            "newUsers": "0",
-            "sessions": "2"
-        },
-        {
             "id": "a004ca155b464f58cb438c751af87ac2f949a885",
             "idProfile": "127868145",
             "date": "2017-09-16",
@@ -15000,6 +14985,21 @@
             "users": "1",
             "pageviews": "1",
             "uniquePageviews": "1",
+            "newUsers": "1",
+            "sessions": "1"
+        },
+        {
+            "id": "fd0fd6a5f1fb22a7910f997271177804fa30637a",
+            "idProfile": "127868145",
+            "date": "2018-02-12",
+            "source": "travelhacker.blog",
+            "medium": "referral",
+            "country": "Slovakia",
+            "city": "Bratislava",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "3",
+            "uniquePageviews": "3",
             "newUsers": "1",
             "sessions": "1"
         }

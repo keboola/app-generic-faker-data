@@ -10699,21 +10699,6 @@
             "sessions": "1"
         },
         {
-            "id": "d28e766cdc6bae7e6ed319cdc5bb5d2542a9095c",
-            "idProfile": "127868145",
-            "date": "2018-03-06",
-            "source": "google",
-            "medium": "organic",
-            "country": "Slovakia",
-            "city": "Trencin",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "1",
-            "uniquePageviews": "1",
-            "newUsers": "0",
-            "sessions": "1"
-        },
-        {
             "id": "03e79e607c9e814a859e2855df562ead46e25ab8",
             "idProfile": "127868145",
             "date": "2018-01-13",
@@ -13534,21 +13519,6 @@
             "sessions": "1"
         },
         {
-            "id": "fd4b2a592f298849a090f1fb976156eeccfad3f2",
-            "idProfile": "127868145",
-            "date": "2018-03-06",
-            "source": "google",
-            "medium": "organic",
-            "country": "Slovakia",
-            "city": "Bratislava",
-            "continent": "Europe",
-            "users": "4",
-            "pageviews": "17",
-            "uniquePageviews": "14",
-            "newUsers": "3",
-            "sessions": "4"
-        },
-        {
             "id": "af62ff112ea90c4d02c6d38658165c45f007fcd5",
             "idProfile": "127868145",
             "date": "2017-09-26",
@@ -15001,6 +14971,36 @@
             "pageviews": "1",
             "uniquePageviews": "1",
             "newUsers": "1",
+            "sessions": "1"
+        },
+        {
+            "id": "59f4de0b5bdbe5884f70fc03100fe5dafe7cc649",
+            "idProfile": "127868145",
+            "date": "2017-05-11",
+            "source": "(direct)",
+            "medium": "(none)",
+            "country": "Slovakia",
+            "city": "Kosice",
+            "continent": "Europe",
+            "users": "2",
+            "pageviews": "6",
+            "uniquePageviews": "5",
+            "newUsers": "1",
+            "sessions": "2"
+        },
+        {
+            "id": "31e9b63b7479b5a08bfa7201c0635e478412e89b",
+            "idProfile": "127868145",
+            "date": "2017-12-10",
+            "source": "mail.centrum.cz",
+            "medium": "referral",
+            "country": "Czechia",
+            "city": "Novy Jicin",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "1",
+            "uniquePageviews": "1",
+            "newUsers": "0",
             "sessions": "1"
         }
     ],

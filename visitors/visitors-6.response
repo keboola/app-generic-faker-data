@@ -4,21 +4,6 @@
     "lastPage": false,
     "items": [
         {
-            "id": "0fda6a48d0ca7c5a2c2c67bd9046d33982c34e60",
-            "idProfile": "127868145",
-            "date": "2018-01-09",
-            "source": "seznam",
-            "medium": "organic",
-            "country": "Czechia",
-            "city": "Moravsky Krumlov",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "17",
-            "uniquePageviews": "9",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
             "id": "2b00275cd5de99be421f8bfd3f81954ae6388e1b",
             "idProfile": "127868145",
             "date": "2017-09-10",
@@ -15001,6 +14986,21 @@
             "pageviews": "1",
             "uniquePageviews": "1",
             "newUsers": "1",
+            "sessions": "1"
+        },
+        {
+            "id": "fa90cbc59f1d123600c26a19d3594fb5d9f90322",
+            "idProfile": "127868145",
+            "date": "2017-09-14",
+            "source": "google",
+            "medium": "cpc",
+            "country": "Czechia",
+            "city": "Ricany",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "1",
+            "uniquePageviews": "1",
+            "newUsers": "0",
             "sessions": "1"
         }
     ],

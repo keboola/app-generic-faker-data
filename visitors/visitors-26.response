@@ -4,21 +4,6 @@
     "lastPage": false,
     "items": [
         {
-            "id": "f871c00fd658b59fcbc09612b52d387578638d82",
-            "idProfile": "127868145",
-            "date": "2017-10-28",
-            "source": "facebook",
-            "medium": "cpc",
-            "country": "Czechia",
-            "city": "Melnik",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "3",
-            "uniquePageviews": "2",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
             "id": "2d3cce3bf4c967a5e948d99ba821d782f8418e95",
             "idProfile": "127868145",
             "date": "2017-12-17",
@@ -15001,6 +14986,21 @@
             "pageviews": "1",
             "uniquePageviews": "1",
             "newUsers": "1",
+            "sessions": "1"
+        },
+        {
+            "id": "45aa0e88c889654462c6461b4c3d11e641626ceb",
+            "idProfile": "127868145",
+            "date": "2018-01-10",
+            "source": "facebook",
+            "medium": "cpc",
+            "country": "Czechia",
+            "city": "Trebic",
+            "continent": "Europe",
+            "users": "1",
+            "pageviews": "1",
+            "uniquePageviews": "1",
+            "newUsers": "0",
             "sessions": "1"
         }
     ],
