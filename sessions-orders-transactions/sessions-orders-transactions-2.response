@@ -26,6 +26,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "617.5"
+        },
+        {
+            "id": "1f95ae404a42557c11f43a61b756c2fdff11348e",
+            "idProfile": "127868145",
+            "date": "2018-03-09",
+            "transactionId": "1219",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "2",
+            "transactionRevenue": "1656.0"
         }
     ],
     "pageNumber": 2
