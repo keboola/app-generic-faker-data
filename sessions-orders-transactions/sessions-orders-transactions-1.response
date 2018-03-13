@@ -11248,6 +11248,18 @@
             "transactionRevenue": "488.0"
         },
         {
+            "id": "59e5b36dddf2d46859406290ae9c63a551b9a755",
+            "idProfile": "127868145",
+            "date": "2018-03-09",
+            "transactionId": "1220",
+            "deviceCategory": "desktop",
+            "browser": "Internet Explorer",
+            "medium": "organic",
+            "source": "bing",
+            "transactions": "1",
+            "transactionRevenue": "1570.0"
+        },
+        {
             "id": "f97acc7242a99a38a94e3f3237c6c6aabb247436",
             "idProfile": "127868145",
             "date": "2017-05-06",
@@ -11990,18 +12002,6 @@
             "source": "l.facebook.com",
             "transactions": "1",
             "transactionRevenue": "223.0"
-        },
-        {
-            "id": "38d342c393fd567f44026f2ca822dcaa6e209294",
-            "idProfile": "127868145",
-            "date": "2017-03-18",
-            "transactionId": "494",
-            "deviceCategory": "desktop",
-            "browser": "Chrome",
-            "medium": "organic",
-            "source": "google",
-            "transactions": "1",
-            "transactionRevenue": "738.0"
         }
     ],
     "pageNumber": 1

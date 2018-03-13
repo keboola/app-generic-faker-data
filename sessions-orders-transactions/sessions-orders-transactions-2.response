@@ -4,6 +4,18 @@
     "lastPage": true,
     "items": [
         {
+            "id": "38d342c393fd567f44026f2ca822dcaa6e209294",
+            "idProfile": "127868145",
+            "date": "2017-03-18",
+            "transactionId": "494",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "738.0"
+        },
+        {
             "id": "994945298782382c8435897696bad8373fa03114",
             "idProfile": "127868145",
             "date": "2017-02-01",
@@ -38,6 +50,42 @@
             "source": "google",
             "transactions": "2",
             "transactionRevenue": "1656.0"
+        },
+        {
+            "id": "49da9df1dec3d4a49c21f8bfef543503d53747dd",
+            "idProfile": "127868145",
+            "date": "2018-03-11",
+            "transactionId": "1221",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "859.0"
+        },
+        {
+            "id": "fcd1e8f0832c228ce617520e529a084c9d0372a2",
+            "idProfile": "127868145",
+            "date": "2018-03-12",
+            "transactionId": "1223",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "newsletterautomation",
+            "source": "bitly",
+            "transactions": "1",
+            "transactionRevenue": "777.0"
+        },
+        {
+            "id": "78a808d7528b4554165d8dc4c7c914a2058e033a",
+            "idProfile": "127868145",
+            "date": "2018-03-12",
+            "transactionId": "1222",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "750.0"
         }
     ],
     "pageNumber": 2
