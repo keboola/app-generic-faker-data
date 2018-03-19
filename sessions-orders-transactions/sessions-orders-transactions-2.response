@@ -4,6 +4,42 @@
     "lastPage": true,
     "items": [
         {
+            "id": "8ae65ef86b947c8ab78fea9414ccddb0719e7127",
+            "idProfile": "127868145",
+            "date": "2017-05-24",
+            "transactionId": "581",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "transactions": "1",
+            "transactionRevenue": "718.0"
+        },
+        {
+            "id": "e388788cb54d3ccd70f96a1476960f4bf2a7e3c9",
+            "idProfile": "127868145",
+            "date": "2016-12-10",
+            "transactionId": "354",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "cpc-traffic-w-13-65",
+            "source": "facebook",
+            "transactions": "1",
+            "transactionRevenue": "528.0"
+        },
+        {
+            "id": "476f22793e96ad83b8c734277fdd9a8e58ac68a1",
+            "idProfile": "127868145",
+            "date": "2017-11-01",
+            "transactionId": "898",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "transactions": "1",
+            "transactionRevenue": "223.0"
+        },
+        {
             "id": "38d342c393fd567f44026f2ca822dcaa6e209294",
             "idProfile": "127868145",
             "date": "2017-03-18",

@@ -11248,6 +11248,42 @@
             "transactionRevenue": "488.0"
         },
         {
+            "id": "c35edcc31452d27501172a8af585b03b4e85c1ee",
+            "idProfile": "127868145",
+            "date": "2018-03-18",
+            "transactionId": "1228",
+            "deviceCategory": "desktop",
+            "browser": "Opera",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "770.403974"
+        },
+        {
+            "id": "a981b5cd97bd1539973fe8fd7c0d141ff0891d75",
+            "idProfile": "127868145",
+            "date": "2018-03-18",
+            "transactionId": "1229",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1632.0"
+        },
+        {
+            "id": "56247a51543692cb874b330f96cc16aa0620c416",
+            "idProfile": "127868145",
+            "date": "2018-03-18",
+            "transactionId": "1230",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "828.0"
+        },
+        {
             "id": "59e5b36dddf2d46859406290ae9c63a551b9a755",
             "idProfile": "127868145",
             "date": "2018-03-09",
@@ -11966,42 +12002,6 @@
             "source": "Instagram",
             "transactions": "1",
             "transactionRevenue": "671.0"
-        },
-        {
-            "id": "8ae65ef86b947c8ab78fea9414ccddb0719e7127",
-            "idProfile": "127868145",
-            "date": "2017-05-24",
-            "transactionId": "581",
-            "deviceCategory": "desktop",
-            "browser": "Chrome",
-            "medium": "referral",
-            "source": "l.facebook.com",
-            "transactions": "1",
-            "transactionRevenue": "718.0"
-        },
-        {
-            "id": "e388788cb54d3ccd70f96a1476960f4bf2a7e3c9",
-            "idProfile": "127868145",
-            "date": "2016-12-10",
-            "transactionId": "354",
-            "deviceCategory": "desktop",
-            "browser": "Chrome",
-            "medium": "cpc-traffic-w-13-65",
-            "source": "facebook",
-            "transactions": "1",
-            "transactionRevenue": "528.0"
-        },
-        {
-            "id": "476f22793e96ad83b8c734277fdd9a8e58ac68a1",
-            "idProfile": "127868145",
-            "date": "2017-11-01",
-            "transactionId": "898",
-            "deviceCategory": "desktop",
-            "browser": "Chrome",
-            "medium": "referral",
-            "source": "l.facebook.com",
-            "transactions": "1",
-            "transactionRevenue": "223.0"
         }
     ],
     "pageNumber": 1
