@@ -158,6 +158,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "2080.0"
+        },
+        {
+            "id": "1a6b94cc750bf510a3f4cd720016d244f62cf403",
+            "idProfile": "127868145",
+            "date": "2018-03-22",
+            "transactionId": "1231",
+            "deviceCategory": "mobile",
+            "browser": "Android Webview",
+            "medium": "cover",
+            "source": "facebook",
+            "transactions": "1",
+            "transactionRevenue": "651.971305"
         }
     ],
     "pageNumber": 2
