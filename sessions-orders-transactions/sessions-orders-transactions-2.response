@@ -206,6 +206,18 @@
             "source": "dblog.cz",
             "transactions": "1",
             "transactionRevenue": "668.0"
+        },
+        {
+            "id": "e15e9dcb3042f977ef69cc57993584a0bb9884bb",
+            "idProfile": "127868145",
+            "date": "2018-03-27",
+            "transactionId": "1236",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1170.930278"
         }
     ],
     "pageNumber": 2
