@@ -1,0 +1,1115 @@
+{
+    "source": "in.c-keboola-ex-google-analytics-v4-326477640.product-views-source",
+    "destination": "product-views-source",
+    "lastPage": true,
+    "items": [
+        {
+            "id": "dd98ce6689a0d8d8cd21c6bf8b00e8e7d22bc6d4",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "33",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "4a67cb9ea2f66a474df1b554668da6a205479c87",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "54",
+            "medium": "cpc",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "2784831193944d1d7921dbd5b4e7605985dd6d44",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "87",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "2afdfdc65781c5d062a60416514af7a03e5e570f",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "48",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "415fc1e08aa860716aab51ad9dd788184a3d5ac2",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "115",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "a2be68013f3f99a04d773ad198bcded0d9ef73ba",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "117",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "b8090a28462a26fbf3d16ea809a6a4f667debd90",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "95",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "a82383cf6a4b64e7194539bd716bd102cc42c67c",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "94",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "82443c9522324ec165f99be7aa7fbce1cf62fcfb",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "68",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "323292bd056d78150e04aec9112fe73b784226e4",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "28",
+            "medium": "cpc",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "0fed23043e1afaac0518ed898ccc6d190cb2dd19",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "107",
+            "medium": "referral",
+            "source": "lm.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "4a1e73c5095c52f4cd63640c8e92ccc9dc63e5f2",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "99",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "8544c6abd005bd76f32294b545c911ccf0e0b9eb",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "55",
+            "medium": "cpc",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "bcaf4fe53385ee681ea5edb72f62e793f24724b5",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "37",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "601916f17c023832409c599d01dbaffdad2b506a",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "80",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "074ebdb7826322ba93294343ecfafe493175039f",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "26",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "51abaca201cd76c10f20ee0b186f157ffb06635b",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "55",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "29a1edc0491859acf5dc58ac6b370235e120ec8a",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "80",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "464c055a108694da157134e2255b4602037d0a61",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "10",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "bd1e0b19046fb181513dca7be124b74cf928c3ed",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "100",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "29584342abb50a9a8e672d81e7cef9361ea55364",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "109",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "pageviews": "0"
+        },
+        {
+            "id": "4ebfa97db2bea382a1161de5c0472cd72c8e1785",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "59",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "5be4d80c23442833472c4244fcfb0c8963974d3f",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "111",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "1d5492a096c3c7aa538ef2d65cb710ad9348c0fe",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "102",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "780e0aeff3d779d5ef05ef5e8d7e42bfa54946b6",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "96",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "9de344ee227cf7663ec0970adfb9d515e46df7f3",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "117",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "8a519051f95d7b87e9500947046e8940d50c07e5",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "82",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "88a1dec0987162e8e7ada3df0425e462d5caa8d1",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "33",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "aca7a6ad882ef8a31d55c2976d6815cdc322205c",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "55",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "c19a110ff5ebb47b8bb2703636fd04ee4bf3717c",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "83",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "0125e744359470695d2e673b2698f5f594789e78",
+            "idProfile": "127868145",
+            "date": "2018-03-31",
+            "productSku": "78",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "c5e8343335bae1758003594241058ce032faf146",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "16",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "2a434d7e57f553cb790cf3f5ddf5a541a4715399",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "29",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "398da2de300c75d54a44e1a5ae327e102065db38",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "74",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "dcd141201a6497f58650f7881c63e9bf30f1d58a",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "53",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "b9db02f2920816a8d2f6f7944d591d98c181707c",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "44",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "1533c63e08d961233a0b9f051260a3b8bca1fa49",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "68",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "80d51e1fa5c7efe1319d88c1dfee291a8df78bee",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "53",
+            "medium": "cpc",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "af24f33449aa0b47634e8d84eddd541e12d0ba58",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "86",
+            "medium": "cover",
+            "source": "facebook",
+            "pageviews": "0"
+        },
+        {
+            "id": "377c322a9f1eb23788c600e5046bf5700e66a5e1",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "74",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "61118a27a7214ae868227d0818ccb9700a45a547",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "102",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "pageviews": "0"
+        },
+        {
+            "id": "911f5dbf51c2f0b6cd47cca005fba4bfdd31695c",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "68",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "0d857b083d293a76b0699c243adc81bf9e0107f1",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "75",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "d25065ce3fbebd770778986a370ace8a206554bd",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "92",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "b8216b2dc7000af31c11d659fbeea3ff77797055",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "41",
+            "medium": "cpc",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "5e6e9639c271804db778726cbded832cc1751f6d",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "108",
+            "medium": "cover",
+            "source": "facebook",
+            "pageviews": "0"
+        },
+        {
+            "id": "d974a7c82137dc9722a4f708fa778caa060dd071",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "33",
+            "medium": "cpc",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "c3f4462881ca55568358abd9f132b56fb5b9ef99",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "68",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "c058de900dd0b46eaf86ac84c09ec27e38dcf1cd",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "77",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "98169cc6f175e0a9f898931e2c57220c496780de",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "108",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "pageviews": "0"
+        },
+        {
+            "id": "18ce21c5083ab96deb9e872549e279618486c509",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "77",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "867f80781eac895d7583138ba275609b3b5736b8",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "53",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "537e46bb5678d65ffec97e05aa356a2137c9026b",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "29",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "61d1333a31a29207dd06a34f7352c3406d97fcfa",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "108",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "c26662a7d97f9f8caf7b4256f2e80cc79b108b04",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "18",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "971d40d1164c508da91775047765fd25e27ad966",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "87",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "cfa6ee808b30e70450e98000e7cbea31d6a9eaec",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "72",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "2b22be256bbca03d81fdab4fcf0635391484d77d",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "110",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "pageviews": "0"
+        },
+        {
+            "id": "531bdb506dd555b0e075571177415bda1e9383a8",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "94",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "pageviews": "0"
+        },
+        {
+            "id": "4c1a58124b8994357e20e336aca06ae98f4c565c",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "91",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "f092e37239cd82780c0f759d6088b44b3df48e6d",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "46",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "850e801a6bdee7f48474d4a286b49b3bfbd4bda0",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "92",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "pageviews": "0"
+        },
+        {
+            "id": "961b49487f9333103fe036b070eb715824a92eb5",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "46",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "8264eeef40bbc8ec41292db0dc9dd4301596ce01",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "61",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "97178cc743ec92aa465fa916101ba0c355a3f98e",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "28",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "bf17ec9ba27c2760e06afcb5a1a1ab0d26e4c32c",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "113",
+            "medium": "cover",
+            "source": "facebook",
+            "pageviews": "0"
+        },
+        {
+            "id": "71c2af343620c0b1860b120bc10c38908e439f8b",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "32",
+            "medium": "cpc",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "d60fbf097a3f85e33bc93ae5236a6d4f1de5589b",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "107",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "84d97e73fda3803dbf52f262fdac535f2cb7f84f",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "118",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "372ee10feb14bddfc746404422c0a32d15936777",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "15",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "9fb98cfd4e32f4e03151784d33aad298d102fe70",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "94",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "e992968dde351b8aef1681eed9c77ae3628f42e5",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "113",
+            "medium": "referral",
+            "source": "lm.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "c61b950283b878e6c789b54e6fb331819592e9d2",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "10",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "pageviews": "0"
+        },
+        {
+            "id": "fed939aaac97fe42f270971ba22bb45fc5fc8a24",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "107",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "7041c4ed0c909a03e4cba3cda955c1d210ac5bb5",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "117",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "8913e502b762a81fc640fac85f2ea36bfa4d3bab",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "16",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "c8a1e52afd3316bc470f85fe7b02de4eed7573fe",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "15",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "20a011785417059c290525b9bddd910c845ee30e",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "110",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "2aac42dc8a549f74051ac07aa87e594c778492ef",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "110",
+            "medium": "referral",
+            "source": "lm.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "13040a911d51b4304d464f7d18e65b82f7f65599",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "44",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "e63da45914c5534b2471f5f4a235c510435cabaa",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "83",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "c440262f579a100988ff92317937cd5eee0cb2cd",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "30",
+            "medium": "cover",
+            "source": "facebook",
+            "pageviews": "0"
+        },
+        {
+            "id": "889d0b2f792676ebaeae85243b350eb44663b31a",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "81",
+            "medium": "cover",
+            "source": "facebook",
+            "pageviews": "0"
+        },
+        {
+            "id": "d6e91b7884a852ae34b86340bdd5a9c63b0d238d",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "109",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "45b13610bb811fd959334a0692f93645a2d70f4e",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "55",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "f5028b9b910ddb3dfb738f787291557243e2fd17",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "32",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "5f02085f400f2908662d0f21e948d0e3135d0926",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "114",
+            "medium": "referral",
+            "source": "lm.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "941f15dc6a2574d89a44e0192ba0b29ad6bd7848",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "16",
+            "medium": "organic",
+            "source": "seznam",
+            "pageviews": "0"
+        },
+        {
+            "id": "825ff59887cfd9d5af9fcb617f01697fe72138a7",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "87",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "58bfcf90fec65ab36f8cfc327e681826708022e4",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "70",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "15740c0dfc8eaa8524c0ab147e16156af34a8e4e",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "104",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "289783717db000a72af514aa829ff044493bfdd4",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "16",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "3d80ecddfe716374c9d07ddca3089b346974658c",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "108",
+            "medium": "referral",
+            "source": "lm.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "e4abf5c7b918f80f256349d8b5e73f734429539a",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "13",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "ac18c55a056d3ab3e23e396cb19d7136d7b9a686",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "18",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "pageviews": "0"
+        },
+        {
+            "id": "1af84ea64a49b339e581300fcae10e2005fc0589",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "79",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "4ee329fb022efc2178c384671f22442330c38c53",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "115",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "480f312c0e2e3cfc313791c32cff8fa928052e58",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "85",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "cefe895676f9df3c859b4e8143785d5028b6941e",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "68",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "61098fb2a4ae5e3ee38ec426800be806cbcb2ab7",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "29",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "df087b382dfe3276dc795e13c9e1fe7def5f7fe2",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "37",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "7b015ab1d7fbe84d545442f737937bb7f675565a",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "29",
+            "medium": "cover",
+            "source": "facebook",
+            "pageviews": "0"
+        },
+        {
+            "id": "55df54f6f7262a44141fb2d067b42a65d64a40f7",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "65",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "e5fc7df5a4cf729391ab8286ece93bb958e0c6fe",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "61",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "650b11e1a3eda4f4fea23f8cacc2c9bc6b2fa99b",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "16",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "80f54860b022b21c43fbce5a5756ca64d14c27d3",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "112",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "43206bc7ceed12c855e0e6a529caad7d1028c69f",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "15",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "pageviews": "0"
+        },
+        {
+            "id": "63881e9b0c44a42afba60b980f37d2d2b480438e",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "87",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "bba0a7c73e35361608a33e203344e1f76a621735",
+            "idProfile": "127868145",
+            "date": "2018-03-31",
+            "productSku": "94",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "bc4907eb755d4ff4dacd7dff4b8eca6c30f5bb49",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "28",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "7cdddf65c866d14998262c11692321db6ef37447",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "68",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "f32d51e00ec8f223494996af723aeedc9d4dba33",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "18",
+            "medium": "referral",
+            "source": "m.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "751c9330735cb5cdb7d7b1f208b2ddc829f396c0",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "105",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "0c38439445ae8f402ddd15a54a9dbb5e4aded995",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "50",
+            "medium": "cpc",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "d5e8433f17596ec5d23cd809affe51e9f755dbb2",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "61",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "pageviews": "0"
+        },
+        {
+            "id": "e22003702a8ece9fa006d36e3c105e16a0719d29",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "18",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "pageviews": "0"
+        },
+        {
+            "id": "9a95edb252a6636a193cbfaea26a4f883fb91142",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "97",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "54d942c18db54f4d94d71d329cf6508a3d5e1fac",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "25",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "4f2b7bd6e37ab901a118b295765fcac6943eb48e",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "2",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "32e9e66debd539a73c4d7e8cc67a1f3f29f424b9",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "115",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "31f925b1bfd781a8ec1e16e51880fe842efcae46",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "118",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "ea8b1a7ef7a8621379f022dd9284e439c0e09dbf",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "110",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "3512f8053ac81422f012fcfc5e67afed4367d5bd",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "productSku": "72",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        }
+    ],
+    "pageNumber": 159
+}

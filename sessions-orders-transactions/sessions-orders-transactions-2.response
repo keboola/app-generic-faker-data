@@ -242,6 +242,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "1750.0"
+        },
+        {
+            "id": "22e7e44ff63918f96c866a8c1b18897fb81b05d1",
+            "idProfile": "127868145",
+            "date": "2018-03-30",
+            "transactionId": "1241",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "email",
+            "source": "Gadogado.cz registrovani zakaznici",
+            "transactions": "2",
+            "transactionRevenue": "3636.0"
         }
     ],
     "pageNumber": 2
