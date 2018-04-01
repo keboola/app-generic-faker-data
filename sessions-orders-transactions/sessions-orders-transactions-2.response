@@ -254,6 +254,42 @@
             "source": "Gadogado.cz registrovani zakaznici",
             "transactions": "2",
             "transactionRevenue": "3636.0"
+        },
+        {
+            "id": "af23e5723c17814cf9e4a8da0a27b3bc5a919a51",
+            "idProfile": "127868145",
+            "date": "2018-03-31",
+            "transactionId": "1243",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "2319.555734"
+        },
+        {
+            "id": "b046dc4971ba62dcda06c8c94d8fc8062241601e",
+            "idProfile": "127868145",
+            "date": "2018-03-31",
+            "transactionId": "1242",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "2342.0"
+        },
+        {
+            "id": "eee0874279e239089a7c096be21d3f26bc91979b",
+            "idProfile": "127868145",
+            "date": "2018-04-01",
+            "transactionId": "1244",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "838.793965"
         }
     ],
     "pageNumber": 2
