@@ -289,7 +289,19 @@
             "medium": "organic",
             "source": "google",
             "transactions": "1",
-            "transactionRevenue": "838.793965"
+            "transactionRevenue": "838.671883"
+        },
+        {
+            "id": "3f3348ed85cf1e15b4f8ad020fcee0c50e670709",
+            "idProfile": "127868145",
+            "date": "2018-04-01",
+            "transactionId": "1245",
+            "deviceCategory": "desktop",
+            "browser": "Opera",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "transactions": "1",
+            "transactionRevenue": "750.0"
         }
     ],
     "pageNumber": 2
