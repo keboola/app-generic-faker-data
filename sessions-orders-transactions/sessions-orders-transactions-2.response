@@ -302,6 +302,30 @@
             "source": "dblog.cz",
             "transactions": "1",
             "transactionRevenue": "750.0"
+        },
+        {
+            "id": "c5dbb2cc8be8b5aa8be8c6249622906e3b21ff09",
+            "idProfile": "127868145",
+            "date": "2018-04-02",
+            "transactionId": "1239",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1818.0"
+        },
+        {
+            "id": "c543cd650cb23a149d862cb306d16c3a146b1b09",
+            "idProfile": "127868145",
+            "date": "2018-04-02",
+            "transactionId": "1240",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1818.0"
         }
     ],
     "pageNumber": 2
