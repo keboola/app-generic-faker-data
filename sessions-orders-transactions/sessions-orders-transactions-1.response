@@ -11248,6 +11248,18 @@
             "transactionRevenue": "488.0"
         },
         {
+            "id": "b08971f83951a7a5fcababb4c19dfbabd0a1c8c2",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "transactionId": "1247",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "828.0"
+        },
+        {
             "id": "c35edcc31452d27501172a8af585b03b4e85c1ee",
             "idProfile": "127868145",
             "date": "2018-03-18",
@@ -11990,18 +12002,6 @@
             "source": "glami.cz",
             "transactions": "1",
             "transactionRevenue": "768.0"
-        },
-        {
-            "id": "3a326b7ee244e58c239ee8792b13b87f63d810da",
-            "idProfile": "127868145",
-            "date": "2017-07-15",
-            "transactionId": "675",
-            "deviceCategory": "desktop",
-            "browser": "Chrome",
-            "medium": "biolink",
-            "source": "Instagram",
-            "transactions": "1",
-            "transactionRevenue": "671.0"
         }
     ],
     "pageNumber": 1

@@ -1,0 +1,431 @@
+{
+    "source": "in.c-keboola-ex-google-analytics-v4-326477640.product-views-source",
+    "destination": "product-views-source",
+    "lastPage": true,
+    "items": [
+        {
+            "id": "1e037e31956935138586a27d4ed01df953b07e27",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "79",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "87054877110a68bc08ef9734f0375ee11181841d",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "57",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "3814d1d3c15eb10c04832ed3f4444cb1be0a11e8",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "82",
+            "medium": "cpc",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "d5e58a3b223d40b23954d2071ab5d26b2ec9f433",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "44",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "b546135be8c2e899d26b0f9ccceeebf6e91805ac",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "41",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "9caccd4ff8e245c31f4409d1cf76697eefd33ee9",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "22",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "b6ad940cd4c8e8092e0eeeb1473c36dceed4028b",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "118",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "f9a416f73cdac8bdcf14e1dda2d4ef9f68dab95b",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "46",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "68ba9d99b7bbdf87e85e5dda65cbff71da3484c5",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "82",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "5803e95484a1bb284890bda528074fc949cf9f30",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "94",
+            "medium": "referral",
+            "source": "vinted.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "3da1068830c0c8c68ac22a730bd9895c31dc1ac9",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "13",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "7a183c37eeff34bfbdaf57dfb360fa4349506363",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "102",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "17c829dfa4a6b541d9ddadde6f09272e6c2b8ed5",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "116",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "pageviews": "0"
+        },
+        {
+            "id": "9b698b12051949a7d26019ad8bc40eb8253f9e1e",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "108",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "86b60e8137a94762bfa1fb337470176bfea1cef7",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "16",
+            "medium": "cpc",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "c66f6bb5a70691ba1dd584ac241c2c7327aa687c",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "18",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "fceedd6d286aeb889feae09a9ac89affdfcb638c",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "87",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "07ec3481fa8826f6528f03ecd8e94f027a34aedc",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "2",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "ee677301c04cfe648c9f8ca10aae2ffbe9ac2739",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "51",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "pageviews": "0"
+        },
+        {
+            "id": "88c5743a6bec3d9a3a8f307c9e3882f041c24391",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "32",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "26c0d3322d747ae8f7fe6c7a2611be7091478a4d",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "83",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "pageviews": "0"
+        },
+        {
+            "id": "c4b13d6fbd5b18ba0af0e9fdc88015915f403d98",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "65",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "d3d5e58bd3d508feac25dc3f6764f8924d088e0b",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "113",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "0b821b375c48f07f5316ed1fa94c9a210239d524",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "92",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "285dc6d559eed3f3fc65c4cecab19e4bede7addb",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "44",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "pageviews": "0"
+        },
+        {
+            "id": "f950089274c7685b55e70663e065d92e293b60cd",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "87",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "06106f48f82c01ab3abe1f6a881a5f4f8a130584",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "16",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "pageviews": "0"
+        },
+        {
+            "id": "1a5db6b3fd8d5207bf309c8b7b95a6d9592c51ed",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "106",
+            "medium": "referral",
+            "source": "vinted.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "ccfedf6c60919d825cb23b45c1828cacbcbf2775",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "15",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "3699cdb9df32348041bf4c38e9809c3859279ebd",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "10",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "9bd1e6d319a4c102290d60e954898e6f02c8986e",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "50",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "0071d542e8d32b1c85027c0a9976a941a0e9e902",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "30",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "18dd6338b580bfb0a81881b799e93ac1a7790802",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "115",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "e04d225db16df45ae0446bd223a44dc089b01572",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "112",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "pageviews": "0"
+        },
+        {
+            "id": "fd758a7140d1251b1d3edbdcc0b3ef23663ebe59",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "2",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "pageviews": "0"
+        },
+        {
+            "id": "9e1fbcff415b4e6193ee35e53823986488f42e35",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "46",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "pageviews": "0"
+        },
+        {
+            "id": "2b0ee7a0e6d16bff720b3bfb70f054311713e1d2",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "33",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "pageviews": "0"
+        },
+        {
+            "id": "6df316b0cd2c9ac6e6ac9ecdd296753abc4ae324",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "13",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "fd672433b2af6b1b24814536251cfad2c9289d7f",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "116",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "a68153e30685fffd3fea09e1d5f044e0425903b0",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "28",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "pageviews": "0"
+        },
+        {
+            "id": "b63372c6fdce818e7d0d777055110f9613707827",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "106",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "8a7dc5a6ca0695197b8ee89c6fe9771baf988848",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "107",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "7070232b9aa274589b8006b94bc0ccb46d1e8731",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "22",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "11b27915d712a45e6765f8a1f2a31d572b52c476",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "25",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "5b5b11b49026669f45bc87a506bd0b8622c653e7",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "68",
+            "medium": "organic",
+            "source": "seznam",
+            "pageviews": "0"
+        },
+        {
+            "id": "fcbf84aa0eba8f3e2849a131e07319c1782b7ffa",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "85",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "742e46e3b872f5f932e7a8dcd5a60f11a91f1347",
+            "idProfile": "127868145",
+            "date": "2018-04-03",
+            "productSku": "38",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        }
+    ],
+    "pageNumber": 161
+}
