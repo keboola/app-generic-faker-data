@@ -338,6 +338,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "1818.0"
+        },
+        {
+            "id": "dee7b203814c6f506b9cacdb370a0185308d704a",
+            "idProfile": "127868145",
+            "date": "2018-04-04",
+            "transactionId": "1248",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "862.0"
         }
     ],
     "pageNumber": 2
