@@ -4,6 +4,18 @@
     "lastPage": true,
     "items": [
         {
+            "id": "d8c0c0fdf18a761dd9ab2b8150d896288fb8827d",
+            "idProfile": "127868145",
+            "date": "2018-02-01",
+            "transactionId": "1147",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "transactions": "1",
+            "transactionRevenue": "768.0"
+        },
+        {
             "id": "3a326b7ee244e58c239ee8792b13b87f63d810da",
             "idProfile": "127868145",
             "date": "2017-07-15",

@@ -11248,6 +11248,18 @@
             "transactionRevenue": "488.0"
         },
         {
+            "id": "9569e124a2ea99719582aa8c27132223f7b449ae",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "transactionId": "1246",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "2035.576099"
+        },
+        {
             "id": "b08971f83951a7a5fcababb4c19dfbabd0a1c8c2",
             "idProfile": "127868145",
             "date": "2018-04-03",
@@ -11990,18 +12002,6 @@
             "source": "sendinblue",
             "transactions": "1",
             "transactionRevenue": "1046.0"
-        },
-        {
-            "id": "d8c0c0fdf18a761dd9ab2b8150d896288fb8827d",
-            "idProfile": "127868145",
-            "date": "2018-02-01",
-            "transactionId": "1147",
-            "deviceCategory": "desktop",
-            "browser": "Chrome",
-            "medium": "cpc",
-            "source": "glami.cz",
-            "transactions": "1",
-            "transactionRevenue": "768.0"
         }
     ],
     "pageNumber": 1
