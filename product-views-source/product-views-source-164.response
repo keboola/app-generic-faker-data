@@ -1,0 +1,395 @@
+{
+    "source": "in.c-keboola-ex-google-analytics-v4-326477640.product-views-source",
+    "destination": "product-views-source",
+    "lastPage": true,
+    "items": [
+        {
+            "id": "54d09dde57b1ba06133104635401adb371883a10",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "102",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "cd028a50f7c2ea650b2c12ec23a06ba1de2d0780",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "78",
+            "medium": "organic",
+            "source": "seznam",
+            "pageviews": "0"
+        },
+        {
+            "id": "368ecee99a82a9b6acd7257beb19cc66cc8bf3d8",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "111",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "c00286b0bb172753c47ecd70d75d82b72097b2b4",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "70",
+            "medium": "referral",
+            "source": "lm.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "31d7b9ab6e40ad7468cc8ae0d14e5ae9d4cbe1ab",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "107",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "226656376d60fd82df28d444bf26bc193b02a893",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "86",
+            "medium": "referral",
+            "source": "vinted.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "550f9b7e3e090bb16dbef51069be4098882b8454",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "16",
+            "medium": "referral",
+            "source": "vinted.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "e9bf41c6660cf6b13eff6fb221385ce90bf7376f",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "78",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "1e87c70e7c4313a1d375516b5a7b7b0eb8562c1d",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "69",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "9bb9dc1b1e6d52b8f6f3f44c841e2307b8ed0b40",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "111",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "9b4dda947dd697c3a19fcb897b25baa407e5eec1",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "37",
+            "medium": "referral",
+            "source": "vinted.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "12f1e26917d9fae65967ce52e416ad2e44160afd",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "91",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "230aa1cc778c83b33c862c6aa43244b9c524f6e6",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "80",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "cd68569d8e6f1b9356d6b289ac63d4c673ab72f7",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "29",
+            "medium": "cover",
+            "source": "facebook",
+            "pageviews": "0"
+        },
+        {
+            "id": "d6fe1a7d5f3c7cf28ac79337901b4fc76527616a",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "82",
+            "medium": "organic",
+            "source": "google",
+            "pageviews": "0"
+        },
+        {
+            "id": "37af296028afb608c2494d6c160bd5c68db7dcaa",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "76",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "7be25975bf9753c24665f7395c6197d029336e86",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "87",
+            "medium": "referral",
+            "source": "lm.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "b2fd860b5f37a22128bd950370076ab233c1d996",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "61",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "aa228e14b197547d21c68a4103d4bf1fddadd432",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "96",
+            "medium": "referral",
+            "source": "vinted.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "12f15ff8abcac33919d6b36787124ed4fb4a848f",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "15",
+            "medium": "referral",
+            "source": "vinted.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "e3d6b9ebe99a5bd471481fe61d5f735dd7406022",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "41",
+            "medium": "referral",
+            "source": "m.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "2632e388953604081cb4c49573a82ae6ea0afb04",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "productSku": "70",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "781ae07b23a0197330dbd6d1b52ec1efa6022354",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "92",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "464785e88447c13ed60952546103dede6431d722",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "97",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "e92b97276f693e8a7961df125974ad405739df1f",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "110",
+            "medium": "(none)",
+            "source": "(direct)",
+            "pageviews": "0"
+        },
+        {
+            "id": "9111dfbfa3ad8d69708f6395e150959910d75485",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "100",
+            "medium": "organic",
+            "source": "seznam",
+            "pageviews": "0"
+        },
+        {
+            "id": "a0332bd6876508d8bbf5cca933a06d6216d1f6dc",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "113",
+            "medium": "referral",
+            "source": "instagram.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "12929b641cd9ba1c42d40bad979024b48db02480",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "37",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "d8f6c7efb87921763821e1bc840885bfdf3024fa",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "117",
+            "medium": "referral",
+            "source": "instagram.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "92849e5053d4707eada73c95c5022ab9e4ffe382",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "28",
+            "medium": "organic",
+            "source": "seznam",
+            "pageviews": "0"
+        },
+        {
+            "id": "43c68e5b75ed61ee4b0b19e24e1c88289e0aeefb",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "25",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "4741c71a6760b6a51c6d70f1d730a6591397327e",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "44",
+            "medium": "referral",
+            "source": "instagram.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "6a2a1b1befa24a29d297c3ab6ac6113c15d21ebd",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "86",
+            "medium": "referral",
+            "source": "instagram.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "d8a12c94a7e88d0e1e59c1a67d5097cd98ca4bcb",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "68",
+            "medium": "referral",
+            "source": "instagram.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "d30f6789f41afca970ab2fd651d2bf54e216df07",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "10",
+            "medium": "referral",
+            "source": "dblog.cz",
+            "pageviews": "0"
+        },
+        {
+            "id": "0fab4621d5dc77947220676e68f5c9e61a3d9e67",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "85",
+            "medium": "biolink",
+            "source": "Instagram",
+            "pageviews": "0"
+        },
+        {
+            "id": "23d9de437df82a83f924576d0238511248fb2381",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "109",
+            "medium": "CPC",
+            "source": "facebook",
+            "pageviews": "0"
+        },
+        {
+            "id": "bd9451b5b3db92e9f54feefd5292da6bb92ac9ad",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "113",
+            "medium": "referral",
+            "source": "lifeisbetterinbikinis.net",
+            "pageviews": "0"
+        },
+        {
+            "id": "a45de59f04459da3d1ef22bfe0240e394c73caa0",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "110",
+            "medium": "referral",
+            "source": "instagram.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "18258bf956ddb22382340d49fce840dae9d79457",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "114",
+            "medium": "referral",
+            "source": "instagram.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "8d73bd9d90a59793f92a63105adfc9cd91239479",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "25",
+            "medium": "organic",
+            "source": "seznam",
+            "pageviews": "0"
+        },
+        {
+            "id": "871ad5ec3db523195bb40b4fed89dda1ab00c0d6",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "51",
+            "medium": "referral",
+            "source": "instagram.com",
+            "pageviews": "0"
+        },
+        {
+            "id": "0ccef30aa40d13b2c5f7a444ee146ba8d20ab9db",
+            "idProfile": "127868145",
+            "date": "2018-04-09",
+            "productSku": "109",
+            "medium": "referral",
+            "source": "instagram.com",
+            "pageviews": "0"
+        }
+    ],
+    "pageNumber": 164
+}

@@ -374,6 +374,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "2080.0"
+        },
+        {
+            "id": "c7a8bf48a83122ec9a5a097ce68b833dfca6649b",
+            "idProfile": "127868145",
+            "date": "2018-04-10",
+            "transactionId": "1251",
+            "deviceCategory": "desktop",
+            "browser": "Internet Explorer",
+            "medium": "organic",
+            "source": "seznam",
+            "transactions": "1",
+            "transactionRevenue": "638.0"
         }
     ],
     "pageNumber": 2
