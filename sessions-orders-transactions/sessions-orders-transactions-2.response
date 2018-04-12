@@ -386,6 +386,30 @@
             "source": "seznam",
             "transactions": "1",
             "transactionRevenue": "638.0"
+        },
+        {
+            "id": "881a514b23bd20b2c088dc41a6b4b16efe9c7d08",
+            "idProfile": "127868145",
+            "date": "2018-04-11",
+            "transactionId": "1253",
+            "deviceCategory": "desktop",
+            "browser": "Edge",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "transactions": "1",
+            "transactionRevenue": "1570.0"
+        },
+        {
+            "id": "49d386ddd01e9f3430bdca9b77b0b496888eaf19",
+            "idProfile": "127868145",
+            "date": "2018-04-11",
+            "transactionId": "1252",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "21.76"
         }
     ],
     "pageNumber": 2
