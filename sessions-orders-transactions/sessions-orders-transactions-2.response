@@ -626,6 +626,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "726.6"
+        },
+        {
+            "id": "5cf7933cc4a8cc52193d4ce902df37c819c01980",
+            "idProfile": "127868145",
+            "date": "2018-04-16",
+            "transactionId": "1261",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "736.798886"
         }
     ],
     "pageNumber": 2
