@@ -496,6 +496,30 @@
             "transactionRevenue": "1818.0"
         },
         {
+            "id": "c09acec0912ee4fcbc3a0b4a6519ecef898b5d56",
+            "idProfile": "127868145",
+            "date": "2018-04-17",
+            "transactionId": "1271",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1628.0"
+        },
+        {
+            "id": "169fcbb8a81076be5d8eec60819a52104cb44581",
+            "idProfile": "127868145",
+            "date": "2018-04-17",
+            "transactionId": "1275",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "transactions": "1",
+            "transactionRevenue": "828.0"
+        },
+        {
             "id": "217b687108c37391a13d4b8256d8235734eee83a",
             "idProfile": "127868145",
             "date": "2018-04-15",
