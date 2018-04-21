@@ -698,6 +698,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "828.0"
+        },
+        {
+            "id": "f07758f2bbfc994380409141c943a5d203c333bf",
+            "idProfile": "127868145",
+            "date": "2018-04-20",
+            "transactionId": "1277",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "848.0"
         }
     ],
     "pageNumber": 2
