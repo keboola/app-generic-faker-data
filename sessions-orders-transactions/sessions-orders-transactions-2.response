@@ -914,6 +914,30 @@
             "source": "Instagram",
             "transactions": "1",
             "transactionRevenue": "828.0"
+        },
+        {
+            "id": "aee1a7ba4a6ad1c3bf2fde588444464c9c6318d0",
+            "idProfile": "127868145",
+            "date": "2018-04-26",
+            "transactionId": "1296",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "transactions": "1",
+            "transactionRevenue": "711.0"
+        },
+        {
+            "id": "89a5b5e9ec082764ed6af05c144ae5d9c9eaca5b",
+            "idProfile": "127868145",
+            "date": "2018-04-26",
+            "transactionId": "1299",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "848.0"
         }
     ],
     "pageNumber": 2
