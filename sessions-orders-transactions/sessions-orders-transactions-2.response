@@ -496,6 +496,30 @@
             "transactionRevenue": "1818.0"
         },
         {
+            "id": "c9205203ca2469c094ac806371000dce658c2df8",
+            "idProfile": "127868145",
+            "date": "2018-04-29",
+            "transactionId": "1276",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "0",
+            "transactionRevenue": "0.0"
+        },
+        {
+            "id": "0dbb61106e64020d674cd8ca873d62e5d41cb813",
+            "idProfile": "127868145",
+            "date": "2018-04-29",
+            "transactionId": "1301",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "848.0"
+        },
+        {
             "id": "f5ecc0bac620b4cc1d433303428a3b290af148f4",
             "idProfile": "127868145",
             "date": "2018-04-25",
