@@ -1166,6 +1166,42 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "854.860334"
+        },
+        {
+            "id": "1c2433791a1baa51661d738c617a963b51829585",
+            "idProfile": "127868145",
+            "date": "2018-05-09",
+            "transactionId": "1313",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "856.060135"
+        },
+        {
+            "id": "966dddca0a9435193c9197a7b717f83ba2e08e90",
+            "idProfile": "127868145",
+            "date": "2018-05-09",
+            "transactionId": "1307",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "738.000498"
+        },
+        {
+            "id": "699fe2dc1836fe72576e7d8c7195381e5e8cc700",
+            "idProfile": "127868145",
+            "date": "2018-05-09",
+            "transactionId": "1319",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "transactions": "1",
+            "transactionRevenue": "538.0"
         }
     ],
     "pageNumber": 2
