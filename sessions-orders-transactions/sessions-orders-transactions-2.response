@@ -1202,6 +1202,42 @@
             "source": "glami.cz",
             "transactions": "1",
             "transactionRevenue": "538.0"
+        },
+        {
+            "id": "f45205f8be3c00622d6c101c4133ae08d241275b",
+            "idProfile": "127868145",
+            "date": "2018-05-10",
+            "transactionId": "1322",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "transactions": "1",
+            "transactionRevenue": "583.5"
+        },
+        {
+            "id": "05fc5934ce00c47d9a7891c4f4c3abdcaea85726",
+            "idProfile": "127868145",
+            "date": "2018-05-11",
+            "transactionId": "1323",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "575.0"
+        },
+        {
+            "id": "b5192afe77b3ba4d7b4a855d390e70b93ea0d665",
+            "idProfile": "127868145",
+            "date": "2018-05-10",
+            "transactionId": "1320",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "856.816071"
         }
     ],
     "pageNumber": 2
