@@ -14764,21 +14764,6 @@
             "sessions": "2"
         },
         {
-            "id": "cb084bd24e2cf7f4141f86bc8f0c1bdfac8a0035",
-            "idProfile": "127868145",
-            "date": "2018-05-11",
-            "source": "(direct)",
-            "medium": "(none)",
-            "country": "Czechia",
-            "city": "Prague",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "19",
-            "uniquePageviews": "14",
-            "newUsers": "0",
-            "sessions": "1"
-        },
-        {
             "id": "ef1887016282b14439ab1b41661f0b3ff220fb39",
             "idProfile": "127868145",
             "date": "2018-05-10",
@@ -15001,6 +14986,21 @@
             "pageviews": "1",
             "uniquePageviews": "1",
             "newUsers": "1",
+            "sessions": "1"
+        },
+        {
+            "id": "2ea9ab01c561a7d026eb6538f410029af5ab3697",
+            "idProfile": "127868145",
+            "date": "2018-05-10",
+            "source": "lifeisbetterinbikinis.net",
+            "medium": "referral",
+            "country": "Indonesia",
+            "city": "Surabaya",
+            "continent": "Asia",
+            "users": "1",
+            "pageviews": "2",
+            "uniquePageviews": "1",
+            "newUsers": "0",
             "sessions": "1"
         }
     ],
