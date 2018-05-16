@@ -496,6 +496,18 @@
             "transactionRevenue": "1818.0"
         },
         {
+            "id": "9054dba7387ee17d1c9d75de66ce0d29cc05b7b6",
+            "idProfile": "127868145",
+            "date": "2018-05-15",
+            "transactionId": "1329",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "863.721753"
+        },
+        {
             "id": "77b5b07c3d0171df1ebe5fc3b64a125c196a6ddd",
             "idProfile": "127868145",
             "date": "2018-05-03",
@@ -1286,6 +1298,18 @@
             "source": "lifeisbetterinbikinis.net",
             "transactions": "1",
             "transactionRevenue": "770.0"
+        },
+        {
+            "id": "a7ebf3ffe31ea885c6eae23c07f0b4e9dc1a6055",
+            "idProfile": "127868145",
+            "date": "2018-05-14",
+            "transactionId": "1328",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "999.0"
         }
     ],
     "pageNumber": 2
