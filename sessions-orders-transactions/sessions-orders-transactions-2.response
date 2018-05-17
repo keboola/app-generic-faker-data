@@ -1310,6 +1310,30 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "999.0"
+        },
+        {
+            "id": "e6c925fcad5194ec40e63e28cb27f52352ca3d09",
+            "idProfile": "127868145",
+            "date": "2018-05-16",
+            "transactionId": "1331",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "862.0"
+        },
+        {
+            "id": "9d063e44b223ba3b0344671941ad1d84883b31a6",
+            "idProfile": "127868145",
+            "date": "2018-05-16",
+            "transactionId": "1330",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "750.0"
         }
     ],
     "pageNumber": 2
