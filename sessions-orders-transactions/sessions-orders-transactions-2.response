@@ -496,6 +496,42 @@
             "transactionRevenue": "1818.0"
         },
         {
+            "id": "0919122e91f90a4c31035345fa49958308b16d52",
+            "idProfile": "127868145",
+            "date": "2018-05-17",
+            "transactionId": "1333",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "transactions": "1",
+            "transactionRevenue": "1379.0"
+        },
+        {
+            "id": "4cbbb9b6171a55740fda0e426fadec08aad1fe95",
+            "idProfile": "127868145",
+            "date": "2018-05-17",
+            "transactionId": "1334",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1048.0"
+        },
+        {
+            "id": "edd0699127f5517ec347c666ccc01a9f9484bbbd",
+            "idProfile": "127868145",
+            "date": "2018-05-17",
+            "transactionId": "1332",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1232.5"
+        },
+        {
             "id": "9054dba7387ee17d1c9d75de66ce0d29cc05b7b6",
             "idProfile": "127868145",
             "date": "2018-05-15",
