@@ -1406,6 +1406,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "750.0"
+        },
+        {
+            "id": "d0bdd504227971ca301f8f000ebb617f691a3ef1",
+            "idProfile": "127868145",
+            "date": "2018-05-20",
+            "transactionId": "1338",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "2018.0"
         }
     ],
     "pageNumber": 2
