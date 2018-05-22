@@ -1418,6 +1418,30 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "2018.0"
+        },
+        {
+            "id": "db63f49bf905dbfb81e61c160712494c05d46d56",
+            "idProfile": "127868145",
+            "date": "2018-05-21",
+            "transactionId": "1321",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1190.0"
+        },
+        {
+            "id": "b545195ae991196efb1c8c09c97ce20aa2112e75",
+            "idProfile": "127868145",
+            "date": "2018-05-21",
+            "transactionId": "1339",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "848.0"
         }
     ],
     "pageNumber": 2
