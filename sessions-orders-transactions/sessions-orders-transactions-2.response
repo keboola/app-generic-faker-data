@@ -1442,6 +1442,30 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "848.0"
+        },
+        {
+            "id": "4231fd651b796dc3d22b0d7afaa73ed1e9ec476a",
+            "idProfile": "127868145",
+            "date": "2018-05-22",
+            "transactionId": "1340",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1300.0"
+        },
+        {
+            "id": "d50aa971bb512c6dd7c542633660548b77922051",
+            "idProfile": "127868145",
+            "date": "2018-05-23",
+            "transactionId": "1342",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "565.0"
         }
     ],
     "pageNumber": 2
