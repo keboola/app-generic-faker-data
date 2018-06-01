@@ -1622,6 +1622,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "1430.0"
+        },
+        {
+            "id": "5cf239afda988b4d22f27f1a419ffac23cc9b975",
+            "idProfile": "127868145",
+            "date": "2018-05-31",
+            "transactionId": "1356",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "referral",
+            "source": "lm.facebook.com",
+            "transactions": "1",
+            "transactionRevenue": "294.187298"
         }
     ],
     "pageNumber": 2
