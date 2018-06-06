@@ -1718,6 +1718,42 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "998.0"
+        },
+        {
+            "id": "fe43cc555a3adc89637b0c0f13ada3bc23816d08",
+            "idProfile": "127868145",
+            "date": "2018-06-05",
+            "transactionId": "1366",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "668.0"
+        },
+        {
+            "id": "adca12737b0263f3c8d28b6b5a11d2b31005d8cf",
+            "idProfile": "127868145",
+            "date": "2018-06-05",
+            "transactionId": "1365",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "818.976172"
+        },
+        {
+            "id": "cdf0621b77df8298ff29f365b7d7f340e98db4bf",
+            "idProfile": "127868145",
+            "date": "2018-06-05",
+            "transactionId": "1361",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "558.0"
         }
     ],
     "pageNumber": 2
