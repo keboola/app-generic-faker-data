@@ -1778,6 +1778,18 @@
             "source": "(direct)",
             "transactions": "0",
             "transactionRevenue": "0.0"
+        },
+        {
+            "id": "fea5de087e01bf54978b89da85697ec38d5e0dba",
+            "idProfile": "127868145",
+            "date": "2018-06-09",
+            "transactionId": "1368",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "2",
+            "transactionRevenue": "1804.0"
         }
     ],
     "pageNumber": 2
