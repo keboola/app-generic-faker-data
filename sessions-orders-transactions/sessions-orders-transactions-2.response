@@ -1814,6 +1814,30 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "1312.0"
+        },
+        {
+            "id": "8bba4a854c9ee760946784ca8dada747d0cbaa41",
+            "idProfile": "127868145",
+            "date": "2018-06-13",
+            "transactionId": "1371",
+            "deviceCategory": "desktop",
+            "browser": "Internet Explorer",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "transactions": "1",
+            "transactionRevenue": "1300.0"
+        },
+        {
+            "id": "185ecf16f977c06d7f2cdfb629e0277965e3e705",
+            "idProfile": "127868145",
+            "date": "2018-06-13",
+            "transactionId": "1372",
+            "deviceCategory": "desktop",
+            "browser": "Internet Explorer",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "443.27339"
         }
     ],
     "pageNumber": 2
