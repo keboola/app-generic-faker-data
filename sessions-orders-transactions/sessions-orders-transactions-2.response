@@ -1898,6 +1898,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "888.0"
+        },
+        {
+            "id": "5fd1a504d2f336795d0b5c017278a3cc7597da51",
+            "idProfile": "127868145",
+            "date": "2018-06-19",
+            "transactionId": "1381",
+            "deviceCategory": "tablet",
+            "browser": "Safari",
+            "medium": "email",
+            "source": "FB subscribers",
+            "transactions": "1",
+            "transactionRevenue": "1764.0"
         }
     ],
     "pageNumber": 2
