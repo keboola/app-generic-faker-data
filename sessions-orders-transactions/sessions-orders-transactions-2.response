@@ -1910,6 +1910,78 @@
             "source": "FB subscribers",
             "transactions": "1",
             "transactionRevenue": "1764.0"
+        },
+        {
+            "id": "60c53503b8466e427f0bbc17e7bbbfd1ff0c6811",
+            "idProfile": "127868145",
+            "date": "2018-06-20",
+            "transactionId": "1382",
+            "deviceCategory": "mobile",
+            "browser": "Android Webview",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "888.0"
+        },
+        {
+            "id": "664e3923f2d9fd7496e063177461b611d15d7cef",
+            "idProfile": "127868145",
+            "date": "2018-06-20",
+            "transactionId": "1383",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "745.0"
+        },
+        {
+            "id": "a9bcf71618f2ae385f01ccaada9a4dc26527b5fd",
+            "idProfile": "127868145",
+            "date": "2018-06-20",
+            "transactionId": "1384",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "745.0"
+        },
+        {
+            "id": "9ded53f573c7ebcbb92529863155c564e60e8fc2",
+            "idProfile": "127868145",
+            "date": "2018-06-20",
+            "transactionId": "1377",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
+        },
+        {
+            "id": "71a4e514c8f3b202a368e06bb90113db11997cd0",
+            "idProfile": "127868145",
+            "date": "2018-06-20",
+            "transactionId": "1378",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
+        },
+        {
+            "id": "57e166a4158041006ad4a4b408fa3c62c4b484fe",
+            "idProfile": "127868145",
+            "date": "2018-06-20",
+            "transactionId": "1385",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "906.13377"
         }
     ],
     "pageNumber": 2
