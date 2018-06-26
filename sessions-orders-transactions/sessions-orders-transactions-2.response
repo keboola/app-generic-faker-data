@@ -1982,6 +1982,30 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "906.13377"
+        },
+        {
+            "id": "9f06976f640d598932edc8c91906c8b8b7510fdd",
+            "idProfile": "127868145",
+            "date": "2018-06-25",
+            "transactionId": "1386",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1230.0"
+        },
+        {
+            "id": "f05d6398ba4d31714e73bd90f6223397a8b211ab",
+            "idProfile": "127868145",
+            "date": "2018-06-25",
+            "transactionId": "1387",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "888.0"
         }
     ],
     "pageNumber": 2
