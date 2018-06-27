@@ -2006,6 +2006,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "888.0"
+        },
+        {
+            "id": "9533944240219f5a7a1597e62df8288181d099c1",
+            "idProfile": "127868145",
+            "date": "2018-06-26",
+            "transactionId": "1388",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
         }
     ],
     "pageNumber": 2
