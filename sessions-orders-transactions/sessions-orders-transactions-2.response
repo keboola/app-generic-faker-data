@@ -2018,6 +2018,18 @@
             "source": "Instagram",
             "transactions": "1",
             "transactionRevenue": "868.0"
+        },
+        {
+            "id": "bc73de96a1f2e876edb4be12af5ce57731c870d0",
+            "idProfile": "127868145",
+            "date": "2018-06-27",
+            "transactionId": "1390",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "transactions": "1",
+            "transactionRevenue": "1258.762176"
         }
     ],
     "pageNumber": 2
