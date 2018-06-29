@@ -2030,6 +2030,54 @@
             "source": "l.facebook.com",
             "transactions": "1",
             "transactionRevenue": "1258.762176"
+        },
+        {
+            "id": "250790fc1de3b1eaab81ba58afebe17af9ae7671",
+            "idProfile": "127868145",
+            "date": "2018-06-28",
+            "transactionId": "1392",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1298.0"
+        },
+        {
+            "id": "03abce11824ed4f68118483a26506ae2d0f2f866",
+            "idProfile": "127868145",
+            "date": "2018-06-28",
+            "transactionId": "1393",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1498.0"
+        },
+        {
+            "id": "738c5347db5626d191b19e20f91cf9747fbe562e",
+            "idProfile": "127868145",
+            "date": "2018-06-28",
+            "transactionId": "1394",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "1230.0"
+        },
+        {
+            "id": "84d58a2c0ea68627f3693e6b83b6d7b5c60e5fa5",
+            "idProfile": "127868145",
+            "date": "2018-06-28",
+            "transactionId": "1389",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1537.5"
         }
     ],
     "pageNumber": 2
