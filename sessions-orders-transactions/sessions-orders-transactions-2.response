@@ -2162,6 +2162,42 @@
             "source": "l.facebook.com",
             "transactions": "1",
             "transactionRevenue": "868.0"
+        },
+        {
+            "id": "68049d49ecb953bb50c48310f91f0890af025108",
+            "idProfile": "127868145",
+            "date": "2018-07-01",
+            "transactionId": "1401",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1230.0"
+        },
+        {
+            "id": "c6ee73daacb778d884ce9bbc397e422443c5aa53",
+            "idProfile": "127868145",
+            "date": "2018-07-01",
+            "transactionId": "1403",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1298.0"
+        },
+        {
+            "id": "29a9c32e9c90f7637af14a2f794ab4757d4e4573",
+            "idProfile": "127868145",
+            "date": "2018-07-01",
+            "transactionId": "1402",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1230.0"
         }
     ],
     "pageNumber": 2
