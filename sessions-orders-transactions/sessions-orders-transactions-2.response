@@ -2222,6 +2222,42 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "1378.0"
+        },
+        {
+            "id": "6c6b0e3b320b4251e7e1bafc33d7b3409681ba7f",
+            "idProfile": "127868145",
+            "date": "2018-07-09",
+            "transactionId": "1407",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "email",
+            "source": "GadoGado.cz registr\u00e1cia odberu noviniek",
+            "transactions": "1",
+            "transactionRevenue": "1850.0"
+        },
+        {
+            "id": "76d7ded36242068532c593a9e8859f00f365a450",
+            "idProfile": "127868145",
+            "date": "2018-07-09",
+            "transactionId": "1409",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1230.0"
+        },
+        {
+            "id": "5b59f21dad2a2692d27041afb2c37fc60c3d10cc",
+            "idProfile": "127868145",
+            "date": "2018-07-09",
+            "transactionId": "1408",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1640.0"
         }
     ],
     "pageNumber": 2
