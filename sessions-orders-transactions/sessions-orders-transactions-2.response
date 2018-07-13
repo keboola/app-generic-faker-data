@@ -2306,6 +2306,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "868.0"
+        },
+        {
+            "id": "a659ec2228e66ae83e6de5d77494c9d3dcb10036",
+            "idProfile": "127868145",
+            "date": "2018-07-12",
+            "transactionId": "1413",
+            "deviceCategory": "desktop",
+            "browser": "Edge",
+            "medium": "email",
+            "source": "Gadogado.cz registrace odb\u011bru novinek",
+            "transactions": "1",
+            "transactionRevenue": "820.0"
         }
     ],
     "pageNumber": 2
