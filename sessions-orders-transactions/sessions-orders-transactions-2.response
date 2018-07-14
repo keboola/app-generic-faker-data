@@ -2318,6 +2318,42 @@
             "source": "Gadogado.cz registrace odb\u011bru novinek",
             "transactions": "1",
             "transactionRevenue": "820.0"
+        },
+        {
+            "id": "676364d0d24d89c0739385f4d2b9aa53d11091e0",
+            "idProfile": "127868145",
+            "date": "2018-07-13",
+            "transactionId": "1417",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "35.35"
+        },
+        {
+            "id": "d3d6d010d201fc40fe250544dff7cd136f33f4ab",
+            "idProfile": "127868145",
+            "date": "2018-07-13",
+            "transactionId": "1415",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "895.0"
+        },
+        {
+            "id": "b70e0e086ad513ca0edaf32d9f1fdd11e9130c03",
+            "idProfile": "127868145",
+            "date": "2018-07-13",
+            "transactionId": "1416",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "medium": "cover",
+            "source": "facebook",
+            "transactions": "1",
+            "transactionRevenue": "1426.8"
         }
     ],
     "pageNumber": 2
