@@ -2402,6 +2402,66 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "621.701564"
+        },
+        {
+            "id": "3422a094831151658d2157de61002ed6b3027a21",
+            "idProfile": "127868145",
+            "date": "2018-07-16",
+            "transactionId": "1422",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "698.0"
+        },
+        {
+            "id": "5dc535654900b39020d64c2a04925b1da0a911fd",
+            "idProfile": "127868145",
+            "date": "2018-07-16",
+            "transactionId": "1424",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "658.0"
+        },
+        {
+            "id": "0fb22b5e369f1fd4cb9273d40f58e6b9ed13a889",
+            "idProfile": "127868145",
+            "date": "2018-07-16",
+            "transactionId": "1414",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "908.720453"
+        },
+        {
+            "id": "88546b147e66d73decd62bf65767924e23ad5753",
+            "idProfile": "127868145",
+            "date": "2018-07-16",
+            "transactionId": "1426",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "2470.0"
+        },
+        {
+            "id": "87511e6573807075e1aa0e132491bc1cd3fae427",
+            "idProfile": "127868145",
+            "date": "2018-07-16",
+            "transactionId": "1425",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "transactions": "1",
+            "transactionRevenue": "915.714595"
         }
     ],
     "pageNumber": 2
