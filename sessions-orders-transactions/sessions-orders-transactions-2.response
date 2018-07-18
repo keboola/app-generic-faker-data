@@ -2462,6 +2462,54 @@
             "source": "l.facebook.com",
             "transactions": "1",
             "transactionRevenue": "915.714595"
+        },
+        {
+            "id": "6dabc3945480b9837e4918ced59ce3918723983e",
+            "idProfile": "127868145",
+            "date": "2018-07-17",
+            "transactionId": "1429",
+            "deviceCategory": "mobile",
+            "browser": "Samsung Internet",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "2",
+            "transactionRevenue": "1736.0"
+        },
+        {
+            "id": "ef92a4606ebf249947f932cc27c8275ad87179f9",
+            "idProfile": "127868145",
+            "date": "2018-07-17",
+            "transactionId": "1427",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1850.0"
+        },
+        {
+            "id": "58d004ce3921d76b73758d4bd3848a83ab53d172",
+            "idProfile": "127868145",
+            "date": "2018-07-17",
+            "transactionId": "1428",
+            "deviceCategory": "mobile",
+            "browser": "Samsung Internet",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "478.0"
+        },
+        {
+            "id": "02b27eaf4d3e4a57e8370a61b1d3ca0a8f7853c3",
+            "idProfile": "127868145",
+            "date": "2018-07-17",
+            "transactionId": "1418",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "805.754108"
         }
     ],
     "pageNumber": 2
