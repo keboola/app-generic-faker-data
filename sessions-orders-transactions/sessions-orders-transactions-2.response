@@ -2510,6 +2510,30 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "805.754108"
+        },
+        {
+            "id": "dca9529f308bbd3624e72a2328b3e61822e6a286",
+            "idProfile": "127868145",
+            "date": "2018-07-20",
+            "transactionId": "1432",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
+        },
+        {
+            "id": "ad7329233d6668601559fe37e37a1b4e1487f90e",
+            "idProfile": "127868145",
+            "date": "2018-07-20",
+            "transactionId": "1431",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "2260.0"
         }
     ],
     "pageNumber": 2
