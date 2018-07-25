@@ -2558,6 +2558,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "738.0"
+        },
+        {
+            "id": "7637c514ccb71401088064c29c6e58145b9b7121",
+            "idProfile": "127868145",
+            "date": "2018-07-24",
+            "transactionId": "1434",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "906.479311"
         }
     ],
     "pageNumber": 2
