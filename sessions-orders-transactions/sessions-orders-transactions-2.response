@@ -2606,6 +2606,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "868.0"
+        },
+        {
+            "id": "4e0bf152d5e2b8e90cc3b3bbbba4d1b97d996dc4",
+            "idProfile": "127868145",
+            "date": "2018-07-26",
+            "transactionId": "1438",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "email",
+            "source": "GadoGado.cz z\u00e1kazn\u00edci",
+            "transactions": "1",
+            "transactionRevenue": "410.0"
         }
     ],
     "pageNumber": 2
