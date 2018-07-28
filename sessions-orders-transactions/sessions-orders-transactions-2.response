@@ -2618,6 +2618,18 @@
             "source": "GadoGado.cz z\u00e1kazn\u00edci",
             "transactions": "1",
             "transactionRevenue": "410.0"
+        },
+        {
+            "id": "b25173365b95660704287b6e4168c635fd72be38",
+            "idProfile": "127868145",
+            "date": "2018-07-27",
+            "transactionId": "1439",
+            "deviceCategory": "desktop",
+            "browser": "Internet Explorer",
+            "medium": "organic",
+            "source": "bing",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
         }
     ],
     "pageNumber": 2
