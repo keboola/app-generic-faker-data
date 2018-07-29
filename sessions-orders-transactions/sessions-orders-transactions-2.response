@@ -2630,6 +2630,30 @@
             "source": "bing",
             "transactions": "1",
             "transactionRevenue": "868.0"
+        },
+        {
+            "id": "850d8d176476bddf04700c7ba37683139fafdf81",
+            "idProfile": "127868145",
+            "date": "2018-07-28",
+            "transactionId": "1440",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "888.0"
+        },
+        {
+            "id": "fa45e60eb3d4ff39d6b4dfb3d36c889b88823623",
+            "idProfile": "127868145",
+            "date": "2018-07-28",
+            "transactionId": "1441",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "email",
+            "source": "FB subscribers",
+            "transactions": "1",
+            "transactionRevenue": "1287.0"
         }
     ],
     "pageNumber": 2
