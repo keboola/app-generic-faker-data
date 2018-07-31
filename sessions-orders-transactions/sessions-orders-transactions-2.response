@@ -2654,6 +2654,18 @@
             "source": "FB subscribers",
             "transactions": "1",
             "transactionRevenue": "1287.0"
+        },
+        {
+            "id": "de59abab390ee22029aafc55bfb89ca0b0f44469",
+            "idProfile": "127868145",
+            "date": "2018-07-30",
+            "transactionId": "1442",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1080.0"
         }
     ],
     "pageNumber": 2
