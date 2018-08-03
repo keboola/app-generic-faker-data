@@ -2702,6 +2702,30 @@
             "source": "lifeisbetterinbikinis.net",
             "transactions": "1",
             "transactionRevenue": "820.0"
+        },
+        {
+            "id": "7fade0e61309b3bd27c1882989b1b684ccde715d",
+            "idProfile": "127868145",
+            "date": "2018-08-02",
+            "transactionId": "1446",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "888.0"
+        },
+        {
+            "id": "7fb4f2aec913cbabe73ae361b10884758c67b045",
+            "idProfile": "127868145",
+            "date": "2018-08-02",
+            "transactionId": "1447",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "1529.0"
         }
     ],
     "pageNumber": 2
