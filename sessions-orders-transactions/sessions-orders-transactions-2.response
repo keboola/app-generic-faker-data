@@ -2750,6 +2750,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "742.0"
+        },
+        {
+            "id": "53251c8f0c98250807528d2eb2c8f17d8601d013",
+            "idProfile": "127868145",
+            "date": "2018-08-04",
+            "transactionId": "1451",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "678.0"
         }
     ],
     "pageNumber": 2
