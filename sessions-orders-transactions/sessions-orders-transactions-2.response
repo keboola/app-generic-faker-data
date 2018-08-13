@@ -2906,6 +2906,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "1430.0"
+        },
+        {
+            "id": "f49a7f817c02618623a156c9260afdffacf8cac3",
+            "idProfile": "127868145",
+            "date": "2018-08-12",
+            "transactionId": "1462",
+            "deviceCategory": "desktop",
+            "browser": "Internet Explorer",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "transactions": "1",
+            "transactionRevenue": "902.0"
         }
     ],
     "pageNumber": 2
