@@ -2942,6 +2942,18 @@
             "source": "Instagram",
             "transactions": "1",
             "transactionRevenue": "868.0"
+        },
+        {
+            "id": "ca0564cbe3798ca46c099b1df050fb1b278a9bff",
+            "idProfile": "127868145",
+            "date": "2018-08-14",
+            "transactionId": "1465",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "medium": "cover",
+            "source": "facebook",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
         }
     ],
     "pageNumber": 2
