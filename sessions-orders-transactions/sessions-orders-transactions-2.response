@@ -3050,6 +3050,18 @@
             "source": "(direct)",
             "transactions": "0",
             "transactionRevenue": "0.0"
+        },
+        {
+            "id": "3cdcfff293c68afae4672f578da4ff46b123045f",
+            "idProfile": "127868145",
+            "date": "2018-08-24",
+            "transactionId": "1472",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
         }
     ],
     "pageNumber": 2
