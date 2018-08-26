@@ -3062,6 +3062,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "868.0"
+        },
+        {
+            "id": "d068bd235164113f487ae0cf1bb34634bf8489be",
+            "idProfile": "127868145",
+            "date": "2018-08-25",
+            "transactionId": "1473",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
         }
     ],
     "pageNumber": 2
