@@ -3074,6 +3074,30 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "868.0"
+        },
+        {
+            "id": "54f5831b93d6a6e665769a212bc35dc10b03eb3b",
+            "idProfile": "127868145",
+            "date": "2018-08-26",
+            "transactionId": "1474",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
+        },
+        {
+            "id": "f4e923c0c2cdc6be5faf4a1970d59d7c84d6bb9e",
+            "idProfile": "127868145",
+            "date": "2018-08-26",
+            "transactionId": "1475",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "689.0"
         }
     ],
     "pageNumber": 2
