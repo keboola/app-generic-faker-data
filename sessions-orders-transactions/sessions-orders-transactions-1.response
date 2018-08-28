@@ -4,6 +4,42 @@
     "lastPage": false,
     "items": [
         {
+            "id": "d3ee43d7fb4c8b392fd42d3805dcbdd5cb7796a8",
+            "idProfile": "127868145",
+            "date": "2018-08-27",
+            "transactionId": "1477",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
+        },
+        {
+            "id": "d95f568e79cb93c2e99657f86b2171a4b0e290e1",
+            "idProfile": "127868145",
+            "date": "2018-08-27",
+            "transactionId": "1478",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1040.0"
+        },
+        {
+            "id": "c5dbb63801616d009dca51e55ba68d33172f72a6",
+            "idProfile": "127868145",
+            "date": "2018-08-27",
+            "transactionId": "1476",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "910.290864"
+        },
+        {
             "id": "9f19561c5fd6bf3873db35bf2b1500db5ef5247f",
             "idProfile": "127868145",
             "date": "2018-04-13",
@@ -11966,42 +12002,6 @@
             "source": "Gado Gado customers - automation export - do not touch",
             "transactions": "1",
             "transactionRevenue": "473.0"
-        },
-        {
-            "id": "89638ebec6f5c783264c11490932b762e5ec0765",
-            "idProfile": "127868145",
-            "date": "2017-11-24",
-            "transactionId": "959",
-            "deviceCategory": "desktop",
-            "browser": "Internet Explorer",
-            "medium": "(none)",
-            "source": "(direct)",
-            "transactions": "1",
-            "transactionRevenue": "799.0"
-        },
-        {
-            "id": "f3f7e3a0ba4536093f593ad9880be2a93bf90901",
-            "idProfile": "127868145",
-            "date": "2017-12-10",
-            "transactionId": "1015",
-            "deviceCategory": "mobile",
-            "browser": "Safari",
-            "medium": "organic",
-            "source": "google",
-            "transactions": "1",
-            "transactionRevenue": "795.0"
-        },
-        {
-            "id": "dc23b18596498b13fecda637f0d614c07a6da032",
-            "idProfile": "127868145",
-            "date": "2017-02-09",
-            "transactionId": "433",
-            "deviceCategory": "mobile",
-            "browser": "Safari",
-            "medium": "organic",
-            "source": "google",
-            "transactions": "1",
-            "transactionRevenue": "528.0"
         }
     ],
     "pageNumber": 1

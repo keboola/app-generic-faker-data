@@ -4,6 +4,42 @@
     "lastPage": true,
     "items": [
         {
+            "id": "89638ebec6f5c783264c11490932b762e5ec0765",
+            "idProfile": "127868145",
+            "date": "2017-11-24",
+            "transactionId": "959",
+            "deviceCategory": "desktop",
+            "browser": "Internet Explorer",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "799.0"
+        },
+        {
+            "id": "f3f7e3a0ba4536093f593ad9880be2a93bf90901",
+            "idProfile": "127868145",
+            "date": "2017-12-10",
+            "transactionId": "1015",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "795.0"
+        },
+        {
+            "id": "dc23b18596498b13fecda637f0d614c07a6da032",
+            "idProfile": "127868145",
+            "date": "2017-02-09",
+            "transactionId": "433",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "528.0"
+        },
+        {
             "id": "a6074f2a4c29855b95b340cb1dbf65d4a649eb71",
             "idProfile": "127868145",
             "date": "2017-11-03",
