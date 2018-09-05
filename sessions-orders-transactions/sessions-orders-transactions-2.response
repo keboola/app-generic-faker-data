@@ -3170,6 +3170,30 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "678.0"
+        },
+        {
+            "id": "d47d9357549019b24fb1d151a32f889607e71eed",
+            "idProfile": "127868145",
+            "date": "2018-09-04",
+            "transactionId": "1482",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "27.18"
+        },
+        {
+            "id": "25729b21e8f7ff77dfb34b9c999a746e1279779f",
+            "idProfile": "127868145",
+            "date": "2018-09-04",
+            "transactionId": "1483",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
         }
     ],
     "pageNumber": 2
