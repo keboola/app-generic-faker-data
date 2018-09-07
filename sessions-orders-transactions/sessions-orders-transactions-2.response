@@ -3218,6 +3218,30 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "868.0"
+        },
+        {
+            "id": "5a7d76abe780381337a5b4ceba68d0d2a75a4ac9",
+            "idProfile": "127868145",
+            "date": "2018-09-06",
+            "transactionId": "1486",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
+        },
+        {
+            "id": "642cd750432c0de59bbfd9645cd85c25466aab19",
+            "idProfile": "127868145",
+            "date": "2018-09-06",
+            "transactionId": "1487",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "email",
+            "source": "FB subscribers",
+            "transactions": "2",
+            "transactionRevenue": "4620.0"
         }
     ],
     "pageNumber": 2
