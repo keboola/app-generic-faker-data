@@ -3242,6 +3242,18 @@
             "source": "FB subscribers",
             "transactions": "2",
             "transactionRevenue": "4620.0"
+        },
+        {
+            "id": "e7df73a92c0bca040fb24f8b1112d1be54ea49f0",
+            "idProfile": "127868145",
+            "date": "2018-09-07",
+            "transactionId": "1488",
+            "deviceCategory": "desktop",
+            "browser": "Edge",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "696.002474"
         }
     ],
     "pageNumber": 2
