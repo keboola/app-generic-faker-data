@@ -3290,6 +3290,30 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "1430.0"
+        },
+        {
+            "id": "5e743d764af5df7dda480fb82b27f29d90319b12",
+            "idProfile": "127868145",
+            "date": "2018-09-19",
+            "transactionId": "1492",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "2460.0"
+        },
+        {
+            "id": "78a1052de809638687cdee4bc90c41732a96d57d",
+            "idProfile": "127868145",
+            "date": "2018-09-19",
+            "transactionId": "1493",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "888.0"
         }
     ],
     "pageNumber": 2
