@@ -3314,6 +3314,30 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "888.0"
+        },
+        {
+            "id": "a3b80ce49a4be87cc47f95397629f50218780039",
+            "idProfile": "127868145",
+            "date": "2018-09-21",
+            "transactionId": "1495",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
+        },
+        {
+            "id": "5149348d6f8192471e77ca78ae34a336ad84b649",
+            "idProfile": "127868145",
+            "date": "2018-09-21",
+            "transactionId": "1494",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1655.687847"
         }
     ],
     "pageNumber": 2
