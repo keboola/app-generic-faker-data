@@ -3338,6 +3338,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "1655.687847"
+        },
+        {
+            "id": "e02da7c2987356d5f2690c6a3f982812899889a3",
+            "idProfile": "127868145",
+            "date": "2018-09-25",
+            "transactionId": "1496",
+            "deviceCategory": "mobile",
+            "browser": "Android Webview",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "888.0"
         }
     ],
     "pageNumber": 2
