@@ -3350,6 +3350,18 @@
             "source": "Instagram",
             "transactions": "1",
             "transactionRevenue": "888.0"
+        },
+        {
+            "id": "662839e99516ca692c19461a6d523c9f49100fa0",
+            "idProfile": "127868145",
+            "date": "2018-09-25",
+            "transactionId": "1497",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "medium": "referral",
+            "source": "m.facebook.com",
+            "transactions": "1",
+            "transactionRevenue": "1498.0"
         }
     ],
     "pageNumber": 2
