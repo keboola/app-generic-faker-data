@@ -2980,6 +2980,18 @@
             "transactionRevenue": "868.0"
         },
         {
+            "id": "bfc6d32f9c06461ba0cc9d30b91d4cba6f5b8144",
+            "idProfile": "127868145",
+            "date": "2018-10-06",
+            "transactionId": "1505",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
+        },
+        {
             "id": "ca0564cbe3798ca46c099b1df050fb1b278a9bff",
             "idProfile": "127868145",
             "date": "2018-08-14",
