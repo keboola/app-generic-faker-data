@@ -14974,21 +14974,6 @@
             "sessions": "1"
         },
         {
-            "id": "136f9e03a1f54140746f8158ca502cd4a6b8777f",
-            "idProfile": "127868145",
-            "date": "2018-10-10",
-            "source": "get-clickde.info",
-            "medium": "referral",
-            "country": "United Arab Emirates",
-            "city": "Dubai",
-            "continent": "Asia",
-            "users": "21",
-            "pageviews": "30",
-            "uniquePageviews": "21",
-            "newUsers": "21",
-            "sessions": "21"
-        },
-        {
             "id": "66dd8072a63d7fe09aa9e338441c3c7fa696b7e1",
             "idProfile": "127868145",
             "date": "2018-10-10",
@@ -14997,6 +14982,21 @@
             "country": "Australia",
             "city": "Sydney",
             "continent": "Oceania",
+            "users": "1",
+            "pageviews": "1",
+            "uniquePageviews": "1",
+            "newUsers": "0",
+            "sessions": "1"
+        },
+        {
+            "id": "d73a2dfb4d1df413a1810833e5e9b4045a34be0d",
+            "idProfile": "127868145",
+            "date": "2018-10-10",
+            "source": "instagram.com",
+            "medium": "referral",
+            "country": "Czechia",
+            "city": "Brno",
+            "continent": "Europe",
             "users": "1",
             "pageviews": "1",
             "uniquePageviews": "1",
