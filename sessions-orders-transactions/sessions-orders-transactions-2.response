@@ -3518,6 +3518,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "1107.0"
+        },
+        {
+            "id": "9df9ba8a86c962940764644130395e27ef00139a",
+            "idProfile": "127868145",
+            "date": "2018-10-14",
+            "transactionId": "1511",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "668.0"
         }
     ],
     "pageNumber": 2
