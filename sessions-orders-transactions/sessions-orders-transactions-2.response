@@ -3566,6 +3566,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "1430.0"
+        },
+        {
+            "id": "470a668cb04e07faf9a6793e1792a596aacc7ae2",
+            "idProfile": "127868145",
+            "date": "2018-10-25",
+            "transactionId": "1515",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "referral",
+            "source": "mail.google.com",
+            "transactions": "1",
+            "transactionRevenue": "1140.0"
         }
     ],
     "pageNumber": 2
