@@ -2980,6 +2980,66 @@
             "transactionRevenue": "868.0"
         },
         {
+            "id": "3cbf9cb031f1ce1cacd0d2ed3b0fc6eeb4329cfd",
+            "idProfile": "127868145",
+            "date": "2018-10-28",
+            "transactionId": "1507",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "0",
+            "transactionRevenue": "0.0"
+        },
+        {
+            "id": "dd3c0b2663568a3bd1bb691edf764530173b9a50",
+            "idProfile": "127868145",
+            "date": "2018-10-28",
+            "transactionId": "1519",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "787.636788"
+        },
+        {
+            "id": "93cfe5ca273b9603612d447d9430a234bbb4faed",
+            "idProfile": "127868145",
+            "date": "2018-10-28",
+            "transactionId": "1521",
+            "deviceCategory": "mobile",
+            "browser": "Android Webview",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "566.5"
+        },
+        {
+            "id": "b84a093b1972be625f185977f0ee4978f9ec5dc2",
+            "idProfile": "127868145",
+            "date": "2018-10-28",
+            "transactionId": "1522",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "300.950101"
+        },
+        {
+            "id": "44eff53c147ea8e9c3e62880bea4212aa898b82f",
+            "idProfile": "127868145",
+            "date": "2018-10-28",
+            "transactionId": "1520",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "765.0"
+        },
+        {
             "id": "bfc6d32f9c06461ba0cc9d30b91d4cba6f5b8144",
             "idProfile": "127868145",
             "date": "2018-10-06",
