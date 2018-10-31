@@ -3674,6 +3674,18 @@
             "source": "m.facebook.com",
             "transactions": "1",
             "transactionRevenue": "1957.587956"
+        },
+        {
+            "id": "5adfb1d44f0d54a05d80638cc48e4607db5ab294",
+            "idProfile": "127868145",
+            "date": "2018-10-30",
+            "transactionId": "1523",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "email",
+            "source": "Gado Gado customers - automation export - do not touch",
+            "transactions": "2",
+            "transactionRevenue": "1768.0"
         }
     ],
     "pageNumber": 2
