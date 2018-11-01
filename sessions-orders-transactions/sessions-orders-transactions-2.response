@@ -3686,6 +3686,30 @@
             "source": "Gado Gado customers - automation export - do not touch",
             "transactions": "2",
             "transactionRevenue": "1768.0"
+        },
+        {
+            "id": "64501f85aca97450dac7f155395bdb6ade3d2f49",
+            "idProfile": "127868145",
+            "date": "2018-10-31",
+            "transactionId": "1525",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "884.0"
+        },
+        {
+            "id": "30ae0f8eda4d7195e5e037a4a4772f8555769d5f",
+            "idProfile": "127868145",
+            "date": "2018-10-31",
+            "transactionId": "1524",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "426.005481"
         }
     ],
     "pageNumber": 2
