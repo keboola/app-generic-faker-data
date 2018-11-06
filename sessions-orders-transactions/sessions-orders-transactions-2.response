@@ -3734,6 +3734,18 @@
             "source": "(direct)",
             "transactions": "0",
             "transactionRevenue": "0.0"
+        },
+        {
+            "id": "d75e6d6d6db7082463ab0ae6bb1227e20e1612e1",
+            "idProfile": "127868145",
+            "date": "2018-11-05",
+            "transactionId": "1527",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
         }
     ],
     "pageNumber": 2
