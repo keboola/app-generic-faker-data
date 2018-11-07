@@ -14149,21 +14149,6 @@
             "sessions": "1"
         },
         {
-            "id": "3f6a6b1dc6abf81eacd7c3b56525082df2ce51ab",
-            "idProfile": "127868145",
-            "date": "2018-11-06",
-            "source": "google",
-            "medium": "cpc",
-            "country": "Czechia",
-            "city": "Pilsen",
-            "continent": "Europe",
-            "users": "1",
-            "pageviews": "1",
-            "uniquePageviews": "1",
-            "newUsers": "1",
-            "sessions": "1"
-        },
-        {
             "id": "000a40b9129e394b8798cb73a50f8ac93c39fb73",
             "idProfile": "127868145",
             "date": "2018-11-05",
@@ -14239,6 +14224,21 @@
             "sessions": "1"
         },
         {
+            "id": "3f6a6b1dc6abf81eacd7c3b56525082df2ce51ab",
+            "idProfile": "127868145",
+            "date": "2018-11-06",
+            "source": "google",
+            "medium": "cpc",
+            "country": "Czechia",
+            "city": "Pilsen",
+            "continent": "Europe",
+            "users": "2",
+            "pageviews": "4",
+            "uniquePageviews": "4",
+            "newUsers": "2",
+            "sessions": "2"
+        },
+        {
             "id": "265d0f4cc063e8d38ae04a8250240407066dc9b8",
             "idProfile": "127868145",
             "date": "2018-11-06",
@@ -14247,11 +14247,11 @@
             "country": "Czechia",
             "city": "Prague",
             "continent": "Europe",
-            "users": "1",
-            "pageviews": "3",
-            "uniquePageviews": "3",
-            "newUsers": "0",
-            "sessions": "1"
+            "users": "3",
+            "pageviews": "9",
+            "uniquePageviews": "9",
+            "newUsers": "2",
+            "sessions": "3"
         },
         {
             "id": "e109f91246bc32debce5dbc0c5e30d12f97ed97a",
