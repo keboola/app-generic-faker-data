@@ -4,6 +4,18 @@
     "lastPage": false,
     "items": [
         {
+            "id": "28e583f46f5bde93f3d8bc556b5541d6def372c7",
+            "idProfile": "127868145",
+            "date": "2018-11-09",
+            "transactionId": "1529",
+            "deviceCategory": "desktop",
+            "browser": "Internet Explorer",
+            "medium": "referral",
+            "source": "slevovykupon.net",
+            "transactions": "1",
+            "transactionRevenue": "1509.0"
+        },
+        {
             "id": "d3ee43d7fb4c8b392fd42d3805dcbdd5cb7796a8",
             "idProfile": "127868145",
             "date": "2018-08-27",
@@ -11990,18 +12002,6 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "1150.0"
-        },
-        {
-            "id": "c97fbb28c4c340e796a484ee8f8d6803d4c62034",
-            "idProfile": "127868145",
-            "date": "2017-11-03",
-            "transactionId": "903",
-            "deviceCategory": "mobile",
-            "browser": "Safari",
-            "medium": "email",
-            "source": "Gado Gado customers - automation export - do not touch",
-            "transactions": "1",
-            "transactionRevenue": "473.0"
         }
     ],
     "pageNumber": 1
