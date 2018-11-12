@@ -3770,6 +3770,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "692.0"
+        },
+        {
+            "id": "2cde85ce53d040e4511b44dab2797bc1529d8a74",
+            "idProfile": "127868145",
+            "date": "2018-11-11",
+            "transactionId": "1530",
+            "deviceCategory": "desktop",
+            "browser": "Firefox",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "868.0"
         }
     ],
     "pageNumber": 2
