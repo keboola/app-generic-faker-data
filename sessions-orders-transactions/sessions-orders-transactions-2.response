@@ -3842,6 +3842,66 @@
             "source": "FB subscribers",
             "transactions": "1",
             "transactionRevenue": "1040.0"
+        },
+        {
+            "id": "27d5f1970c1f13c5c2ede0cc1612fd1cf025d0f7",
+            "idProfile": "127868145",
+            "date": "2018-11-19",
+            "transactionId": "1539",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1040.86461"
+        },
+        {
+            "id": "173a3d52c8911f8584d74dc8f705539e27b6ded8",
+            "idProfile": "127868145",
+            "date": "2018-11-19",
+            "transactionId": "1535",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1040.0"
+        },
+        {
+            "id": "7b615a8c7022f9caa131e8b5ebbf6246a50ee16d",
+            "idProfile": "127868145",
+            "date": "2018-11-19",
+            "transactionId": "1538",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1040.86461"
+        },
+        {
+            "id": "dd12276d066ae593c8866b665cfd69b1134e29b6",
+            "idProfile": "127868145",
+            "date": "2018-11-19",
+            "transactionId": "1536",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1040.0"
+        },
+        {
+            "id": "1db559028b99b90fab988bd717f340da2d5bb39e",
+            "idProfile": "127868145",
+            "date": "2018-11-19",
+            "transactionId": "1541",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1040.0"
         }
     ],
     "pageNumber": 2
