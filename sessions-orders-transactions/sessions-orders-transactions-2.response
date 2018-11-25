@@ -3950,6 +3950,18 @@
             "source": "instagram.com",
             "transactions": "1",
             "transactionRevenue": "1788.0"
+        },
+        {
+            "id": "f665f5e7ca93cc5483b3ab81c8163e9bf6584c6f",
+            "idProfile": "127868145",
+            "date": "2018-11-24",
+            "transactionId": "1548",
+            "deviceCategory": "tablet",
+            "browser": "Safari",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "2576.804379"
         }
     ],
     "pageNumber": 2
