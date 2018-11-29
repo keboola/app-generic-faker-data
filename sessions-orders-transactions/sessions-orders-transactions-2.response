@@ -4106,6 +4106,30 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "2574.508958"
+        },
+        {
+            "id": "834054149e26ab8b88a86007921eda1c579d189a",
+            "idProfile": "127868145",
+            "date": "2018-11-28",
+            "transactionId": "1560",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "seznam",
+            "transactions": "1",
+            "transactionRevenue": "908.0"
+        },
+        {
+            "id": "5fda3ce13922041f06405ff30eb62747548b75e3",
+            "idProfile": "127868145",
+            "date": "2018-11-28",
+            "transactionId": "1559",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "926.503702"
         }
     ],
     "pageNumber": 2
