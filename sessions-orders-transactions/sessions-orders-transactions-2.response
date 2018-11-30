@@ -4130,6 +4130,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "926.503702"
+        },
+        {
+            "id": "f93f8de14d42252c03d9499044ac839328e59062",
+            "idProfile": "127868145",
+            "date": "2018-11-29",
+            "transactionId": "1561",
+            "deviceCategory": "tablet",
+            "browser": "Android Webview",
+            "medium": "referral",
+            "source": "m.facebook.com",
+            "transactions": "1",
+            "transactionRevenue": "917.091951"
         }
     ],
     "pageNumber": 2
