@@ -4166,6 +4166,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "688.0"
+        },
+        {
+            "id": "9beffc944a39d3bc5101e5253e832a896036cf57",
+            "idProfile": "127868145",
+            "date": "2018-12-01",
+            "transactionId": "1564",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "928.0"
         }
     ],
     "pageNumber": 2
