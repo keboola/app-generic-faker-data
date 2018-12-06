@@ -4238,6 +4238,30 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "928.0"
+        },
+        {
+            "id": "620098ac98cda95857df75b13d2ed61727c3e90b",
+            "idProfile": "127868145",
+            "date": "2018-12-05",
+            "transactionId": "1552",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "0",
+            "transactionRevenue": "0.0"
+        },
+        {
+            "id": "2fa4259c2b3c490a2e3bfb99ec13e02fa13bed20",
+            "idProfile": "127868145",
+            "date": "2018-12-05",
+            "transactionId": "1570",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "840.455936"
         }
     ],
     "pageNumber": 2
