@@ -4286,6 +4286,30 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "75.08"
+        },
+        {
+            "id": "ee24386609feb672f8bb837e77c8bcb0e31ac2ee",
+            "idProfile": "127868145",
+            "date": "2018-12-09",
+            "transactionId": "1576",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1950.0"
+        },
+        {
+            "id": "eb307ba04330d738e27eb80411983a95594ca33f",
+            "idProfile": "127868145",
+            "date": "2018-12-09",
+            "transactionId": "1575",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "2322.0"
         }
     ],
     "pageNumber": 2
