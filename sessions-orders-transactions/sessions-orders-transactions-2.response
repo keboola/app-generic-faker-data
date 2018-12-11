@@ -4310,6 +4310,66 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "2322.0"
+        },
+        {
+            "id": "c1d7f283deab2457c22a1d344853689beedce8e5",
+            "idProfile": "127868145",
+            "date": "2018-12-10",
+            "transactionId": "1577",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "712.0"
+        },
+        {
+            "id": "fd986b8396d2adab1b3d607500cc48e8e76c9d8d",
+            "idProfile": "127868145",
+            "date": "2018-12-10",
+            "transactionId": "1579",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1950.0"
+        },
+        {
+            "id": "35b2cb4ec3732724a842de4b0a06caba2c9116b9",
+            "idProfile": "127868145",
+            "date": "2018-12-10",
+            "transactionId": "1580",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1950.0"
+        },
+        {
+            "id": "0d863093e8f3ac0be00bfa4618ca8f6344986e73",
+            "idProfile": "127868145",
+            "date": "2018-12-10",
+            "transactionId": "1578",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "2018.0"
+        },
+        {
+            "id": "e54ac64306fe9ae3df4b6a143b339030dfa2dd91",
+            "idProfile": "127868145",
+            "date": "2018-12-10",
+            "transactionId": "1581",
+            "deviceCategory": "mobile",
+            "browser": "Android Webview",
+            "medium": "referral",
+            "source": "instagram.com",
+            "transactions": "1",
+            "transactionRevenue": "2018.0"
         }
     ],
     "pageNumber": 2
