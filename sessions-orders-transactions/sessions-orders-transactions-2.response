@@ -4574,6 +4574,18 @@
             "source": "l.facebook.com",
             "transactions": "1",
             "transactionRevenue": "458.0"
+        },
+        {
+            "id": "5d27f835349df3e3f9bea615361d1eb5bc758242",
+            "idProfile": "127868145",
+            "date": "2018-12-25",
+            "transactionId": "1596",
+            "deviceCategory": "mobile",
+            "browser": "Seznam",
+            "medium": "organic",
+            "source": "seznam",
+            "transactions": "1",
+            "transactionRevenue": "1379.0"
         }
     ],
     "pageNumber": 2
