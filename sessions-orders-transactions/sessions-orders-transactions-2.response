@@ -4586,6 +4586,18 @@
             "source": "seznam",
             "transactions": "1",
             "transactionRevenue": "1379.0"
+        },
+        {
+            "id": "6b3233d0fea99d105f54310425979cdc5ec39cdd",
+            "idProfile": "127868145",
+            "date": "2018-12-27",
+            "transactionId": "1597",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "1720.0"
         }
     ],
     "pageNumber": 2
