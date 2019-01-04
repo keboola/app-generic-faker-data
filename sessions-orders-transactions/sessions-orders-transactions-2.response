@@ -4216,6 +4216,78 @@
             "transactionRevenue": "935.0"
         },
         {
+            "id": "87cb72193aa418f3d3b11898de59051b2163c3e6",
+            "idProfile": "127868145",
+            "date": "2019-01-03",
+            "transactionId": "1605",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "678.0"
+        },
+        {
+            "id": "fddbc1a3f0c57eb7043376ae15ce425e38289472",
+            "idProfile": "127868145",
+            "date": "2019-01-03",
+            "transactionId": "1601",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "referral",
+            "source": "l.facebook.com",
+            "transactions": "1",
+            "transactionRevenue": "1173.0"
+        },
+        {
+            "id": "623d4a8ce393b8096d63a6cf16466ed6f238f48f",
+            "idProfile": "127868145",
+            "date": "2019-01-03",
+            "transactionId": "1602",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1450.119977"
+        },
+        {
+            "id": "d47991907a3b00788bc519ba12acf1658499da3c",
+            "idProfile": "127868145",
+            "date": "2019-01-03",
+            "transactionId": "1603",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1836.0"
+        },
+        {
+            "id": "0b39ade5e9e01627e112945e6322db64572cd99f",
+            "idProfile": "127868145",
+            "date": "2019-01-03",
+            "transactionId": "1604",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1904.0"
+        },
+        {
+            "id": "ff4d150d243bec420383018216124ed1c8852fd1",
+            "idProfile": "127868145",
+            "date": "2019-01-04",
+            "transactionId": "1606",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "1266.5"
+        },
+        {
             "id": "d0c404ccbcc46b05867a79ac3c733d036c9e7774",
             "idProfile": "127868145",
             "date": "2018-12-20",
