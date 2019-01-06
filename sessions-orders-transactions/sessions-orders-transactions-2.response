@@ -4718,6 +4718,30 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "48.76"
+        },
+        {
+            "id": "c22304054aa68929487cdd0620fc3d98cfac42bd",
+            "idProfile": "127868145",
+            "date": "2019-01-05",
+            "transactionId": "1608",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "575.0"
+        },
+        {
+            "id": "0e03beb5fc231af88270f7246a0befc5196be925",
+            "idProfile": "127868145",
+            "date": "2019-01-05",
+            "transactionId": "1609",
+            "deviceCategory": "mobile",
+            "browser": "Samsung Internet",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "794.161578"
         }
     ],
     "pageNumber": 2
