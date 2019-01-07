@@ -4742,6 +4742,54 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "794.161578"
+        },
+        {
+            "id": "62afebf9203620b4f3c3dfab923dbdcf8e2171ab",
+            "idProfile": "127868145",
+            "date": "2019-01-06",
+            "transactionId": "1610",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "779.0"
+        },
+        {
+            "id": "5cf7aba96be7d98260d81f96a9da22e28d302f59",
+            "idProfile": "127868145",
+            "date": "2019-01-06",
+            "transactionId": "1613",
+            "deviceCategory": "tablet",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "921.210589"
+        },
+        {
+            "id": "1e6fdb02ba72217326f10ceef7327eb87b5eb114",
+            "idProfile": "127868145",
+            "date": "2019-01-06",
+            "transactionId": "1612",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "928.0"
+        },
+        {
+            "id": "ac860981b712915c6f4e3bd11276d0fbddbe4127",
+            "idProfile": "127868145",
+            "date": "2019-01-06",
+            "transactionId": "1611",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "928.0"
         }
     ],
     "pageNumber": 2
