@@ -4898,6 +4898,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "1270.0"
+        },
+        {
+            "id": "44c87ef7efc611e2f7bb0f6b51a37766711a0b25",
+            "idProfile": "127868145",
+            "date": "2019-01-16",
+            "transactionId": "1622",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "603.5"
         }
     ],
     "pageNumber": 2
