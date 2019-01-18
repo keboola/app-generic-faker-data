@@ -4910,6 +4910,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "603.5"
+        },
+        {
+            "id": "43fd2c2055dfd4277e5ceffdf49e9322f2dfcf12",
+            "idProfile": "127868145",
+            "date": "2019-01-17",
+            "transactionId": "1624",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1312.712796"
         }
     ],
     "pageNumber": 2
