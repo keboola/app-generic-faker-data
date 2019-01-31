@@ -5030,6 +5030,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "1490.0"
+        },
+        {
+            "id": "b0a2bf3b0b1696f9aed841b900c013ba908ed7a7",
+            "idProfile": "127868145",
+            "date": "2019-01-30",
+            "transactionId": "1633",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1210.0"
         }
     ],
     "pageNumber": 2
