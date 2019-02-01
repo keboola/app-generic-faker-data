@@ -5042,6 +5042,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "1210.0"
+        },
+        {
+            "id": "64b4ac7571d8582ba8d558ff5d7feeeeb452a7d2",
+            "idProfile": "127868145",
+            "date": "2019-01-31",
+            "transactionId": "1634",
+            "deviceCategory": "tablet",
+            "browser": "Safari (in-app)",
+            "medium": "biolink",
+            "source": "Instagram",
+            "transactions": "1",
+            "transactionRevenue": "1950.0"
         }
     ],
     "pageNumber": 2
