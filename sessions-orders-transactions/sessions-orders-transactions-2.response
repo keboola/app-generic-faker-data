@@ -5066,6 +5066,18 @@
             "source": "(direct)",
             "transactions": "1",
             "transactionRevenue": "1325.096257"
+        },
+        {
+            "id": "9d8249a389a3c329d6cbf9de509c64d2d2e87762",
+            "idProfile": "127868145",
+            "date": "2019-02-06",
+            "transactionId": "1636",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "1335.0"
         }
     ],
     "pageNumber": 2
