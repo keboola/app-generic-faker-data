@@ -5150,6 +5150,42 @@
             "source": "Instagram",
             "transactions": "1",
             "transactionRevenue": "969.0"
+        },
+        {
+            "id": "a0ca119938f7c2b9c4fed30c7d075f0cf34ea692",
+            "idProfile": "127868145",
+            "date": "2019-02-17",
+            "transactionId": "1644",
+            "deviceCategory": "desktop",
+            "browser": "Chrome",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "938.0"
+        },
+        {
+            "id": "b45ac8e9049e980c9a6abb271a75c8296574457b",
+            "idProfile": "127868145",
+            "date": "2019-02-17",
+            "transactionId": "1643",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "cpc",
+            "source": "glami.cz",
+            "transactions": "1",
+            "transactionRevenue": "938.0"
+        },
+        {
+            "id": "4e1ffd7a80f21aa93e4f0e899f1f68901214a23a",
+            "idProfile": "127868145",
+            "date": "2019-02-17",
+            "transactionId": "1645",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "1950.0"
         }
     ],
     "pageNumber": 2
