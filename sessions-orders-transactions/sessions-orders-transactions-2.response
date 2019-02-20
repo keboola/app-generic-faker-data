@@ -5186,6 +5186,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "1950.0"
+        },
+        {
+            "id": "a3975178d477952ecf559efb8a4d41cdd4a1ce2c",
+            "idProfile": "127868145",
+            "date": "2019-02-19",
+            "transactionId": "1646",
+            "deviceCategory": "mobile",
+            "browser": "Samsung Internet",
+            "medium": "organic",
+            "source": "seznam",
+            "transactions": "2",
+            "transactionRevenue": "604.0"
         }
     ],
     "pageNumber": 2
