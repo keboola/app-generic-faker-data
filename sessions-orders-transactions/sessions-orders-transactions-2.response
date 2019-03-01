@@ -5234,6 +5234,18 @@
             "source": "seznam",
             "transactions": "2",
             "transactionRevenue": "604.0"
+        },
+        {
+            "id": "0ef628f48b2dcf7db5484c4e5605d0aa2a68b82f",
+            "idProfile": "127868145",
+            "date": "2019-02-28",
+            "transactionId": "1649",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "referral",
+            "source": "facebook.com",
+            "transactions": "1",
+            "transactionRevenue": "876.0"
         }
     ],
     "pageNumber": 2
