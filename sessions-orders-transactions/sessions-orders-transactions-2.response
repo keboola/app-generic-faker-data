@@ -5258,6 +5258,18 @@
             "source": "facebook.com",
             "transactions": "1",
             "transactionRevenue": "876.0"
+        },
+        {
+            "id": "c52fbd0a876e5b5a0bba75f5090bb5f3733241f0",
+            "idProfile": "127868145",
+            "date": "2019-03-06",
+            "transactionId": "1652",
+            "deviceCategory": "mobile",
+            "browser": "Safari",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "678.0"
         }
     ],
     "pageNumber": 2
