@@ -5342,6 +5342,42 @@
             "source": "Gado Gado main newsletter list",
             "transactions": "1",
             "transactionRevenue": "593.661827"
+        },
+        {
+            "id": "54c8bece76c7106bfd6fc12f2d73816551952b29",
+            "idProfile": "127868145",
+            "date": "2019-03-12",
+            "transactionId": "1659",
+            "deviceCategory": "mobile",
+            "browser": "Safari (in-app)",
+            "medium": "referral",
+            "source": "instagram.com",
+            "transactions": "1",
+            "transactionRevenue": "874.23781"
+        },
+        {
+            "id": "bed539be5ab92c601b74516b257b048ea2b33c82",
+            "idProfile": "127868145",
+            "date": "2019-03-12",
+            "transactionId": "1660",
+            "deviceCategory": "desktop",
+            "browser": "Safari",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "869.0"
+        },
+        {
+            "id": "cc58104c7ff7dddda729ee47af0ea899fff617f4",
+            "idProfile": "127868145",
+            "date": "2019-03-12",
+            "transactionId": "1655",
+            "deviceCategory": "desktop",
+            "browser": "(not set)",
+            "medium": "(none)",
+            "source": "(direct)",
+            "transactions": "1",
+            "transactionRevenue": "938.0"
         }
     ],
     "pageNumber": 2
