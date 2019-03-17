@@ -5390,6 +5390,18 @@
             "source": "google",
             "transactions": "1",
             "transactionRevenue": "633.0"
+        },
+        {
+            "id": "ca16d798989f2bc99b6d1d966867336a506f8b5c",
+            "idProfile": "127868145",
+            "date": "2019-03-16",
+            "transactionId": "1662",
+            "deviceCategory": "mobile",
+            "browser": "Chrome",
+            "medium": "organic",
+            "source": "google",
+            "transactions": "1",
+            "transactionRevenue": "37.54"
         }
     ],
     "pageNumber": 2
